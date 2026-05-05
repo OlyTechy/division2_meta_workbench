@@ -140,8 +140,6 @@ function App() {
         namedGear: `${base}/clean/namedGear.json`,
         skills: `${base}/data/skills.json`,
         weaponMods: `${base}/clean/weaponMods.json`,
-        specializations: `${base}/data/specialties.json`,
-        missingMappings: `${base}/data/missingMappings.json`,
         prompts: `${base}/clean/prompts.json`,
       };
 
@@ -159,8 +157,6 @@ function App() {
           continue;
         }
         // Special check for non-array types
-        if (dataType === 'missingMappings' && Object.keys(store.missingMappings || {}).length > 0)
-          continue;
         if (dataType === 'prompts' && store.prompts instanceof Map && store.prompts.size > 0)
           continue;
 
@@ -169,26 +165,18 @@ function App() {
           if (response.ok) {
             const data = await response.json();
 
-            // Special handling for specializations - convert object to array with names
-            let dataArray;
-            if (dataType === 'specializations') {
-              dataArray = Object.entries(data).map(([name, spec]) => ({
-                name,
-                ...(spec as object),
-              }));
-            } else if (dataType === 'missingMappings' || dataType === 'prompts') {
-              // missingMappings is a Record<string, GearModClassification>, not an array
-              // prompts is a Record<string, string>, not an array
+            // Special handling for non-array types (prompts is a Record<string, string>)
+            if (dataType === 'prompts') {
               const setterName = `set${dataType.charAt(0).toUpperCase() + dataType.slice(1)}`;
               if (store[setterName]) {
                 store[setterName](data);
                 console.log(`Loaded ${dataType} from ${filePath}`);
               }
               continue; // Skip the array handling below
-            } else {
-              // Convert object to array if needed
-              dataArray = Array.isArray(data) ? data : Object.values(data);
             }
+
+            // Convert object to array if needed
+            const dataArray = Array.isArray(data) ? data : Object.values(data);
 
             // Set data in store using the appropriate setter
             const setterName = `set${dataType.charAt(0).toUpperCase() + dataType.slice(1)}`;
