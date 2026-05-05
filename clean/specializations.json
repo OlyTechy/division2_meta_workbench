@@ -1,0 +1,280 @@
+[
+  {
+    "name": "Sharpshooter",
+    "bonuses": {
+      "headshot damage": 15,
+      "weapon stability": 15,
+      "pulse resistance": 50,
+      "signature weapon damage": 40,
+      "assault rifle damage": 15,
+      "lmg damage": 15,
+      "shotgun damage": 15,
+      "smg damage": 15,
+      "pistol damage": 15,
+      "mmr damage": 15,
+      "rifle damage": 15,
+      "headshot damage (scope)": 45,
+      "critical hit damage (scope)": -5
+    },
+    "stacks": [
+      {
+        "size": 1,
+        "talent": {
+          "name": "Sharpshooter Tactical Link",
+          "description": "All group members that are closer to enemies than you get 10% headshot damage."
+        },
+        "bonus": {
+          "headshot damage": 10
+        },
+        "duration": 0,
+        "cooldown": 0
+      }
+    ],
+    "benefits": {
+      "Emergency Cleanse": "Armor kits repair 100%, remove status effects and increase resistance to bleed, poison, and burn for 20s",
+      "Round After Round": "After 20s in cover, you start generating 5 marksman and 5 rifle ammo, every 10s.",
+      "My Home is My Castle": "Extra armor gained while in cover.",
+      ".50 Caliber Ammo Acquisition": "Killing enemies with headshots adds 2 to your groups ammo bar.",
+      "Group Signature Ammo Supply": "Killing enemies with headshots adds 1 to your groups ammo bar.",
+      "Tactician Drone": "Scouts and marks hostile targets",
+      "Graphene Battery": "Mod to increase drone's duration (Req: Tactician Drone)",
+      "Carbon Fiber Frame": "Mod to decrease drone's cooldown (Req: Graphene Battery)",
+      "Flashbang Grenade": "Applies blind to targets",
+      "Sharpshooter's 93R": "3-round burst pistol (Perfect Unwavering)",
+      "TAC-50 C Rifle": "Signature Weapon"
+    }
+  },
+  {
+    "name": "Survivalist",
+    "bonuses": {
+      "outgoing healing": 15,
+      "protection from elites": 10,
+      "pulse resistance": 50,
+      "assault rifle damage": 15,
+      "lmg damage": 15,
+      "shotgun damage": 15,
+      "smg damage": 15,
+      "pistol damage": 15,
+      "mmr damage": 15,
+      "rifle damage": 15
+    },
+    "stacks": [
+      {
+        "size": 1,
+        "talent": {
+          "name": "Survivalist Tactical Link",
+          "description": "Group members get 10% bonus damage to targets with status effects"
+        },
+        "bonus": {
+          "damage to status effects": 10
+        },
+        "duration": 0,
+        "cooldown": 0
+      },
+      {
+        "size": 1,
+        "talent": {
+          "name": "Crunch Time",
+          "description": "While in cover, gain 10% skill haste"
+        },
+        "bonus": {
+          "skill haste": 10
+        },
+        "duration": 0,
+        "cooldown": 0
+      }
+    ],
+    "benefits": {
+      "Disrupted Repair": "Repairs over 5 seconds; applies to group members within 20 meters",
+      "Scraping By": "Gain 5 ammo per second during cover-to-cover",
+      "Explosive Bolt Acquisition": "Killing enemies with status effects adds 3 to ammo bar.",
+      "Group Signature Ammo Supply": "Killing enemies with status effects adds 3 to group ammo bar.",
+      "Mender Seeker": "Follows allies, repairing armor",
+      "Incendiary Grenade": "Applies burn",
+      "Survivalist D50": "Precision pistol (Perfect Sadist)",
+      "Crossbow": "Signature Weapon"
+    }
+  },
+  {
+    "name": "Technician",
+    "bonuses": {
+      "skill tier": 1,
+      "skill damage": 10,
+      "skill healing": 10,
+      "damage to robotics": 12,
+      "assault rifle damage": 15,
+      "lmg damage": 15,
+      "shotgun damage": 15,
+      "smg damage": 15,
+      "pistol damage": 15,
+      "mmr damage": 15,
+      "rifle damage": 15
+    },
+    "stacks": [
+      {
+        "size": 1,
+        "talent": {
+          "name": "Technomancy",
+          "description": "Gain 15% bonus armor while aiming a skill"
+        },
+        "bonus": {
+          "bonus armor": 15
+        },
+        "duration": 0,
+        "cooldown": 0
+      }
+    ],
+    "benefits": {
+      "Emergency Patch": "Armor kit also applies to all friendly skill proxies within 10m",
+      "Faraday Field": "Allies within 5m of skills are immune to shock and disruption",
+      "Artificer Hive": "Repairs and buffs skills",
+      "P-017 Launcher": "Signature Weapon",
+      "Linked Laser Pointer": "Pulses aimed targets"
+    }
+  },
+  {
+    "name": "Gunner",
+    "bonuses": {
+      "assault rifle damage": 15,
+      "lmg damage": 15,
+      "shotgun damage": 15,
+      "smg damage": 15,
+      "pistol damage": 15,
+      "mmr damage": 15,
+      "rifle damage": 15
+    },
+    "stacks": [
+      {
+        "size": 1,
+        "talent": {
+          "name": "Barrage",
+          "description": "Rate of fire increases by 5% on kill for 5s"
+        },
+        "bonus": {
+          "rate of fire": 5
+        },
+        "duration": 5,
+        "cooldown": 0
+      },
+      {
+        "size": 1,
+        "talent": {
+          "name": "Incessant",
+          "description": "Killing enemies grants 10% armor"
+        },
+        "bonus": {
+          "armor on kill": 10
+        },
+        "duration": 0,
+        "cooldown": 0
+      },
+      {
+        "size": 1,
+        "talent": {
+          "name": "Emplacement",
+          "description": "10% weapon handling while motionless"
+        },
+        "bonus": {
+          "weapon handling": 10
+        },
+        "duration": 0,
+        "cooldown": 0
+      }
+    ],
+    "benefits": {
+      "Hardened Armor Kits": "Repairs 100% and grants 30% bonus armor for 10s",
+      "Supply Line": "Generate 10% ammo every 60s; party 5%",
+      "Coupler": "Every 3rd reload is 50% faster",
+      "Banshee Pulse": "Confuses enemies",
+      "Minigun": "Signature Weapon",
+      "Large Pouch": "50 additional rounds (LMG)"
+    }
+  },
+  {
+    "name": "Demolitionist",
+    "bonuses": {
+      "explosive damage": 10,
+      "assault rifle damage": 15,
+      "lmg damage": 15,
+      "shotgun damage": 15,
+      "smg damage": 15,
+      "pistol damage": 15,
+      "mmr damage": 15,
+      "rifle damage": 15,
+      "critical hit chance (laser)": 7
+    },
+    "stacks": [
+      {
+        "size": 1,
+        "talent": {
+          "name": "Demolitionist Tactical Link",
+          "description": "Group members gain 5% damage to targets out of cover"
+        },
+        "bonus": {
+          "dmg to target out of cover": 5
+        },
+        "duration": 0,
+        "cooldown": 0
+      }
+    ],
+    "benefits": {
+      "Stimulant Patch": "Armor kits repair 100% and boost weapon handling by 30% for 15s",
+      "Braced for Impact": "Ignore explosions (Trigger once every 60s)",
+      "Crisis Response": "When armor is reduced to zero, refills all main weapon ammo",
+      "Artillery Turret": "Mortar turret variant",
+      "Frag Grenade": "Applies Bleed",
+      "Diceros Special": "Pistol (Perfect Optimist)",
+      "M32A1 Launcher": "Signature Weapon"
+    }
+  },
+  {
+    "name": "Firewall",
+    "bonuses": {
+      "burn resistance": 20,
+      "burn duration": 20,
+      "health on kill": 30,
+      "assault rifle damage": 15,
+      "lmg damage": 15,
+      "shotgun damage": 15,
+      "smg damage": 15,
+      "pistol damage": 15,
+      "mmr damage": 15,
+      "rifle damage": 15,
+      "critical hit damage (grip)": 10
+    },
+    "stacks": [
+      {
+        "size": 1,
+        "talent": {
+          "name": "Firewall Tactical Link",
+          "description": "Allies deal 10% more damage to enemies within 10m of you"
+        },
+        "bonus": {
+          "damage to targets within 10m": 10
+        },
+        "duration": 0,
+        "cooldown": 0
+      },
+      {
+        "size": 1,
+        "talent": {
+          "name": "Bull Rush",
+          "description": "30% Bonus Armor during cover-to-cover moves"
+        },
+        "bonus": {
+          "bonus armor": 30
+        },
+        "duration": 0,
+        "cooldown": 0
+      }
+    ],
+    "benefits": {
+      "Extracellular Matrix Mesh": "Armor kit recovers 200% armor and 200% health over 10s",
+      "Fiery Response": "On armor break, apply burn to enemies within 5m",
+      "Striker Shield": "Offensive shield variant",
+      "Cluster Grenade": "Area of effect explosive",
+      "Firestarter Shotgun": "Sawed-Off (Increased Target Flammability)",
+      "Flamethrower": "Signature Weapon"
+    }
+  }
+]

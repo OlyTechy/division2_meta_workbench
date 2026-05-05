@@ -1,0 +1,1337 @@
+{
+  "Weapon Stats": [
+    {
+      "label": "DPS",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_divide",
+              "id": "Mp:(zc1p6n@U8GnD))*~",
+              "x": 30,
+              "y": 90,
+              "extraState": {
+                "inputs": 2
+              },
+              "inputs": {
+                "INPUT_0": {
+                  "block": {
+                    "type": "stat_multiply",
+                    "id": "t=tSgbToMB}*]*H!R$Vr",
+                    "extraState": {
+                      "inputs": 2
+                    },
+                    "inputs": {
+                      "INPUT_0": {
+                        "block": {
+                          "type": "stat_calculation",
+                          "id": "HI}WfAjM,!8.*5G2-G1k",
+                          "fields": {
+                            "CALC": "Weapon Damage"
+                          }
+                        }
+                      },
+                      "INPUT_1": {
+                        "block": {
+                          "type": "stat_percent_additive",
+                          "id": "1VV7W%C)MXWdr{WF:al^",
+                          "extraState": {
+                            "inputs": 2
+                          },
+                          "inputs": {
+                            "INPUT_0": {
+                              "block": {
+                                "type": "base_weapon",
+                                "id": "1@r6D?#[EbO=BSIGSt?!",
+                                "fields": {
+                                  "PROP": "rpm"
+                                }
+                              }
+                            },
+                            "INPUT_1": {
+                              "block": {
+                                "type": "stat_percent_all",
+                                "id": "Q`2d_)fqua?;=9hvnqwg",
+                                "fields": {
+                                  "ATTR": "rate of fire"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "INPUT_1": {
+                  "block": {
+                    "type": "stat_constant",
+                    "id": "X0!DeO,?hZBV|r.!=Z8G",
+                    "fields": {
+                      "VALUE": "60"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "type": "number",
+      "formula": "((getCalculation(\"Weapon Damage\") * (getBaseWeapon(\"rpm\") * (1 + (sumAll(\"rate of fire\") / 100)))) / 60);\n"
+    },
+    {
+      "label": "Weapon Damage",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_percent_additive",
+              "id": "L}0@N6./BU|3BJaOLMp7",
+              "x": 290,
+              "y": -10,
+              "extraState": {
+                "inputs": 2
+              },
+              "inputs": {
+                "INPUT_0": {
+                  "block": {
+                    "type": "base_weapon",
+                    "id": "a7!M=~gU0JGH#t5LOQ]^",
+                    "fields": {
+                      "PROP": "damage"
+                    }
+                  }
+                },
+                "INPUT_1": {
+                  "block": {
+                    "type": "stat_add",
+                    "id": "*}0=uN6DSFG3oJjTkQ__",
+                    "extraState": {
+                      "inputs": 2
+                    },
+                    "inputs": {
+                      "INPUT_0": {
+                        "block": {
+                          "type": "stat_multiply",
+                          "id": "!n{$N`km/)KMSG@2?D*S",
+                          "extraState": {
+                            "inputs": 2
+                          },
+                          "inputs": {
+                            "INPUT_0": {
+                              "block": {
+                                "type": "stat_core",
+                                "id": "h(WAyD8c[A2sukioW8gu",
+                                "fields": {
+                                  "CORE": "weapon damage"
+                                }
+                              }
+                            },
+                            "INPUT_1": {
+                              "block": {
+                                "type": "stat_constant",
+                                "id": "oE,XN{^4B6nA?)2Z)toJ",
+                                "fields": {
+                                  "VALUE": ".15"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "INPUT_1": {
+                        "block": {
+                          "type": "weapon_type_damage",
+                          "id": "B!$/^THrK_8DH[@US|0a"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "type": "number",
+      "formula": "(getBaseWeapon(\"damage\") * (1 + ((getCore(\"weapon damage\") * 0.15) + getWeaponTypeDamage())));\n"
+    },
+    {
+      "label": "PvP Weapon Damage",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_multiply",
+              "id": "9c[u/vY~`@HSc*9XXjO@",
+              "x": 110,
+              "y": 30,
+              "extraState": {
+                "inputs": 4
+              },
+              "inputs": {
+                "INPUT_0": {
+                  "block": {
+                    "type": "base_weapon",
+                    "id": "yk8bCOlqsGUnFyn*Y]uu",
+                    "fields": {
+                      "PROP": "damage"
+                    }
+                  }
+                },
+                "INPUT_1": {
+                  "block": {
+                    "type": "stat_core",
+                    "id": "p!,SEby{*;,2iHXwb2W(",
+                    "fields": {
+                      "CORE": "weapon damage"
+                    }
+                  }
+                },
+                "INPUT_2": {
+                  "block": {
+                    "type": "stat_constant",
+                    "id": "G;$J}rM~c5%xLsicqfY0",
+                    "fields": {
+                      "VALUE": ".15"
+                    }
+                  }
+                },
+                "INPUT_3": {
+                  "block": {
+                    "type": "stat_constant",
+                    "id": "dD|=jw=]/$Py=rzH$NTg",
+                    "fields": {
+                      "VALUE": ".45"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "type": "number",
+      "formula": "(getBaseWeapon(\"damage\") * getCore(\"weapon damage\") * 0.15 * 0.45);\n"
+    },
+    {
+      "label": "Critical Hit Chance",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_percent_all",
+              "id": "=85`$!oST;EyY!?JPU0K",
+              "x": 10,
+              "y": 150,
+              "fields": {
+                "ATTR": "critical hit chance"
+              }
+            }
+          ]
+        }
+      },
+      "type": "percent",
+      "formula": "(sumAll(\"critical hit chance\") / 100);\n"
+    },
+    {
+      "label": "Critical Hit Damage",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_percent_all",
+              "id": "jw~XLY${MRg9-Z03Fn5F",
+              "x": 10,
+              "y": 150,
+              "fields": {
+                "ATTR": "critical hit damage"
+              }
+            }
+          ]
+        }
+      },
+      "type": "percent",
+      "formula": "(sumAll(\"critical hit damage\") / 100);\n"
+    },
+    {
+      "label": "Head Shot Damage",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_multiply",
+              "id": "Tp,tqD2!KfNlv}$TN3.q",
+              "x": 50,
+              "y": 90,
+              "extraState": {
+                "inputs": 4
+              },
+              "inputs": {
+                "INPUT_0": {
+                  "block": {
+                    "type": "base_weapon",
+                    "id": "mdY,Gb{F4G!xP#vet#^u",
+                    "fields": {
+                      "PROP": "damage"
+                    }
+                  }
+                },
+                "INPUT_1": {
+                  "block": {
+                    "type": "stat_core",
+                    "id": "LN:%(pkQ?44jOzSMxU~-",
+                    "fields": {
+                      "CORE": "weapon damage"
+                    }
+                  }
+                },
+                "INPUT_2": {
+                  "block": {
+                    "type": "stat_add",
+                    "id": "IqAw/!`P6tFfiU;uaOAh",
+                    "extraState": {
+                      "inputs": 2
+                    },
+                    "inputs": {
+                      "INPUT_0": {
+                        "block": {
+                          "type": "stat_constant",
+                          "id": ";zUOKvypbt[^%#=/R+OQ",
+                          "fields": {
+                            "VALUE": "1"
+                          }
+                        }
+                      },
+                      "INPUT_1": {
+                        "block": {
+                          "type": "stat_multiply",
+                          "id": "A/0U772CiKmX2?rUXNpa",
+                          "extraState": {
+                            "inputs": 2
+                          },
+                          "inputs": {
+                            "INPUT_0": {
+                              "block": {
+                                "type": "base_weapon",
+                                "id": "0^fj}Ff|FOh2!ICKgpmA",
+                                "fields": {
+                                  "PROP": "hsd"
+                                }
+                              }
+                            },
+                            "INPUT_1": {
+                              "block": {
+                                "type": "stat_constant",
+                                "id": "EgP4P0@q!_4e*`Ye2~h5",
+                                "fields": {
+                                  "VALUE": ".01"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "INPUT_3": {
+                  "block": {
+                    "type": "stat_constant",
+                    "id": "vJ8u8}dKVBrIbAH=#Qgs",
+                    "fields": {
+                      "VALUE": ".15"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "type": "number",
+      "formula": "(getBaseWeapon(\"damage\") * getCore(\"weapon damage\") * (1 + (getBaseWeapon(\"hsd\") * 0.01)) * 0.15);\n"
+    },
+    {
+      "label": "Armor Damage",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_percent_all",
+              "id": "x2*E+:70e1#t)2g+|oWA",
+              "x": 250,
+              "y": 70,
+              "fields": {
+                "ATTR": "damage to armor"
+              }
+            }
+          ]
+        }
+      },
+      "type": "percent",
+      "formula": "(sumAll(\"damage to armor\") / 100);\n"
+    },
+    {
+      "label": "Health Damage",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_percent_all",
+              "id": "wN5f{)Ivag/M7!t;gy|7",
+              "x": 190,
+              "y": 70,
+              "fields": {
+                "ATTR": "health damage"
+              }
+            }
+          ]
+        }
+      },
+      "type": "percent",
+      "formula": "(sumAll(\"health damage\") / 100);\n"
+    },
+    {
+      "label": "Optimal Range",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_add",
+              "id": "Y;02=f/KgBJO-x^W.(Q#",
+              "x": 130,
+              "y": 90,
+              "extraState": {
+                "inputs": 2
+              },
+              "inputs": {
+                "INPUT_0": {
+                  "block": {
+                    "type": "stat_sum_all",
+                    "id": "82;yLsDN-7hrICYSbPmh",
+                    "fields": {
+                      "ATTR": "optimal range"
+                    }
+                  }
+                },
+                "INPUT_1": {
+                  "block": {
+                    "type": "base_weapon",
+                    "id": "HV?f$T*a3`V-FHaBmX]G",
+                    "fields": {
+                      "PROP": "optimalRange"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "type": "number",
+      "formula": "(sumAll(\"optimal range\") + getBaseWeapon(\"optimalRange\"));\n"
+    },
+    {
+      "label": "Reload Time",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_subtract",
+              "id": ")}8In(U8ZihsPjw3?E:U",
+              "x": 130,
+              "y": 30,
+              "extraState": {
+                "inputs": 2
+              },
+              "inputs": {
+                "INPUT_0": {
+                  "block": {
+                    "type": "base_weapon",
+                    "id": "bHCA;3!UXhYpG(!IpcxN",
+                    "fields": {
+                      "PROP": "reload"
+                    }
+                  }
+                },
+                "INPUT_1": {
+                  "block": {
+                    "type": "stat_multiply",
+                    "id": "pNQY(bWd|7w7*3d[5VkB",
+                    "extraState": {
+                      "inputs": 2
+                    },
+                    "inputs": {
+                      "INPUT_0": {
+                        "block": {
+                          "type": "base_weapon",
+                          "id": "B}`AkXZiB5Iroqb~*JN7",
+                          "fields": {
+                            "PROP": "reload"
+                          }
+                        }
+                      },
+                      "INPUT_1": {
+                        "block": {
+                          "type": "stat_add",
+                          "id": "GwgJw@nerev`_OQ-2y`Y",
+                          "extraState": {
+                            "inputs": 2
+                          },
+                          "inputs": {
+                            "INPUT_0": {
+                              "block": {
+                                "type": "stat_percent_all",
+                                "id": ":iE*_#UxZ`gnlodKi_do",
+                                "fields": {
+                                  "ATTR": "weapon handling"
+                                }
+                              }
+                            },
+                            "INPUT_1": {
+                              "block": {
+                                "type": "stat_percent_all",
+                                "id": "HXv6dOfMhRFatih=%*ig",
+                                "fields": {
+                                  "ATTR": "reload speed"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "type": "number",
+      "formula": "(getBaseWeapon(\"reload\") - (getBaseWeapon(\"reload\") * ((sumAll(\"weapon handling\") / 100) + (sumAll(\"reload speed\") / 100))));\n"
+    },
+    {
+      "label": "Reload Speed Bonus",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_multiply",
+              "id": "5G!f#BP5N.?R~V$a~$z{",
+              "x": 90,
+              "y": 70,
+              "extraState": {
+                "inputs": 2
+              },
+              "inputs": {
+                "INPUT_0": {
+                  "block": {
+                    "type": "base_weapon",
+                    "id": "QXa/K|%o:5q}rB`#{d%9",
+                    "fields": {
+                      "PROP": "reload"
+                    }
+                  }
+                },
+                "INPUT_1": {
+                  "block": {
+                    "type": "stat_add",
+                    "id": "{k(P~H}RvwC7Y$F[aT}3",
+                    "extraState": {
+                      "inputs": 2
+                    },
+                    "inputs": {
+                      "INPUT_0": {
+                        "block": {
+                          "type": "stat_percent_all",
+                          "id": "mD$B)Z2?C0:Kgan`-S-.",
+                          "fields": {
+                            "ATTR": "reload speed"
+                          }
+                        }
+                      },
+                      "INPUT_1": {
+                        "block": {
+                          "type": "stat_percent_all",
+                          "id": "ELm$cGQf~?sNQ2*Fr}.M",
+                          "fields": {
+                            "ATTR": "weapon handling"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "type": "number",
+      "formula": "(getBaseWeapon(\"reload\") * ((sumAll(\"reload speed\") / 100) + (sumAll(\"weapon handling\") / 100)));\n"
+    },
+    {
+      "label": "Accuracy",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_add",
+              "id": "`ip3WlC2*7ze[4jCC=#v",
+              "x": 150,
+              "y": 70,
+              "extraState": {
+                "inputs": 2
+              },
+              "inputs": {
+                "INPUT_0": {
+                  "block": {
+                    "type": "stat_percent_all",
+                    "id": "h@N?bUF32F7ph8e#Llou",
+                    "fields": {
+                      "ATTR": "accuracy"
+                    }
+                  }
+                },
+                "INPUT_1": {
+                  "block": {
+                    "type": "stat_percent_all",
+                    "id": "#:OR3V-gq~tc1_ogQFnQ",
+                    "fields": {
+                      "ATTR": "weapon handling"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "type": "percent",
+      "formula": "((sumAll(\"accuracy\") / 100) + (sumAll(\"weapon handling\") / 100));\n"
+    },
+    {
+      "label": "Stability",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_add",
+              "id": "}pT:7FJOMC[n?/($~b6Z",
+              "x": 70,
+              "y": 130,
+              "extraState": {
+                "inputs": 2
+              },
+              "inputs": {
+                "INPUT_0": {
+                  "block": {
+                    "type": "stat_percent_all",
+                    "id": "Jn;jm?:l@(~!.I[LU?IM",
+                    "fields": {
+                      "ATTR": "stability"
+                    }
+                  }
+                },
+                "INPUT_1": {
+                  "block": {
+                    "type": "stat_percent_all",
+                    "id": "T4KB`P2~bL_9pdZAfyJP",
+                    "fields": {
+                      "ATTR": "weapon handling"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "type": "percent",
+      "formula": "((sumAll(\"stability\") / 100) + (sumAll(\"weapon handling\") / 100));\n"
+    },
+    {
+      "label": "Weapon Swap Speed",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_add",
+              "id": ",pdE5Va#YhOe#VlX)]+3",
+              "x": 430,
+              "y": 70,
+              "extraState": {
+                "inputs": 2
+              },
+              "inputs": {
+                "INPUT_0": {
+                  "block": {
+                    "type": "stat_percent_all",
+                    "id": "~31rxN:yUNqwe^pHiTls",
+                    "fields": {
+                      "ATTR": "weapon handling"
+                    }
+                  }
+                },
+                "INPUT_1": {
+                  "block": {
+                    "type": "stat_percent_all",
+                    "id": "ddmEqjJ::I%6hU.LaTmX",
+                    "fields": {
+                      "ATTR": "swap speed"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "type": "percent",
+      "formula": "((sumAll(\"weapon handling\") / 100) + (sumAll(\"swap speed\") / 100));\n"
+    },
+    {
+      "label": "Weapon Handling",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_percent_all",
+              "id": "Hf1whnt6rep^H#._)Y(y",
+              "x": 130,
+              "y": 70,
+              "fields": {
+                "ATTR": "weapon handling"
+              }
+            }
+          ]
+        }
+      },
+      "type": "percent",
+      "formula": "(sumAll(\"weapon handling\") / 100);\n"
+    },
+    {
+      "label": "Ammo Capacity",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_percent_all",
+              "id": "}QEk+VV~`Fzz5=Q5%$H5",
+              "x": 130,
+              "y": 130,
+              "fields": {
+                "ATTR": "ammo capacity"
+              }
+            }
+          ]
+        }
+      },
+      "type": "percent",
+      "formula": "(sumAll(\"ammo capacity\") / 100);\n"
+    }
+  ],
+  "Offense Stats": [
+    {
+      "label": "All Weapon Damage Bonus",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_percent_all",
+              "id": "z?:z(p~D;=@Q|v.ujg4*",
+              "x": 170,
+              "y": 70,
+              "fields": {
+                "ATTR": "weapon damage"
+              }
+            }
+          ]
+        }
+      },
+      "type": "percent",
+      "formula": "(sumAll(\"weapon damage\") / 100);\n"
+    },
+    {
+      "label": "Marksman Rifle Damage Bonus",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_add",
+              "id": "}C$}00gQQ5PK3-g5ph[c",
+              "x": 130,
+              "y": 110,
+              "extraState": {
+                "inputs": 2
+              },
+              "inputs": {
+                "INPUT_0": {
+                  "block": {
+                    "type": "stat_percent_all",
+                    "id": "DK@#4Q*$_CiCOGdE),Je",
+                    "fields": {
+                      "ATTR": "weapon damage"
+                    }
+                  }
+                },
+                "INPUT_1": {
+                  "block": {
+                    "type": "stat_percent_all",
+                    "id": "6t($Xa0Hyu}.?er[2JW=",
+                    "fields": {
+                      "ATTR": "mmr damage"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "type": "percent",
+      "formula": "((sumAll(\"weapon damage\") / 100) + (sumAll(\"mmr damage\") / 100));\n"
+    },
+    {
+      "label": "Rifle Damage Bonus",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_add",
+              "id": "cqB!tfS2{TBk~U2a#zo5",
+              "x": 50,
+              "y": 70,
+              "extraState": {
+                "inputs": 2
+              },
+              "inputs": {
+                "INPUT_0": {
+                  "block": {
+                    "type": "stat_percent_all",
+                    "id": "KTG/^:jGz-5aLa|,IyfR",
+                    "fields": {
+                      "ATTR": "weapon damage"
+                    }
+                  }
+                },
+                "INPUT_1": {
+                  "block": {
+                    "type": "stat_percent_all",
+                    "id": "(i*JrX_:o%ZhsBB{][xV",
+                    "fields": {
+                      "ATTR": "rifle damage"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "type": "percent",
+      "formula": "((sumAll(\"weapon damage\") / 100) + (sumAll(\"rifle damage\") / 100));\n"
+    },
+    {
+      "label": "Assault Rifle Damage Bonus",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_add",
+              "id": "MaADxDKnBwRj17n[zgsG",
+              "x": 290,
+              "y": 50,
+              "extraState": {
+                "inputs": 2
+              },
+              "inputs": {
+                "INPUT_0": {
+                  "block": {
+                    "type": "stat_percent_all",
+                    "id": ":pkT$Ra,`^iPv~6c%FAw",
+                    "fields": {
+                      "ATTR": "weapon damage"
+                    }
+                  }
+                },
+                "INPUT_1": {
+                  "block": {
+                    "type": "stat_percent_all",
+                    "id": "*vlW#LM9II[LPl!P65gU",
+                    "fields": {
+                      "ATTR": "assault rifle damage"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "type": "percent",
+      "formula": "((sumAll(\"weapon damage\") / 100) + (sumAll(\"assault rifle damage\") / 100));\n"
+    },
+    {
+      "label": "LMG Damage Bonus",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_add",
+              "id": "V2I![-SwOR87/M$5I:]t",
+              "x": 230,
+              "y": 50,
+              "extraState": {
+                "inputs": 2
+              },
+              "inputs": {
+                "INPUT_0": {
+                  "block": {
+                    "type": "stat_percent_all",
+                    "id": "9CN,FuWOKnQ9P!5*,53j",
+                    "fields": {
+                      "ATTR": "weapon damage"
+                    }
+                  }
+                },
+                "INPUT_1": {
+                  "block": {
+                    "type": "stat_percent_all",
+                    "id": "gg2|k{QSBZ!s6WDf;9N;",
+                    "fields": {
+                      "ATTR": "lmg damage"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "type": "percent",
+      "formula": "((sumAll(\"weapon damage\") / 100) + (sumAll(\"lmg damage\") / 100));\n"
+    },
+    {
+      "label": "SMG Damage Bonus",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_add",
+              "id": "z9rLbm0!S^dlnN;}v^vO",
+              "x": 230,
+              "y": 70,
+              "extraState": {
+                "inputs": 2
+              },
+              "inputs": {
+                "INPUT_0": {
+                  "block": {
+                    "type": "stat_percent_all",
+                    "id": "q+MiJgZzd*9!]M~xdhp:",
+                    "fields": {
+                      "ATTR": "smg damage"
+                    }
+                  }
+                },
+                "INPUT_1": {
+                  "block": {
+                    "type": "stat_percent_all",
+                    "id": "imIn]6GSgS/A6I:,Qc@`",
+                    "fields": {
+                      "ATTR": "weapon damage"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "type": "percent",
+      "formula": "((sumAll(\"smg damage\") / 100) + (sumAll(\"weapon damage\") / 100));\n"
+    },
+    {
+      "label": "Shotgun Damage Bonus",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_add",
+              "id": "q}A^]vj;~|X*([AsN8#8",
+              "x": 210,
+              "y": 50,
+              "extraState": {
+                "inputs": 2
+              },
+              "inputs": {
+                "INPUT_0": {
+                  "block": {
+                    "type": "stat_percent_all",
+                    "id": "gzwrxSB:5(qA;[hf1?2d",
+                    "fields": {
+                      "ATTR": "weapon damage"
+                    }
+                  }
+                },
+                "INPUT_1": {
+                  "block": {
+                    "type": "stat_percent_all",
+                    "id": "gMucV@Z[3m-DF/ZfK+R7",
+                    "fields": {
+                      "ATTR": "shotgun damage"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "type": "percent",
+      "formula": "((sumAll(\"weapon damage\") / 100) + (sumAll(\"shotgun damage\") / 100));\n"
+    },
+    {
+      "label": "Pistol Damage Bonus",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_add",
+              "id": "9@HWvgDd-c;^/R^o1#^#",
+              "x": 190,
+              "y": 50,
+              "extraState": {
+                "inputs": 2
+              },
+              "inputs": {
+                "INPUT_0": {
+                  "block": {
+                    "type": "stat_percent_all",
+                    "id": "M#nO(pF78{;wZODOix=e",
+                    "fields": {
+                      "ATTR": "pistol damage"
+                    }
+                  }
+                },
+                "INPUT_1": {
+                  "block": {
+                    "type": "stat_percent_all",
+                    "id": "}(qIDKDXDTvhc}j?vCdI",
+                    "fields": {
+                      "ATTR": "weapon damage"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "type": "percent",
+      "formula": "((sumAll(\"pistol damage\") / 100) + (sumAll(\"weapon damage\") / 100));\n"
+    },
+    {
+      "label": "Explosive Damage",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_percent_all",
+              "id": "F26.%,2(0s3vf~ooBDsd",
+              "x": 10,
+              "y": 150,
+              "fields": {
+                "ATTR": "explosive damage"
+              }
+            }
+          ]
+        }
+      },
+      "type": "percent",
+      "formula": "(sumAll(\"explosive damage\") / 100);\n"
+    }
+  ],
+  "Defense Stats": [
+    {
+      "label": "Armor",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_multiply",
+              "id": "H{I9^XmWA/ER?2-L[vr_",
+              "x": 150,
+              "y": 150,
+              "extraState": {
+                "inputs": 2
+              },
+              "inputs": {
+                "INPUT_0": {
+                  "block": {
+                    "type": "stat_core",
+                    "id": "^|BiJnR),367vHc;u7VJ",
+                    "fields": {
+                      "CORE": "armor"
+                    }
+                  }
+                },
+                "INPUT_1": {
+                  "block": {
+                    "type": "stat_constant",
+                    "id": "tvJX_s8S28tR-}KfB72#",
+                    "fields": {
+                      "VALUE": "170000"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "type": "number",
+      "formula": "(getCore(\"armor\") * 170000);\n"
+    },
+    {
+      "label": "Armor on Kill",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_sum_all",
+              "id": "$PG_[`^?70OIrToNu,OK",
+              "x": 10,
+              "y": 110,
+              "fields": {
+                "ATTR": "armor on kill"
+              }
+            }
+          ]
+        }
+      },
+      "type": "number",
+      "formula": "sumAll(\"armor on kill\");\n"
+    },
+    {
+      "label": "Armor Regeneration",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_sum_all",
+              "id": "a{HC(#ajwJ4gqpvBXy#R",
+              "x": 10,
+              "y": 110,
+              "fields": {
+                "ATTR": "armor regen"
+              }
+            }
+          ]
+        }
+      },
+      "type": "per/sec",
+      "formula": "sumAll(\"armor regen\");\n"
+    },
+    {
+      "label": "Max Health",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_sum_all",
+              "id": "^O~])3V].VmbW,V2_Iww",
+              "x": 110,
+              "y": 50,
+              "fields": {
+                "ATTR": "health"
+              }
+            }
+          ]
+        }
+      },
+      "type": "number",
+      "formula": "sumAll(\"health\");\n"
+    },
+    {
+      "label": "Health on Kill",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_sum_all",
+              "id": "CBYZ,b?6*pmDX-Uq){l_",
+              "x": 130,
+              "y": 50,
+              "fields": {
+                "ATTR": "health on kill"
+              }
+            }
+          ]
+        }
+      },
+      "type": "number",
+      "formula": "sumAll(\"health on kill\");\n"
+    },
+    {
+      "label": "Health Regeneration",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_constant",
+              "id": "I?/Mz(~ws_?a,:6i}Hg6",
+              "x": 270,
+              "y": 150,
+              "fields": {
+                "VALUE": "0"
+              }
+            }
+          ]
+        }
+      },
+      "type": "number",
+      "formula": "0;\n"
+    },
+    {
+      "label": "Incoming Repairs",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_percent_all",
+              "id": "4tScyF!ghlzRmjfcp}1x",
+              "x": 10,
+              "y": 150,
+              "fields": {
+                "ATTR": "incoming repairs"
+              }
+            }
+          ]
+        }
+      },
+      "type": "percent",
+      "formula": "(sumAll(\"incoming repairs\") / 100);\n"
+    },
+    {
+      "label": "Protection From Elites",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_percent_all",
+              "id": "9sMpLQ=E,m=EU.bm}e@+",
+              "x": 10,
+              "y": 150,
+              "fields": {
+                "ATTR": "protection from elites"
+              }
+            }
+          ]
+        }
+      },
+      "type": "percent",
+      "formula": "(sumAll(\"protection from elites\") / 100);\n"
+    },
+    {
+      "label": "Pulse Resistance",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_percent_all",
+              "id": "arzZGRlVrdkTG+NOPr77",
+              "x": 10,
+              "y": 150,
+              "fields": {
+                "ATTR": "pulse resistance"
+              }
+            }
+          ]
+        }
+      },
+      "type": "percent",
+      "formula": "(sumAll(\"pulse resistance\") / 100);\n"
+    },
+    {
+      "label": "Explosive Resistance",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_percent_all",
+              "id": "kr!:.kkTThfmM_7sTs(F",
+              "x": 10,
+              "y": 150,
+              "fields": {
+                "ATTR": "explosive resistance"
+              }
+            }
+          ]
+        }
+      },
+      "type": "percent",
+      "formula": "(sumAll(\"explosive resistance\") / 100);\n"
+    },
+    {
+      "label": "Hazard Protection",
+      "block": {
+        "blocks": {
+          "languageVersion": 0,
+          "blocks": [
+            {
+              "type": "stat_percent_all",
+              "id": "5ex|DB5zod,o18CUu8X-",
+              "x": 10,
+              "y": 150,
+              "fields": {
+                "ATTR": "hazard protection"
+              }
+            }
+          ]
+        }
+      },
+      "type": "percent",
+      "formula": "(sumAll(\"hazard protection\") / 100);\n"
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+[
+  {
+    "logo": "https://i.imgur.com/PtNkqMZ.png",
+    "name": "Aces & Eights",
+    "core": "weapon damage",
+    "twoPc": {
+      "mmr damage": 15,
+      "rifle damage": 15
+    },
+    "threePc": {
+      "headshot damage": 30
+    },
+    "fourPc": "Dead Man's Hand",
+    "chest": "No Limit",
+    "backpack": "Ace in the Sleeve",
+    "hint": ""
+  },
+  {
+    "logo": "https://i.imgur.com/8tbTowM.png",
+    "name": "Aegis",
+    "core": "armor",
+    "twoPc": {
+      "health": 70
+    },
+    "threePc": {
+      "total armor": 15
+    },
+    "fourPc": "Stoic",
+    "chest": "Polyethylene Plating",
+    "backpack": "Deceit",
+    "hint": ""
+  },
+  {
+    "logo": "",
+    "name": "Breaking Point",
+    "core": "weapon damage",
+    "twoPc": {
+      "rifle damage": 25,
+      "mmr damage": 25
+    },
+    "threePc": {
+      "headshot damage": 30,
+      "weapon handling": 15
+    },
+    "fourPc": "On Point",
+    "chest": "Point of Honor",
+    "backpack": "Point of no Return",
+    "hint": ""
+  },
+  {
+    "logo": "https://i.imgur.com/a3wFseF.png",
+    "name": "Cavalier",
+    "core": "armor",
+    "twoPc": {
+      "hazard protection": 30
+    },
+    "threePc": {
+      "repair skills": 40
+    },
+    "fourPc": "Charging",
+    "chest": "Overcharging",
+    "backpack": "Safe Charging",
+    "hint": ""
+  },
+  {
+    "logo": "",
+    "name": "Concentrated Company",
+    "core": "weapon damage",
+    "twoPc": {
+      "weapon damage": 10
+    },
+    "threePc": {
+      "weapon handling": 30
+    },
+    "fourPc": "Camaraderie",
+    "chest": "One for All",
+    "backpack": "All for One",
+    "hint": ""
+  },
+  {
+    "logo": "https://i.imgur.com/fbcV3JY.png",
+    "name": "Eclipse Protocol",
+    "core": "skill tier",
+    "twoPc": {
+      "status effect": 15
+    },
+    "threePc": {
+      "skill haste": 15,
+      "hazard protection": 30
+    },
+    "fourPc": "Indirect Transmission",
+    "chest": "Proliferation",
+    "backpack": "Symptom Aggravator",
+    "hint": ""
+  },
+  {
+    "logo": "https://i.imgur.com/HPx0FU7.png",
+    "name": "Foundry Bulwark",
+    "core": "armor",
+    "twoPc": {
+      "total armor": 10
+    },
+    "threePc": {
+      "armor regen": 1,
+      "shield health": 50
+    },
+    "fourPc": "Makeshift Repairs",
+    "chest": "Process Refinery",
+    "backpack": "Improved Materials",
+    "hint": ""
+  },
+  {
+    "logo": "https://i.imgur.com/qyQzKCU.png",
+    "name": "Future Initiative",
+    "core": "skill tier",
+    "twoPc": {
+      "repair skills": 30
+    },
+    "threePc": {
+      "skill duration": 30,
+      "skill haste": 15
+    },
+    "fourPc": "Ground Control",
+    "chest": "Tactical Superiority",
+    "backpack": "Advanced Combat Tactics",
+    "hint": ""
+  },
+  {
+    "logo": "https://i.imgur.com/De6m9NO.png",
+    "name": "Hard Wired",
+    "core": "skill tier",
+    "twoPc": {
+      "skill haste": 15
+    },
+    "threePc": {
+      "skill damage": 15,
+      "repair skills": 30
+    },
+    "fourPc": "Feedback Loop",
+    "chest": "Positive Reinforcement",
+    "backpack": "Short Circuit",
+    "hint": ""
+  },
+  {
+    "logo": "https://i.imgur.com/cabNPK0.png",
+    "name": "Heartbreaker",
+    "core": "armor",
+    "twoPc": {
+      "assault rifle damage": 15,
+      "lmg damage": 15
+    },
+    "threePc": {
+      "weapon handling": 15
+    },
+    "fourPc": "Heartstopper",
+    "chest": "Max BPM",
+    "backpack": "Cold",
+    "hint": ""
+  },
+  {
+    "logo": "https://imgur.com/yaasvrl.png",
+    "name": "Hotshot",
+    "core": "weapon damage",
+    "twoPc": {
+      "mmr damage": 30,
+      "weapon handling": 30
+    },
+    "threePc": {
+      "headshot damage": 30
+    },
+    "fourPc": "Headache",
+    "chest": "Stand Tall",
+    "backpack": "Lucky",
+    "hint": ""
+  },
+  {
+    "logo": "https://i.imgur.com/avuG3TM.png",
+    "name": "Hunter's Fury",
+    "core": "weapon damage",
+    "twoPc": {
+      "shotgun damage": 15,
+      "smg damage": 15
+    },
+    "threePc": {
+      "armor on kill": 20,
+      "health on kill": 50
+    },
+    "fourPc": "Apex Predator",
+    "chest": "Endless Hunger",
+    "backpack": "Overwhelming Force",
+    "hint": ""
+  },
+  {
+    "logo": "",
+    "name": "Measured Assembly",
+    "core": "skill tier",
+    "twoPc": {
+      "skill haste": 15
+    },
+    "threePc": {
+      "repair skills": 60,
+      "explosive resistance": 40
+    },
+    "fourPc": "Huddle",
+    "chest": "Hivemind",
+    "backpack": "Smart Cooperation",
+    "hint": ""
+  },
+  {
+    "logo": "https://i.imgur.com/0zrR7UI.png",
+    "name": "Negotiator's Dilemma",
+    "core": "weapon damage",
+    "twoPc": {
+      "critical hit chance": 15
+    },
+    "threePc": {
+      "critical hit damage": 20
+    },
+    "fourPc": "Crowd Control",
+    "chest": "Target Rich Environment",
+    "backpack": "Critical Measures",
+    "hint": ""
+  },
+  {
+    "logo": "https://i.imgur.com/XV8MKLt.png",
+    "name": "Ongoing Directive",
+    "core": "weapon damage",
+    "twoPc": {
+      "status effect": 15
+    },
+    "threePc": {
+      "reload speed": 30
+    },
+    "fourPc": "Rules of Engagement",
+    "chest": "Parabellum Rounds",
+    "backpack": "Trauma Specialist",
+    "hint": ""
+  },
+  {
+    "logo": "https://i.imgur.com/k3jgBqT.png",
+    "name": "Ortiz: Exuro",
+    "core": "skill tier",
+    "twoPc": {
+      "burn duration": 20,
+      "skill health": 15
+    },
+    "threePc": {
+      "burn damage": 40
+    },
+    "fourPc": "Ortiz Incinerator Turret Prototype",
+    "chest": "Chain Combustion",
+    "backpack": "Heatstroke",
+    "hint": ""
+  },
+  {
+    "logo": "",
+    "name": "Refactor",
+    "core": {
+      "skill tier": [
+        "mask",
+        "chest",
+        "holster"
+      ],
+      "armor": [
+        "backpack",
+        "gloves",
+        "kneepads"
+      ]
+    },
+    "twoPc": {
+      "status effect": 15
+    },
+    "threePc": {
+      "skill damage": 25
+    },
+    "fourPc": "Return to Sender",
+    "chest": "Increased Interest",
+    "backpack": "Over-engineered",
+    "hint": ""
+  },
+  {
+    "logo": "https://i.imgur.com/1WCdHXM.png",
+    "name": "Rigger",
+    "core": "skill tier",
+    "twoPc": {
+      "skill haste": 15
+    },
+    "threePc": {
+      "skill duration": 15
+    },
+    "fourPc": "Tend and Befriend",
+    "chest": "Best Buds",
+    "backpack": "Complete Uptime",
+    "hint": ""
+  },
+  {
+    "logo": "https://i.imgur.com/jlIXDlg.png",
+    "name": "Striker's Battlegear",
+    "core": "weapon damage",
+    "twoPc": {
+      "weapon handling": 15
+    },
+    "threePc": {
+      "rate of fire": 15
+    },
+    "fourPc": "Striker's Gamble",
+    "chest": "Press the Advantage",
+    "backpack": "Risk Management",
+    "hint": ""
+  },
+  {
+    "logo": "https://i.imgur.com/8OehPqT.png",
+    "name": "System Corruption\n(Dark Zone Exclusive)",
+    "core": {
+      "weapon damage": [
+        "mask",
+        "gloves",
+        "holster"
+      ],
+      "armor": [
+        "backpack",
+        "chest",
+        "kneepads"
+      ]
+    },
+    "twoPc": {
+      "armor on kill": 15
+    },
+    "threePc": {
+      "disrupt resistance": 40,
+      "pulse resistance": 40
+    },
+    "fourPc": "Hackstep Protocol",
+    "chest": "Multithreaded Execution",
+    "backpack": "Compiler Optimization",
+    "hint": ""
+  },
+  {
+    "logo": "https://i.imgur.com/faLj58L.png",
+    "name": "Tip of the Spear",
+    "core": "weapon damage",
+    "twoPc": {
+      "signature weapon damage": 20
+    },
+    "threePc": {
+      "weapon damage": 10
+    },
+    "fourPc": "Aggressive Recon",
+    "chest": "Specialized Destruction",
+    "backpack": "Signature Moves",
+    "hint": ""
+  },
+  {
+    "logo": "",
+    "name": "Tipping Scales",
+    "core": "weapon damage",
+    "twoPc": {
+      "mag size": 30
+    },
+    "threePc": {
+      "lmg damage": 30
+    },
+    "fourPc": "Throttle Control",
+    "chest": "Sustainability",
+    "backpack": "Snowball",
+    "hint": ""
+  },
+  {
+    "logo": "https://i.imgur.com/hAVQM8F.png",
+    "name": "True Patriot",
+    "core": "armor",
+    "twoPc": {
+      "ammo capacity": 30
+    },
+    "threePc": {
+      "mag size": 30
+    },
+    "fourPc": "Red, White and Blue",
+    "chest": "Waving the Flag",
+    "backpack": "Patriotic Boost",
+    "hint": ""
+  },
+  {
+    "logo": "https://i.imgur.com/U1t9PAw.png",
+    "name": "Umbra Initiative",
+    "core": "weapon damage",
+    "twoPc": {
+      "critical hit chance": 15
+    },
+    "threePc": {
+      "reload speed": 30
+    },
+    "fourPc": "From the Shadows Into the Light",
+    "chest": "From the Shadows",
+    "backpack": "Into the Light",
+    "hint": ""
+  },
+  {
+    "logo": "",
+    "name": "Virtuoso",
+    "core": "weapon damage",
+    "twoPc": {
+      "weapon handling": 15,
+      "mag size": 15
+    },
+    "threePc": {
+      "weapon damage": 15
+    },
+    "fourPc": "Symphony",
+    "chest": "Fortissimo",
+    "backpack": "Accelerando",
+    "hint": ""
+  }
+]

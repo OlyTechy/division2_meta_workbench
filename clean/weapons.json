@@ -1,0 +1,8298 @@
+[
+  {
+    "type": "assault rifle",
+    "variant": "ACR",
+    "name": "ACR",
+    "rarety": "NONE",
+    "rpm": 650,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 1.91,
+    "damage": 58896.5,
+    "optimalRange": 31,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "ACR",
+    "name": "ACR-E",
+    "rarety": "NONE",
+    "rpm": 650,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 1.91,
+    "damage": 58896.5,
+    "optimalRange": 31,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "AK-47",
+    "name": "AK-M",
+    "rarety": "NONE",
+    "rpm": 600,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.3,
+    "damage": 67175,
+    "optimalRange": 27,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "AK-47",
+    "name": "Military AK-M",
+    "rarety": "NONE",
+    "rpm": 600,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.3,
+    "damage": 64716.5,
+    "optimalRange": 27,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "AK-47",
+    "name": "Black Market AK-M",
+    "rarety": "NONE",
+    "rpm": 600,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.3,
+    "damage": 64716.5,
+    "optimalRange": 27,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "AK-47",
+    "name": "Black Market AK-M Replica",
+    "rarety": "NONE",
+    "rpm": 600,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.3,
+    "damage": 64716.5,
+    "optimalRange": 27,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "AK-47",
+    "name": "First Sight (AK-M)",
+    "rarety": "NAMED",
+    "rpm": 600,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.8,
+    "damage": 67175,
+    "optimalRange": 27,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 85,
+    "bonus": {
+      "hsd": 30,
+      "reload speed debuff": 50
+    },
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "AK-47",
+    "name": "Manic (Black Market AK-M)",
+    "rarety": "NAMED",
+    "rpm": 600,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.3,
+    "damage": 64716.5,
+    "optimalRange": 27,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedTalent": [
+      "Perfectly Overflowing"
+    ],
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "AUG",
+    "name": "AUG A3-CQC",
+    "rarety": "NONE",
+    "rpm": 680,
+    "baseMagSize": 42,
+    "moddedMagSize": 62,
+    "reload": 2.16,
+    "damage": 57218,
+    "optimalRange": 26,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "AUG",
+    "name": "Invisible Hand",
+    "rarety": "NAMED",
+    "rpm": 782,
+    "baseMagSize": 42,
+    "moddedMagSize": 62,
+    "reload": 2.16,
+    "damage": 57218,
+    "optimalRange": 26,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedTalent": [
+      "Perfect Allegro"
+    ],
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "AUG",
+    "name": "The Bighorn",
+    "rarety": "EXOTIC",
+    "rpm": 800,
+    "baseMagSize": 42,
+    "moddedMagSize": 0,
+    "reload": 1.8,
+    "damage": 57218,
+    "optimalRange": 40,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "headshot damage": 40
+      },
+      "MAGAZINE SLOT": {
+        "reload speed": 20
+      },
+      "MUZZLE SLOT": {
+        "accuracy": 20
+      },
+      "UNDERBARREL": {
+        "stability": 20
+      }
+    },
+    "hsd": 55,
+    "fixedTalent": [
+      "Big Game Hunter"
+    ],
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "Carbine 7",
+    "name": "Carbine 7",
+    "rarety": "NONE",
+    "rpm": 790,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.02,
+    "damage": 49790,
+    "optimalRange": 28,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "Carbine 7",
+    "name": "The Drill",
+    "rarety": "NAMED",
+    "rpm": 790,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.02,
+    "damage": 49790,
+    "optimalRange": 28,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedTalent": [
+      "Perfect Precision Strike"
+    ],
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "F2000",
+    "name": "F2000",
+    "rarety": "NONE",
+    "rpm": 850,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.4,
+    "damage": 49104,
+    "optimalRange": 31,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "F2000",
+    "name": "F2000 Replica",
+    "rarety": "NONE",
+    "rpm": 850,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.4,
+    "damage": 49104,
+    "optimalRange": 31,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "F2000",
+    "name": "Shield Splinterer",
+    "rarety": "NAMED",
+    "rpm": 850,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.4,
+    "damage": 49104,
+    "optimalRange": 31,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedTalent": [
+      "Perfect Optimist"
+    ],
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "FAL",
+    "name": "FAL",
+    "rarety": "NONE",
+    "rpm": 700,
+    "baseMagSize": 20,
+    "moddedMagSize": 40,
+    "reload": 2.14,
+    "damage": 57646,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "FAL",
+    "name": "FAL SA-58",
+    "rarety": "NONE",
+    "rpm": 700,
+    "baseMagSize": 20,
+    "moddedMagSize": 40,
+    "reload": 2.14,
+    "damage": 57646,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "FAL",
+    "name": "FAL SA-58 Para",
+    "rarety": "NONE",
+    "rpm": 700,
+    "baseMagSize": 20,
+    "moddedMagSize": 40,
+    "reload": 2.14,
+    "damage": 57646,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "FAL",
+    "name": "FAL SA-58 Para Replica",
+    "rarety": "NONE",
+    "rpm": 700,
+    "baseMagSize": 20,
+    "moddedMagSize": 40,
+    "reload": 2.14,
+    "damage": 57646,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "FAL",
+    "name": "Goalie (FAL)",
+    "rarety": "NAMED",
+    "rpm": 700,
+    "baseMagSize": 20,
+    "moddedMagSize": 40,
+    "reload": 2.14,
+    "damage": 57646,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedTalent": [
+      "Perfect Pressure Point"
+    ],
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "FAL",
+    "name": "Strega (FAL)",
+    "rarety": "EXOTIC",
+    "rpm": 700,
+    "baseMagSize": 20,
+    "moddedMagSize": 40,
+    "reload": 1.95,
+    "damage": 57646,
+    "optimalRange": 35,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "critical hit chance": 5
+      },
+      "MAGAZINE SLOT": {
+        "rounds": 20
+      },
+      "MUZZLE SLOT": {
+        "critical hit damage": 5
+      },
+      "UNDERBARREL": {
+        "weapon handling": 10
+      }
+    },
+    "hsd": 55,
+    "fixedTalent": [
+      "Talent Unnerve"
+    ],
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "Famas",
+    "name": "FAMAS 2010",
+    "rarety": "NONE",
+    "rpm": 900,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.49,
+    "damage": 45272.5,
+    "optimalRange": 26,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "Famas",
+    "name": "FAMAS 2010 Replica",
+    "rarety": "NONE",
+    "rpm": 900,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.49,
+    "damage": 45272.5,
+    "optimalRange": 26,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "Famas",
+    "name": "Huntsman",
+    "rarety": "NAMED",
+    "rpm": 900,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.49,
+    "damage": 45272.5,
+    "optimalRange": 26,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedTalent": [
+      "Perfect Frenzy"
+    ],
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "Famas",
+    "name": "Burn Out",
+    "rarety": "NAMED",
+    "rpm": 900,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.49,
+    "damage": 45272.5,
+    "optimalRange": 26,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedTalent": [
+      "Perfect On Empty"
+    ],
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "G36",
+    "name": "Military G36",
+    "rarety": "NONE",
+    "rpm": 750,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.34,
+    "damage": 52564,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "G36",
+    "name": "G36 C",
+    "rarety": "NONE",
+    "rpm": 750,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.34,
+    "damage": 52564,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "G36",
+    "name": "G36 Enhanced",
+    "rarety": "NONE",
+    "rpm": 750,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.34,
+    "damage": 52564,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "G36",
+    "name": "G36 Enhanced Replica",
+    "rarety": "NONE",
+    "rpm": 750,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.34,
+    "damage": 52564,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "G36",
+    "name": "Caretaker  (G36 Enhanced)",
+    "rarety": "NAMED",
+    "rpm": 750,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.34,
+    "damage": 52564,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedTalent": [
+      "Perfect Killer"
+    ],
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "G36",
+    "name": "Born Great (Military G36)",
+    "rarety": "NAMED",
+    "rpm": 750,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.34,
+    "damage": 52564,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedTalent": [
+      "Perfect Stabilize"
+    ],
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "Honey Badger",
+    "name": "Honey Badger",
+    "rarety": "NONE",
+    "rpm": 800,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.06,
+    "damage": 51271,
+    "optimalRange": 28,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "Honey Badger",
+    "name": "Savage Wolverine",
+    "rarety": "NAMED",
+    "rpm": 800,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.06,
+    "damage": 51271,
+    "optimalRange": 28,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedTalent": [
+      "Perfectly Close & Personal"
+    ],
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "M4",
+    "name": "Police M4",
+    "rarety": "NONE",
+    "rpm": 850,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.24,
+    "damage": 46917.5,
+    "optimalRange": 31,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "M4",
+    "name": "Police M4 Replica",
+    "rarety": "NONE",
+    "rpm": 850,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.24,
+    "damage": 46917.5,
+    "optimalRange": 31,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "M4",
+    "name": "Pyromaniac ",
+    "rarety": "NAMED",
+    "rpm": 850,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.24,
+    "damage": 46917.5,
+    "optimalRange": 31,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedTalent": [
+      "Perfectly Ignited"
+    ],
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "M4",
+    "name": "Lexington",
+    "rarety": "NAMED",
+    "rpm": 850,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.24,
+    "damage": 48699.5,
+    "optimalRange": 31,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "bonus": {
+      "base damage": 1782
+    },
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "M4",
+    "name": "St. Elmo's Engine",
+    "rarety": "EXOTIC",
+    "rpm": 850,
+    "baseMagSize": 40,
+    "moddedMagSize": 70,
+    "reload": 2.04,
+    "damage": 46917.5,
+    "optimalRange": 31,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "critical hit damage": 15
+      },
+      "MAGAZINE SLOT": {
+        "rounds": 30
+      },
+      "MUZZLE SLOT": {
+        "critical hit chance": 15
+      },
+      "UNDERBARREL": {
+        "weapon handling": 10
+      }
+    },
+    "hsd": 55,
+    "fixedTalent": [
+      "Actum Est"
+    ],
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "MK16",
+    "name": "Mk16",
+    "rarety": "NONE",
+    "rpm": 650,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.02,
+    "damage": 59221,
+    "optimalRange": 31,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "MK16",
+    "name": "SOCOM Mk16",
+    "rarety": "NONE",
+    "rpm": 650,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.02,
+    "damage": 59221,
+    "optimalRange": 31,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "MK16",
+    "name": "Tactical Mk 16",
+    "rarety": "NONE",
+    "rpm": 650,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.02,
+    "damage": 59221,
+    "optimalRange": 31,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "MK16",
+    "name": "Tactical Mk 16 Replica",
+    "rarety": "NONE",
+    "rpm": 650,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.02,
+    "damage": 59221,
+    "optimalRange": 31,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "MK16",
+    "name": "Lud (SOCOM Mk16)",
+    "rarety": "NAMED",
+    "rpm": 650,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.02,
+    "damage": 59221,
+    "optimalRange": 31,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedTalent": [
+      "Perfect Streamline"
+    ],
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "P416",
+    "name": "Military P416",
+    "rarety": "NONE",
+    "rpm": 850,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.34,
+    "damage": 47364.5,
+    "optimalRange": 26,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "P416",
+    "name": "Custom P416 G3",
+    "rarety": "NONE",
+    "rpm": 850,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.34,
+    "damage": 47364.5,
+    "optimalRange": 26,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "P416",
+    "name": "Glory Daze (Custom P416 G3)",
+    "rarety": "NAMED",
+    "rpm": 850,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.34,
+    "damage": 47364.5,
+    "optimalRange": 17,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedTalent": [
+      "Perfectly Near Sighted"
+    ],
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "P416",
+    "name": "Eagle Bearer",
+    "rarety": "EXOTIC",
+    "rpm": 850,
+    "baseMagSize": 30,
+    "moddedMagSize": 60,
+    "reload": 2.13,
+    "damage": 47364.5,
+    "optimalRange": 26,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "critical hit chance": 15
+      },
+      "MAGAZINE SLOT": {
+        "rounds": 30
+      },
+      "MUZZLE SLOT": {
+        "critical hit damage": 20
+      },
+      "UNDERBARREL": {
+        "weapon handling": 10
+      }
+    },
+    "hsd": 55,
+    "fixedTalent": [
+      "Eagle Strike",
+      "Tenacity"
+    ],
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "PDR",
+    "name": "PDR",
+    "rarety": "NONE",
+    "rpm": 700,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.04,
+    "damage": 57617.5,
+    "optimalRange": 31,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "PDR",
+    "name": "Test Subject",
+    "rarety": "NAMED",
+    "rpm": 700,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.04,
+    "damage": 57617.5,
+    "optimalRange": 31,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedTalent": [
+      "Perfectly In Sync"
+    ],
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "PDR",
+    "name": "Capacitor",
+    "rarety": "EXOTIC",
+    "rpm": 700,
+    "baseMagSize": 30,
+    "moddedMagSize": 41,
+    "reload": 1.85,
+    "damage": 57617.5,
+    "optimalRange": 31,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "critical hit chance": 10
+      },
+      "MAGAZINE SLOT": {
+        "rounds": 11
+      },
+      "MUZZLE SLOT": {
+        "critical hit damage": 30
+      },
+      "UNDERBARREL": {
+        "weapon handling": 10
+      }
+    },
+    "hsd": 55,
+    "fixedTalent": [
+      "Capacitance"
+    ],
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "SIG 556",
+    "name": "Sig Sauer 556",
+    "rarety": "NONE",
+    "rpm": 700,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.17,
+    "damage": 55934.5,
+    "optimalRange": 28,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "SIG 556",
+    "name": "Mechanical Animal",
+    "rarety": "NAMED",
+    "rpm": 700,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.17,
+    "damage": 55934.5,
+    "optimalRange": 28,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedTalent": [
+      "Future Perfection"
+    ],
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "TKB-408",
+    "name": "TKB-408",
+    "rarety": "NONE",
+    "rpm": 600,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 1.87,
+    "damage": 63508.5,
+    "optimalRange": 27,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "TKB-408",
+    "name": "Kingbreaker",
+    "rarety": "NAMED",
+    "rpm": 600,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 1.87,
+    "damage": 63508.5,
+    "optimalRange": 27,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedTalent": [
+      "Perfect Flatline"
+    ],
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "CTAR-21",
+    "name": "CTAR-21",
+    "rarety": "NONE",
+    "rpm": 900,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.39,
+    "damage": 44802,
+    "optimalRange": 32,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "CTAR-21",
+    "name": "The Railsplitter",
+    "rarety": "NAMED",
+    "rpm": 900,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.39,
+    "damage": 44802,
+    "optimalRange": 32,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 55,
+    "fixedTalent": [
+      "Perfectly Accurate"
+    ],
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "assault rifle",
+    "variant": "Vector",
+    "name": "Chameleon",
+    "rarety": "EXOTIC",
+    "rpm": 900,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.4,
+    "damage": 44670.5,
+    "optimalRange": 20,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "critical hit chance": 15
+      },
+      "MAGAZINE SLOT": {
+        "rounds": 20
+      },
+      "MUZZLE SLOT": {
+        "accuracy": 20
+      },
+      "UNDERBARREL": {
+        "stability": 10
+      }
+    },
+    "hsd": 50,
+    "fixedTalent": [
+      "Adaptive Instincts"
+    ],
+    "fixedPrimary1": {
+      "assault rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "health damage": 21
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "KAC Stoner",
+    "name": "Stoner LAMG",
+    "rarety": "NONE",
+    "rpm": 580,
+    "baseMagSize": 200,
+    "moddedMagSize": 250,
+    "reload": 3,
+    "damage": 62361,
+    "optimalRange": 40,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "KAC Stoner",
+    "name": "Quiet Roar",
+    "rarety": "NAMED",
+    "rpm": 580,
+    "baseMagSize": 200,
+    "moddedMagSize": 250,
+    "reload": 3,
+    "damage": 62361,
+    "optimalRange": 40,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedTalent": [
+      "Perfect Overwhelm"
+    ],
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "KAC Stoner",
+    "name": "Bluescreen",
+    "rarety": "EXOTIC",
+    "rpm": 720,
+    "baseMagSize": 200,
+    "moddedMagSize": 0,
+    "reload": 2.22,
+    "damage": 62361,
+    "optimalRange": 40,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "reload speed": 20
+      },
+      "MAGAZINE SLOT": {
+        "weapon handling": 15
+      },
+      "MUZZLE SLOT": {
+        "rate of fire": 20
+      },
+      "UNDERBARREL": {
+        "stability": 10
+      }
+    },
+    "hsd": 65,
+    "fixedTalent": [
+      "Disruptor Rounds"
+    ],
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "L86",
+    "name": "Military L86 LSW",
+    "rarety": "NONE",
+    "rpm": 700,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 3.18,
+    "damage": 61096.5,
+    "optimalRange": 30,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "L86",
+    "name": "Custom L86 A2",
+    "rarety": "NONE",
+    "rpm": 700,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 3.18,
+    "damage": 61096.5,
+    "optimalRange": 30,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "L86",
+    "name": "Custom L86 A2 Replica",
+    "rarety": "NONE",
+    "rpm": 700,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 3.18,
+    "damage": 61096.5,
+    "optimalRange": 30,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "L86",
+    "name": "Tabula Rasa (Military L86 LSW)",
+    "rarety": "NAMED",
+    "rpm": 700,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 3.18,
+    "damage": 61096.5,
+    "optimalRange": 30,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedTalent": [
+      "Perfectly Steady Handed"
+    ],
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "HK GR9 ",
+    "name": "HK GR9 ",
+    "rarety": "NONE",
+    "rpm": 750,
+    "baseMagSize": 200,
+    "moddedMagSize": 250,
+    "reload": 3.63,
+    "damage": 49480,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "HK GR9",
+    "name": "Dare",
+    "rarety": "NAMED",
+    "rpm": 750,
+    "baseMagSize": 200,
+    "moddedMagSize": 250,
+    "reload": 3.63,
+    "damage": 49480,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedTalent": [
+      "Perfect Flatline"
+    ],
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "HK GR9",
+    "name": "Cricket",
+    "rarety": "NAMED",
+    "rpm": 750,
+    "baseMagSize": 200,
+    "moddedMagSize": 250,
+    "reload": 3.63,
+    "damage": 49480,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedTalent": [
+      "Perfect Precision Strike"
+    ],
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "M249",
+    "name": "M249 B",
+    "rarety": "NONE",
+    "rpm": 850,
+    "baseMagSize": 100,
+    "moddedMagSize": 150,
+    "reload": 4.54,
+    "damage": 48300,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "M249",
+    "name": "Tactical M249 Para",
+    "rarety": "NONE",
+    "rpm": 850,
+    "baseMagSize": 100,
+    "moddedMagSize": 150,
+    "reload": 4.54,
+    "damage": 48300,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "M249",
+    "name": "Military MK46",
+    "rarety": "NONE",
+    "rpm": 850,
+    "baseMagSize": 100,
+    "moddedMagSize": 150,
+    "reload": 4.54,
+    "damage": 48300,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "M249",
+    "name": "Military MK46 Replica",
+    "rarety": "NONE",
+    "rpm": 850,
+    "baseMagSize": 100,
+    "moddedMagSize": 150,
+    "reload": 4.54,
+    "damage": 48300,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "M249",
+    "name": "Black Friday (M249 B)",
+    "rarety": "NAMED",
+    "rpm": 850,
+    "baseMagSize": 100,
+    "moddedMagSize": 150,
+    "reload": 4.54,
+    "damage": 48300,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedTalent": [
+      "Perfectly Unhinged"
+    ],
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "M249",
+    "name": "The Stinger (M249 B) ",
+    "rarety": "NAMED",
+    "rpm": 850,
+    "baseMagSize": 100,
+    "moddedMagSize": 150,
+    "reload": 4.54,
+    "damage": 48300,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedTalent": [
+      "Swift"
+    ],
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "M249",
+    "name": "Gear Shift (Military MK46) ",
+    "rarety": "NAMED",
+    "rpm": 850,
+    "baseMagSize": 100,
+    "moddedMagSize": 150,
+    "reload": 4.54,
+    "damage": 48300,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "M249",
+    "name": "Pestilence (M249 B)",
+    "rarety": "EXOTIC",
+    "rpm": 935,
+    "baseMagSize": 100,
+    "moddedMagSize": 0,
+    "reload": 4.54,
+    "damage": 48300,
+    "optimalRange": 35,
+    "modSlots": [],
+    "fixedSlots": {
+      "MAGAZINE SLOT": {
+        "rate of fire": 10
+      },
+      "MUZZLE SLOT": {
+        "accuracy": 10
+      },
+      "UNDERBARREL": {
+        "stability": 10
+      }
+    },
+    "hsd": 65,
+    "fixedTalent": [
+      "Plague of the Outcasts"
+    ],
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "M60",
+    "name": "Classic M60",
+    "rarety": "NONE",
+    "rpm": 600,
+    "baseMagSize": 100,
+    "moddedMagSize": 150,
+    "reload": 3.75,
+    "damage": 67711,
+    "optimalRange": 40,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "M60",
+    "name": "Military M60 E4",
+    "rarety": "NONE",
+    "rpm": 600,
+    "baseMagSize": 100,
+    "moddedMagSize": 150,
+    "reload": 3.85,
+    "damage": 65233.5,
+    "optimalRange": 40,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "M60",
+    "name": "Black Market M60 E6",
+    "rarety": "NONE",
+    "rpm": 600,
+    "baseMagSize": 100,
+    "moddedMagSize": 150,
+    "reload": 3.85,
+    "damage": 65233.5,
+    "optimalRange": 40,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "M60",
+    "name": "Classic M60 Replica",
+    "rarety": "NONE",
+    "rpm": 600,
+    "baseMagSize": 100,
+    "moddedMagSize": 150,
+    "reload": 3.75,
+    "damage": 67711,
+    "optimalRange": 40,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "M60",
+    "name": "Black Market M60 E6 Replica",
+    "rarety": "NONE",
+    "rpm": 600,
+    "baseMagSize": 100,
+    "moddedMagSize": 150,
+    "reload": 3.85,
+    "damage": 65233.5,
+    "optimalRange": 40,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "M60",
+    "name": "Good Times (Black Market M60 E6)",
+    "rarety": "NAMED",
+    "rpm": 600,
+    "baseMagSize": 100,
+    "moddedMagSize": 150,
+    "reload": 3.85,
+    "damage": 65234,
+    "optimalRange": 40,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedTalent": [
+      "Perfect Fast Hands"
+    ],
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "MG5",
+    "name": "MG5",
+    "rarety": "NONE",
+    "rpm": 800,
+    "baseMagSize": 50,
+    "moddedMagSize": 100,
+    "reload": 2.96,
+    "damage": 54322,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "MG5",
+    "name": "Infantry MG5",
+    "rarety": "NONE",
+    "rpm": 800,
+    "baseMagSize": 50,
+    "moddedMagSize": 100,
+    "reload": 3.01,
+    "damage": 52333.5,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "MG5",
+    "name": "Infantry MG5 Replica",
+    "rarety": "NONE",
+    "rpm": 800,
+    "baseMagSize": 50,
+    "moddedMagSize": 100,
+    "reload": 3.01,
+    "damage": 52333.5,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "MG5",
+    "name": "Bellringer (Infantry MG5)",
+    "rarety": "NAMED",
+    "rpm": 800,
+    "baseMagSize": 50,
+    "moddedMagSize": 100,
+    "reload": 3.01,
+    "damage": 52333.5,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 66,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "MG5",
+    "name": "Big Show (MG5)",
+    "rarety": "NAMED",
+    "rpm": 800,
+    "baseMagSize": 50,
+    "moddedMagSize": 100,
+    "reload": 2.96,
+    "damage": 54322,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedTalent": [
+      "Perfect Thunder Strike"
+    ],
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "MG5",
+    "name": "Sleipner (MG5)",
+    "rarety": "NAMED",
+    "rpm": 800,
+    "baseMagSize": 50,
+    "moddedMagSize": 100,
+    "reload": 2.96,
+    "damage": 54322,
+    "optimalRange": 35,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedTalent": [
+      "Perfect Frenzy"
+    ],
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "MG5",
+    "name": "Iron Lung (MG5)",
+    "rarety": "EXOTIC",
+    "rpm": 800,
+    "baseMagSize": 50,
+    "moddedMagSize": 85,
+    "reload": 2.96,
+    "damage": 54322,
+    "optimalRange": 35,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "critical hit damage": 10
+      },
+      "MAGAZINE SLOT": {
+        "rounds": 35
+      },
+      "UNDERBARREL": {
+        "critical hit damage": 10
+      }
+    },
+    "hsd": 65,
+    "fixedTalent": [
+      "Ardent"
+    ],
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "NEGEV",
+    "name": "IWI NEGEV",
+    "rarety": "NONE",
+    "rpm": 750,
+    "baseMagSize": 100,
+    "moddedMagSize": 150,
+    "reload": 4,
+    "damage": 54604,
+    "optimalRange": 40,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "NEGEV",
+    "name": "Carnage",
+    "rarety": "NAMED",
+    "rpm": 750,
+    "baseMagSize": 100,
+    "moddedMagSize": 150,
+    "reload": 4,
+    "damage": 54604,
+    "optimalRange": 40,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedTalent": [
+      "Perfect Sadist"
+    ],
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "NEGEV",
+    "name": "Bullet King",
+    "rarety": "EXOTIC",
+    "rpm": 750,
+    "baseMagSize": 100,
+    "moddedMagSize": 0,
+    "reload": 4.76,
+    "damage": 54604,
+    "optimalRange": 40,
+    "modSlots": [],
+    "fixedSlots": {
+      "MUZZLE SLOT": {
+        "critical hit chance": 15
+      },
+      "UNDERBARREL": {
+        "stability": 20
+      }
+    },
+    "hsd": 65,
+    "fixedTalent": [
+      "Bullet Hell"
+    ],
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "RPK",
+    "name": "Classic RPK-74",
+    "rarety": "NONE",
+    "rpm": 600,
+    "baseMagSize": 40,
+    "moddedMagSize": 60,
+    "reload": 4,
+    "damage": 71538,
+    "optimalRange": 30,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "RPK",
+    "name": "Military RPK-74",
+    "rarety": "NONE",
+    "rpm": 600,
+    "baseMagSize": 40,
+    "moddedMagSize": 60,
+    "reload": 4,
+    "damage": 71538,
+    "optimalRange": 30,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "RPK",
+    "name": "Black Market RPK-74",
+    "rarety": "NONE",
+    "rpm": 600,
+    "baseMagSize": 40,
+    "moddedMagSize": 60,
+    "reload": 4,
+    "damage": 71538,
+    "optimalRange": 30,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "RPK",
+    "name": "Black Market RPK-74 Replica",
+    "rarety": "NONE",
+    "rpm": 600,
+    "baseMagSize": 40,
+    "moddedMagSize": 60,
+    "reload": 4,
+    "damage": 71538,
+    "optimalRange": 30,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "RPK",
+    "name": "Rusty (Classic RPK-74)",
+    "rarety": "NAMED",
+    "rpm": 600,
+    "baseMagSize": 40,
+    "moddedMagSize": 60,
+    "reload": 4,
+    "damage": 71538,
+    "optimalRange": 30,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedTalent": [
+      "Perfect Pressure Point"
+    ],
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "RPK",
+    "name": "New Reliable (Black Market RPK-74)",
+    "rarety": "NAMED",
+    "rpm": 600,
+    "baseMagSize": 40,
+    "moddedMagSize": 60,
+    "reload": 2.86,
+    "damage": 71538,
+    "optimalRange": 30,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedTalent": [
+      "Perfectly Optimized"
+    ],
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "RPK",
+    "name": "Pakhan (Classic RPK)",
+    "rarety": "NAMED",
+    "rpm": 600,
+    "baseMagSize": 40,
+    "moddedMagSize": 60,
+    "reload": 3.64,
+    "damage": 71538,
+    "optimalRange": 30,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "weapon damage": 15
+      },
+      "MAGAZINE SLOT": {
+        "rounds": 20
+      },
+      "MUZZLE SLOT": {
+        "critical hit chance": 15
+      },
+      "UNDERBARREL": {
+        "reload speed": 10
+      }
+    },
+    "hsd": 65,
+    "fixedTalent": [
+      "Pakhan"
+    ],
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "lmg",
+    "variant": "Ameli",
+    "name": "Big Alejandro",
+    "rarety": "EXOTIC",
+    "rpm": 1,
+    "baseMagSize": 200,
+    "moddedMagSize": 0,
+    "reload": 4.03,
+    "damage": 39278.5,
+    "optimalRange": 35,
+    "modSlots": [],
+    "fixedSlots": [],
+    "hsd": 65,
+    "fixedPrimary1": {
+      "lmg damage": 15
+    },
+    "fixedPrimary2": {
+      "dmg to target out of cover": 12
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "SMG-9",
+    "name": "Converted SMG-9 A2",
+    "rarety": "NONE",
+    "rpm": 1,
+    "baseMagSize": 32,
+    "moddedMagSize": 52,
+    "reload": 2.3,
+    "damage": 46734.5,
+    "optimalRange": 15,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "SMG-9",
+    "name": "Converted SMG-9",
+    "rarety": "NONE",
+    "rpm": 1,
+    "baseMagSize": 32,
+    "moddedMagSize": 52,
+    "reload": 2.26,
+    "damage": 48511.5,
+    "optimalRange": 15,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "SMG-9",
+    "name": "Converted SMG-9 Replica",
+    "rarety": "NONE",
+    "rpm": 1,
+    "baseMagSize": 32,
+    "moddedMagSize": 52,
+    "reload": 2.26,
+    "damage": 48511.5,
+    "optimalRange": 15,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "SMG-9",
+    "name": "Purist (Converted SMG-9 A2)",
+    "rarety": "NAMED",
+    "rpm": 1,
+    "baseMagSize": 32,
+    "moddedMagSize": 52,
+    "reload": 2.3,
+    "damage": 46734.5,
+    "optimalRange": 15,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedTalent": [
+      "Perfect Streamline"
+    ],
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "MP5",
+    "name": "MP5 ST",
+    "rarety": "NONE",
+    "rpm": 800,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 1.79,
+    "damage": 53903.5,
+    "optimalRange": 21,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "MP5",
+    "name": "MP5 ST Replica",
+    "rarety": "NONE",
+    "rpm": 800,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 1.79,
+    "damage": 53903.5,
+    "optimalRange": 21,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "MP5",
+    "name": "MP5A2",
+    "rarety": "NONE",
+    "rpm": 800,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 1.79,
+    "damage": 53903.5,
+    "optimalRange": 21,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "MP5",
+    "name": "MP5-N",
+    "rarety": "NONE",
+    "rpm": 800,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 1.79,
+    "damage": 53903.5,
+    "optimalRange": 21,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "MP5",
+    "name": "Cabaret (MP5 ST)",
+    "rarety": "NAMED",
+    "rpm": 800,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 1.79,
+    "damage": 53903.5,
+    "optimalRange": 21,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedTalent": [
+      "Perfect Thunder Strike"
+    ],
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "CMMG",
+    "name": "CMMG Banshee",
+    "rarety": "NONE",
+    "rpm": 900,
+    "baseMagSize": 32,
+    "moddedMagSize": 52,
+    "reload": 1.92,
+    "damage": 47848.5,
+    "optimalRange": 21,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "CMMG",
+    "name": "The Grudge",
+    "rarety": "NAMED",
+    "rpm": 900,
+    "baseMagSize": 32,
+    "moddedMagSize": 52,
+    "reload": 1.92,
+    "damage": 47848.5,
+    "optimalRange": 21,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedTalent": [
+      "Perfectly Vindictive"
+    ],
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "CMMG",
+    "name": "Lady Death",
+    "rarety": "EXOTIC",
+    "rpm": 900,
+    "baseMagSize": 32,
+    "moddedMagSize": 0,
+    "reload": 1.75,
+    "damage": 35409,
+    "optimalRange": 21,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "critical hit chance": 15
+      },
+      "MAGAZINE SLOT": {
+        "reload speed": 10
+      },
+      "MUZZLE SLOT": {
+        "critical hit damage": 10
+      },
+      "UNDERBARREL": {
+        "melee damage": 500
+      }
+    },
+    "hsd": 50,
+    "fixedTalent": [
+      "Breathe Free"
+    ],
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "PP-19",
+    "name": "PP-19",
+    "rarety": "NONE",
+    "rpm": 700,
+    "baseMagSize": 53,
+    "moddedMagSize": 0,
+    "reload": 1.46,
+    "damage": 63593,
+    "optimalRange": 21,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "PP-19",
+    "name": "Enhanced PP-19",
+    "rarety": "NONE",
+    "rpm": 700,
+    "baseMagSize": 53,
+    "moddedMagSize": 0,
+    "reload": 1.46,
+    "damage": 63593,
+    "optimalRange": 21,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "PP-19",
+    "name": "Cold Relations (Enhanced PP-19)",
+    "rarety": "NAMED",
+    "rpm": 700,
+    "baseMagSize": 53,
+    "moddedMagSize": 0,
+    "reload": 1.46,
+    "damage": 63593,
+    "optimalRange": 21,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedTalent": [
+      "Perfectly Strained"
+    ],
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "AUG",
+    "name": "AUG A3 Para XS",
+    "rarety": "NONE",
+    "rpm": 725,
+    "baseMagSize": 25,
+    "moddedMagSize": 45,
+    "reload": 2.31,
+    "damage": 58661.5,
+    "optimalRange": 22,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "AUG",
+    "name": "Enhanced AUG A3P",
+    "rarety": "NONE",
+    "rpm": 725,
+    "baseMagSize": 25,
+    "moddedMagSize": 45,
+    "reload": 2.31,
+    "damage": 58661.5,
+    "optimalRange": 22,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "AUG",
+    "name": "Tactical AUG A3P",
+    "rarety": "NONE",
+    "rpm": 725,
+    "baseMagSize": 25,
+    "moddedMagSize": 45,
+    "reload": 2.31,
+    "damage": 58661.5,
+    "optimalRange": 22,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "AUG",
+    "name": "Tactical AUG A3P Replica",
+    "rarety": "NONE",
+    "rpm": 725,
+    "baseMagSize": 25,
+    "moddedMagSize": 45,
+    "reload": 2.31,
+    "damage": 58661.5,
+    "optimalRange": 22,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "Vector",
+    "name": "Vector SBR .45 ACP",
+    "rarety": "NONE",
+    "rpm": 1,
+    "baseMagSize": 25,
+    "moddedMagSize": 45,
+    "reload": 2.06,
+    "damage": 38300.5,
+    "optimalRange": 15,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "Vector",
+    "name": "Vector SBR .45 ACP Replica",
+    "rarety": "NONE",
+    "rpm": 1,
+    "baseMagSize": 25,
+    "moddedMagSize": 45,
+    "reload": 2.06,
+    "damage": 38300.5,
+    "optimalRange": 15,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "Vector",
+    "name": "Vector SBR 9mm",
+    "rarety": "NONE",
+    "rpm": 1,
+    "baseMagSize": 33,
+    "moddedMagSize": 53,
+    "reload": 2.38,
+    "damage": 39306.5,
+    "optimalRange": 15,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "Vector",
+    "name": "Tactical Vector SBR 9mm",
+    "rarety": "NONE",
+    "rpm": 1,
+    "baseMagSize": 19,
+    "moddedMagSize": 39,
+    "reload": 1.69,
+    "damage": 40505.5,
+    "optimalRange": 15,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "Vector",
+    "name": "Froth (Tactical Vector SBR 9mm)",
+    "rarety": "NAMED",
+    "rpm": 1,
+    "baseMagSize": 19,
+    "moddedMagSize": 39,
+    "reload": 1.69,
+    "damage": 40505.5,
+    "optimalRange": 15,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedTalent": [
+      "Perfect Immobilize"
+    ],
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "Vector",
+    "name": "Dark Winter (Vector SBR .45 ACP)",
+    "rarety": "NAMED",
+    "rpm": 1,
+    "baseMagSize": 25,
+    "moddedMagSize": 45,
+    "reload": 2.06,
+    "damage": 38300.5,
+    "optimalRange": 15,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedTalent": [
+      "Perfect Killer"
+    ],
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "Vector",
+    "name": "Ouroboros (Vector SBR .45 ACP)",
+    "rarety": "EXOTIC",
+    "rpm": 1,
+    "baseMagSize": 50,
+    "moddedMagSize": 0,
+    "reload": 1.65,
+    "damage": 38300.5,
+    "optimalRange": 15,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "critical hit damage": 10
+      },
+      "MAGAZINE SLOT": {
+        "reload speed": 25
+      },
+      "MUZZLE SLOT": {
+        "rate of fire": 10
+      },
+      "UNDERBARREL": {
+        "critical hit chance": 10
+      }
+    },
+    "hsd": 50,
+    "fixedTalent": [
+      "Rule them all"
+    ],
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "MP7",
+    "name": "MP7",
+    "rarety": "NONE",
+    "rpm": 950,
+    "baseMagSize": 40,
+    "moddedMagSize": 0,
+    "reload": 1.6,
+    "damage": 46405.5,
+    "optimalRange": 21,
+    "modSlots": [
+      "3$"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "MP7",
+    "name": "Swap Chain",
+    "rarety": "NAMED",
+    "rpm": 950,
+    "baseMagSize": 40,
+    "moddedMagSize": 0,
+    "reload": 1.6,
+    "damage": 46405.5,
+    "optimalRange": 21,
+    "modSlots": [
+      "OPTICS RAIL",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedTalent": [
+      "Perfect Unwavering"
+    ],
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "MP7",
+    "name": "Oxpecker",
+    "rarety": "EXOTIC",
+    "rpm": 950,
+    "baseMagSize": 40,
+    "moddedMagSize": 50,
+    "reload": 1.6,
+    "damage": 46405.5,
+    "optimalRange": 21,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "optimal range": 50
+      },
+      "MUZZLE SLOT": {
+        "rounds": 10
+      },
+      "UNDERBARREL": {
+        "critical hit chance": 15
+      }
+    },
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "T821",
+    "name": "Police T821",
+    "rarety": "NONE",
+    "rpm": 550,
+    "baseMagSize": 32,
+    "moddedMagSize": 52,
+    "reload": 1.47,
+    "damage": 76916,
+    "optimalRange": 20,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "T821",
+    "name": "Black Market T821",
+    "rarety": "NONE",
+    "rpm": 550,
+    "baseMagSize": 32,
+    "moddedMagSize": 52,
+    "reload": 1.47,
+    "damage": 76916,
+    "optimalRange": 20,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "T821",
+    "name": "Black Market T821 Replica",
+    "rarety": "NONE",
+    "rpm": 550,
+    "baseMagSize": 32,
+    "moddedMagSize": 52,
+    "reload": 1.47,
+    "damage": 76916,
+    "optimalRange": 20,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "UMP-45",
+    "name": "Police UMP-45",
+    "rarety": "NONE",
+    "rpm": 650,
+    "baseMagSize": 25,
+    "moddedMagSize": 45,
+    "reload": 1.67,
+    "damage": 63691.5,
+    "optimalRange": 16,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "UMP-45",
+    "name": "Tactical UMP-45",
+    "rarety": "NONE",
+    "rpm": 650,
+    "baseMagSize": 25,
+    "moddedMagSize": 45,
+    "reload": 1.67,
+    "damage": 63691.5,
+    "optimalRange": 16,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "UMP-45",
+    "name": "Tactical UMP-45 Replica",
+    "rarety": "NONE",
+    "rpm": 650,
+    "baseMagSize": 25,
+    "moddedMagSize": 45,
+    "reload": 1.67,
+    "damage": 63691.5,
+    "optimalRange": 16,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "UMP-45",
+    "name": "Slingshot (Tactical UMP-45)",
+    "rarety": "NAMED",
+    "rpm": 650,
+    "baseMagSize": 25,
+    "moddedMagSize": 45,
+    "reload": 1.67,
+    "damage": 63691.5,
+    "optimalRange": 60,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "bonus": {
+      "optimal range": 45
+    },
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "Thompson",
+    "name": "M1928",
+    "rarety": "NONE",
+    "rpm": 600,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 1.46,
+    "damage": 78416,
+    "optimalRange": 19,
+    "modSlots": [
+      "OPTICS RAIL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "Thompson",
+    "name": "Tommy Gun",
+    "rarety": "NONE",
+    "rpm": 900,
+    "baseMagSize": 50,
+    "moddedMagSize": 0,
+    "reload": 1.54,
+    "damage": 50627,
+    "optimalRange": 19,
+    "modSlots": [],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "Thompson",
+    "name": "The Sleigher (Tommy Gun)",
+    "rarety": "NAMED",
+    "rpm": 250,
+    "baseMagSize": 50,
+    "moddedMagSize": 0,
+    "reload": 2.3,
+    "damage": 92989.5,
+    "optimalRange": 16,
+    "modSlots": [],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedTalent": [
+      "Hidden Rock"
+    ],
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "Thompson",
+    "name": "Grown Great (Tommy Gun)",
+    "rarety": "NAMED",
+    "rpm": 900,
+    "baseMagSize": 50,
+    "moddedMagSize": 0,
+    "reload": 1.54,
+    "damage": 50627,
+    "optimalRange": 19,
+    "modSlots": [],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedTalent": [
+      "Perfect Stabilize"
+    ],
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "P90",
+    "name": "P90",
+    "rarety": "NONE",
+    "rpm": 1,
+    "baseMagSize": 50,
+    "moddedMagSize": 0,
+    "reload": 1.57,
+    "damage": 39457,
+    "optimalRange": 21,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "P90",
+    "name": "P90 Replica",
+    "rarety": "NONE",
+    "rpm": 1,
+    "baseMagSize": 50,
+    "moddedMagSize": 0,
+    "reload": 1.57,
+    "damage": 39457,
+    "optimalRange": 21,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "P90",
+    "name": "Emeline's Guard",
+    "rarety": "NAMED",
+    "rpm": 1,
+    "baseMagSize": 50,
+    "moddedMagSize": 0,
+    "reload": 1.57,
+    "damage": 39457,
+    "optimalRange": 21,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedTalent": [
+      "Perfect Preservation"
+    ],
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "P90",
+    "name": "The Chatterbox",
+    "rarety": "EXOTIC",
+    "rpm": 850,
+    "baseMagSize": 50,
+    "moddedMagSize": 60,
+    "reload": 1.43,
+    "damage": 39457,
+    "optimalRange": 21,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "critical hit chance": 15
+      },
+      "MAGAZINE SLOT": {
+        "rounds": 10
+      },
+      "MUZZLE SLOT": {
+        "critical hit damage": 15
+      },
+      "UNDERBARREL": {
+        "weapon handling": 10
+      }
+    },
+    "hsd": 50,
+    "fixedTalent": [
+      "Incessant Chatter"
+    ],
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "MPX",
+    "name": "MPX",
+    "rarety": "NONE",
+    "rpm": 850,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.09,
+    "damage": 50998.5,
+    "optimalRange": 22,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "MPX",
+    "name": "Safety Distance",
+    "rarety": "NAMED",
+    "rpm": 850,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.09,
+    "damage": 50998.5,
+    "optimalRange": 22,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedTalent": [
+      "Perfect Outsider"
+    ],
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "MPX",
+    "name": "The Apartment",
+    "rarety": "NAMED",
+    "rpm": 850,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.09,
+    "damage": 50998.5,
+    "optimalRange": 22,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 50,
+    "fixedTalent": [
+      "Perfectly Measured"
+    ],
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "smg",
+    "variant": "MPX",
+    "name": "Backfire",
+    "rarety": "EXOTIC",
+    "rpm": 850,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.09,
+    "damage": 50998.5,
+    "optimalRange": 22,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "critical hit chance": 15
+      },
+      "MAGAZINE SLOT": {
+        "rounds": 20
+      },
+      "MUZZLE SLOT": {
+        "critical hit damage": 15
+      },
+      "UNDERBARREL": {
+        "stability": 10
+      }
+    },
+    "hsd": 50,
+    "fixedTalent": [
+      "Payment in kind"
+    ],
+    "fixedPrimary1": {
+      "smg damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit chance": 21
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "AA12",
+    "name": "ACS-12",
+    "rarety": "NONE",
+    "rpm": 300,
+    "baseMagSize": 20,
+    "moddedMagSize": 0,
+    "reload": 3.35,
+    "damage": 180748,
+    "optimalRange": 16,
+    "modSlots": [
+      "OPTICS RAIL",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "AA12",
+    "name": "Stack Broker",
+    "rarety": "NAMED",
+    "rpm": 360,
+    "baseMagSize": 20,
+    "moddedMagSize": 0,
+    "reload": 3.35,
+    "damage": 150624,
+    "optimalRange": 16,
+    "modSlots": [
+      "OPTICS RAIL",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "AA12",
+    "name": "Lefty",
+    "rarety": "NAMED",
+    "rpm": 300,
+    "baseMagSize": 20,
+    "moddedMagSize": 0,
+    "reload": 3.35,
+    "damage": 180748,
+    "optimalRange": 16,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedTalent": [
+      "Perfect Sledgehammer"
+    ],
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "AA12",
+    "name": "Rock n' Roll",
+    "rarety": "NAMED",
+    "rpm": 300,
+    "baseMagSize": 30,
+    "moddedMagSize": 0,
+    "reload": 3.35,
+    "damage": 180748,
+    "optimalRange": 16,
+    "modSlots": [
+      "OPTICS RAIL",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedTalent": [
+      "Perfectly Extra"
+    ],
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "Double Barrel",
+    "name": "Double Barrel Shotgun",
+    "rarety": "NONE",
+    "rpm": 200,
+    "baseMagSize": 2,
+    "moddedMagSize": 0,
+    "reload": 3.89,
+    "damage": 678136,
+    "optimalRange": 11,
+    "modSlots": [
+      "0$"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "Double Barrel",
+    "name": "Double Barrel Shotgun Replica",
+    "rarety": "NONE",
+    "rpm": 200,
+    "baseMagSize": 2,
+    "moddedMagSize": 0,
+    "reload": 3.89,
+    "damage": 678136,
+    "optimalRange": 11,
+    "modSlots": [],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "Double Barrel",
+    "name": "Boomstick",
+    "rarety": "NAMED",
+    "rpm": 200,
+    "baseMagSize": 2,
+    "moddedMagSize": 0,
+    "reload": 3.89,
+    "damage": 678136,
+    "optimalRange": 11,
+    "modSlots": [],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedTalent": [
+      "Perfect Pumped Up"
+    ],
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "Sawed-Off",
+    "name": "Sawed-Off Double Barrel",
+    "rarety": "NONE",
+    "rpm": 200,
+    "baseMagSize": 2,
+    "moddedMagSize": 0,
+    "reload": 2.51,
+    "damage": 635712,
+    "optimalRange": 7,
+    "modSlots": [],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "Sawed-Off",
+    "name": "Firestarter",
+    "rarety": "NAMED",
+    "rpm": 200,
+    "baseMagSize": 2,
+    "moddedMagSize": 0,
+    "reload": 2.51,
+    "damage": 635712,
+    "optimalRange": 7,
+    "modSlots": [],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedTalent": [
+      "Primer Rounds"
+    ],
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "Sawed-Off",
+    "name": "Backup Boomstick",
+    "rarety": "NAMED",
+    "rpm": 200,
+    "baseMagSize": 2,
+    "moddedMagSize": 0,
+    "reload": 2.51,
+    "damage": 635712,
+    "optimalRange": 7,
+    "modSlots": [],
+    "fixedSlots": [],
+    "hsd": 45,
+    "bonus": {
+      "shotgun damage": 17
+    },
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "KSG",
+    "name": "KSG Shotgun",
+    "rarety": "NONE",
+    "rpm": 70,
+    "baseMagSize": 12,
+    "moddedMagSize": 0,
+    "reload": 7.99,
+    "damage": 678928,
+    "optimalRange": 16,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "KSG",
+    "name": "The Send-Off",
+    "rarety": "NAMED",
+    "rpm": 70,
+    "baseMagSize": 12,
+    "moddedMagSize": 0,
+    "reload": 7.99,
+    "damage": 678928,
+    "optimalRange": 32,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedTalent": [
+      "Perfect Distance"
+    ],
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "KSG",
+    "name": "Overlord",
+    "rarety": "EXOTIC",
+    "rpm": 70,
+    "baseMagSize": 12,
+    "moddedMagSize": 0,
+    "reload": 6.94,
+    "damage": 678928,
+    "optimalRange": 16,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "critical hit damage": 15
+      },
+      "MAGAZINE SLOT": {
+        "reload speed": 15
+      },
+      "UNDERBARREL": {
+        "stability": 20
+      }
+    },
+    "hsd": 45,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "M870",
+    "name": "Custom M870 MCS",
+    "rarety": "NONE",
+    "rpm": 75,
+    "baseMagSize": 5,
+    "moddedMagSize": 0,
+    "reload": 3.35,
+    "damage": 703672,
+    "optimalRange": 11,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "M870",
+    "name": "Custom M870 MCS Replica",
+    "rarety": "NONE",
+    "rpm": 75,
+    "baseMagSize": 5,
+    "moddedMagSize": 0,
+    "reload": 3.35,
+    "damage": 703672,
+    "optimalRange": 11,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "M870",
+    "name": "M870 Express",
+    "rarety": "NONE",
+    "rpm": 75,
+    "baseMagSize": 5,
+    "moddedMagSize": 0,
+    "reload": 3.35,
+    "damage": 703672,
+    "optimalRange": 11,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "M870",
+    "name": "M870 Express Replica",
+    "rarety": "NONE",
+    "rpm": 75,
+    "baseMagSize": 5,
+    "moddedMagSize": 0,
+    "reload": 3.35,
+    "damage": 703672,
+    "optimalRange": 11,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "M870",
+    "name": "Military M870",
+    "rarety": "NONE",
+    "rpm": 75,
+    "baseMagSize": 5,
+    "moddedMagSize": 0,
+    "reload": 3.35,
+    "damage": 703672,
+    "optimalRange": 11,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "M870",
+    "name": "Lockdown (M870 Express)",
+    "rarety": "NAMED",
+    "rpm": 75,
+    "baseMagSize": 5,
+    "moddedMagSize": 0,
+    "reload": 3.35,
+    "damage": 703672,
+    "optimalRange": 11,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedTalent": [
+      "Perfect Immobilize"
+    ],
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "M870",
+    "name": "Cuélebre (Military M870)",
+    "rarety": "NAMED",
+    "rpm": 75,
+    "baseMagSize": 5,
+    "moddedMagSize": 0,
+    "reload": 2.23,
+    "damage": 703672,
+    "optimalRange": 11,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedTalent": [
+      "Perfect Jazz Hands"
+    ],
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "SASG-12",
+    "name": "Black Market SASG-12 S",
+    "rarety": "NONE",
+    "rpm": 180,
+    "baseMagSize": 7,
+    "moddedMagSize": 0,
+    "reload": 3.05,
+    "damage": 349804,
+    "optimalRange": 14,
+    "modSlots": [
+      "OPTICS RAIL",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "SASG-12",
+    "name": "Black Market SASG-12 S Replica",
+    "rarety": "NONE",
+    "rpm": 180,
+    "baseMagSize": 7,
+    "moddedMagSize": 0,
+    "reload": 3.05,
+    "damage": 349804,
+    "optimalRange": 14,
+    "modSlots": [
+      "OPTICS RAIL",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "SASG-12",
+    "name": "SASG-12",
+    "rarety": "NONE",
+    "rpm": 180,
+    "baseMagSize": 7,
+    "moddedMagSize": 0,
+    "reload": 3.05,
+    "damage": 349804,
+    "optimalRange": 14,
+    "modSlots": [
+      "OPTICS RAIL",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "SASG-12",
+    "name": "Tactical SASG-12 K",
+    "rarety": "NONE",
+    "rpm": 180,
+    "baseMagSize": 7,
+    "moddedMagSize": 0,
+    "reload": 3.05,
+    "damage": 349804,
+    "optimalRange": 14,
+    "modSlots": [
+      "OPTICS RAIL",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "SASG-12",
+    "name": "Tsunami (Tactical SASG-12 K)",
+    "rarety": "NAMED",
+    "rpm": 180,
+    "baseMagSize": 7,
+    "moddedMagSize": 0,
+    "reload": 3.05,
+    "damage": 349804,
+    "optimalRange": 14,
+    "modSlots": [
+      "OPTICS RAIL",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedTalent": [
+      "Perfect Pummel"
+    ],
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "SPAS-12",
+    "name": "SPAS-12",
+    "rarety": "NONE",
+    "rpm": 70,
+    "baseMagSize": 8,
+    "moddedMagSize": 0,
+    "reload": 5.5,
+    "damage": 716008,
+    "optimalRange": 16,
+    "modSlots": [
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "SPAS-12",
+    "name": "SPAS-12 Replica",
+    "rarety": "NONE",
+    "rpm": 70,
+    "baseMagSize": 8,
+    "moddedMagSize": 0,
+    "reload": 5.5,
+    "damage": 716008,
+    "optimalRange": 16,
+    "modSlots": [
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "SPAS-12",
+    "name": "Thorn",
+    "rarety": "NAMED",
+    "rpm": 70,
+    "baseMagSize": 8,
+    "moddedMagSize": 0,
+    "reload": 5.5,
+    "damage": 716008,
+    "optimalRange": 16,
+    "modSlots": [
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedTalent": [
+      "Perfect Brazen"
+    ],
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "SPAS-12",
+    "name": "Lullaby",
+    "rarety": "EXOTIC",
+    "rpm": 70,
+    "baseMagSize": 8,
+    "moddedMagSize": 0,
+    "reload": 4.78,
+    "damage": 716008,
+    "optimalRange": 13,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "accuracy": 15
+      },
+      "MAGAZINE SLOT": {
+        "reload speed": 15
+      },
+      "UNDERBARREL": {
+        "optimal range": 25
+      }
+    },
+    "hsd": 25,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "SPAS-12",
+    "name": "Sweet Dreams",
+    "rarety": "EXOTIC",
+    "rpm": 70,
+    "baseMagSize": 8,
+    "moddedMagSize": 0,
+    "reload": 4.78,
+    "damage": 716008,
+    "optimalRange": 13,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "accuracy": 15
+      },
+      "MUZZLE SLOT": {
+        "reload speed": 15
+      },
+      "UNDERBARREL": {
+        "optimal range": 25
+      }
+    },
+    "hsd": 25,
+    "fixedTalent": [
+      "Sandman"
+    ],
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "Super 90",
+    "name": "Marine Super 90",
+    "rarety": "NONE",
+    "rpm": 160,
+    "baseMagSize": 8,
+    "moddedMagSize": 0,
+    "reload": 4.65,
+    "damage": 389936,
+    "optimalRange": 11,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "Super 90",
+    "name": "Super 90",
+    "rarety": "NONE",
+    "rpm": 160,
+    "baseMagSize": 8,
+    "moddedMagSize": 0,
+    "reload": 4.65,
+    "damage": 389936,
+    "optimalRange": 11,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "Super 90",
+    "name": "Super 90 Replica",
+    "rarety": "NONE",
+    "rpm": 160,
+    "baseMagSize": 8,
+    "moddedMagSize": 0,
+    "reload": 4.65,
+    "damage": 389936,
+    "optimalRange": 11,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "Super 90",
+    "name": "Tactical Super 90 SBS",
+    "rarety": "NONE",
+    "rpm": 160,
+    "baseMagSize": 8,
+    "moddedMagSize": 0,
+    "reload": 4.65,
+    "damage": 389936,
+    "optimalRange": 11,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "Super 90",
+    "name": "Tactical Super 90 SBS Replica",
+    "rarety": "NONE",
+    "rpm": 160,
+    "baseMagSize": 8,
+    "moddedMagSize": 0,
+    "reload": 4.65,
+    "damage": 389936,
+    "optimalRange": 11,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "Super 90",
+    "name": "Like Glue (Super 90)",
+    "rarety": "NAMED",
+    "rpm": 160,
+    "baseMagSize": 8,
+    "moddedMagSize": 0,
+    "reload": 4.65,
+    "damage": 389936,
+    "optimalRange": 11,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedTalent": [
+      "Perfect Brazen"
+    ],
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "Super 90",
+    "name": "The Sheriff",
+    "rarety": "EXOTIC",
+    "rpm": 0,
+    "baseMagSize": 0,
+    "moddedMagSize": 0,
+    "reload": 0,
+    "damage": 0,
+    "optimalRange": 0,
+    "modSlots": [],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "Super 90",
+    "name": "Enforcer (Super 90)",
+    "rarety": "NAMED",
+    "rpm": 160,
+    "baseMagSize": 8,
+    "moddedMagSize": 0,
+    "reload": 4.65,
+    "damage": 389936,
+    "optimalRange": 11,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedTalent": [
+      "Perfect Pummel"
+    ],
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "Six12",
+    "name": "Six12",
+    "rarety": "NONE",
+    "rpm": 130,
+    "baseMagSize": 7,
+    "moddedMagSize": 0,
+    "reload": 3,
+    "damage": 409568,
+    "optimalRange": 14,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "Six12",
+    "name": "The Mop",
+    "rarety": "NAMED",
+    "rpm": 130,
+    "baseMagSize": 7,
+    "moddedMagSize": 0,
+    "reload": 3,
+    "damage": 409568,
+    "optimalRange": 14,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 45,
+    "bonus": {
+      "armor on kill": 10
+    },
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "shotgun",
+    "variant": "Six12",
+    "name": "Scorpio",
+    "rarety": "EXOTIC",
+    "rpm": 130,
+    "baseMagSize": 7,
+    "moddedMagSize": 0,
+    "reload": 2.5,
+    "damage": 409568,
+    "optimalRange": 14,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "critical hit chance": 10
+      },
+      "MAGAZINE SLOT": {
+        "reload speed": 10
+      },
+      "MUZZLE SLOT": {
+        "stability": 10
+      },
+      "UNDERBARREL": {
+        "weapon handling": 10
+      }
+    },
+    "hsd": 45,
+    "fixedTalent": [
+      "Septic Shock"
+    ],
+    "fixedPrimary1": {
+      "shotgun damage": 15
+    },
+    "fixedPrimary2": {
+      "damage to armor": 12
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "ACR",
+    "name": "ACR SS",
+    "rarety": "NONE",
+    "rpm": 420,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.63,
+    "damage": 101828,
+    "optimalRange": 45,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "AKM",
+    "name": "Ruthless",
+    "rarety": "EXOTIC",
+    "rpm": 400,
+    "baseMagSize": 30,
+    "moddedMagSize": 0,
+    "reload": 1.74,
+    "damage": 102269.5,
+    "optimalRange": 35,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "accuracy": 15
+      },
+      "MAGAZINE SLOT": {
+        "reload speed": 10
+      },
+      "MUZZLE SLOT": {
+        "stability": 15
+      },
+      "UNDERBARREL": {
+        "weapon handling": 15
+      }
+    },
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "AKM",
+    "name": "Merciless",
+    "rarety": "EXOTIC",
+    "rpm": 400,
+    "baseMagSize": 30,
+    "moddedMagSize": 0,
+    "reload": 1.74,
+    "damage": 102269.5,
+    "optimalRange": 35,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "accuracy": 15
+      },
+      "MAGAZINE SLOT": {
+        "reload speed": 10
+      },
+      "MUZZLE SLOT": {
+        "stability": 15
+      },
+      "UNDERBARREL": {
+        "weapon handling": 15
+      }
+    },
+    "hsd": 60,
+    "fixedTalent": [
+      "Binary Trigger"
+    ],
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "AR15",
+    "name": "UIC15 MOD2",
+    "rarety": "NONE",
+    "rpm": 240,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 1.73,
+    "damage": 150316,
+    "optimalRange": 60,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "M16",
+    "name": "M16A2",
+    "rarety": "NONE",
+    "rpm": 400,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.44,
+    "damage": 106971,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "M16",
+    "name": "M16A2 Replica",
+    "rarety": "NONE",
+    "rpm": 400,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.44,
+    "damage": 106971,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "M16",
+    "name": "Whisper",
+    "rarety": "NAMED",
+    "rpm": 400,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.44,
+    "damage": 106971,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedTalent": [
+      "Perfectly Behind You"
+    ],
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "M1A",
+    "name": "Classic M1A",
+    "rarety": "NONE",
+    "rpm": 180,
+    "baseMagSize": 10,
+    "moddedMagSize": 15,
+    "reload": 2.6,
+    "damage": 231346,
+    "optimalRange": 60,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "M1A",
+    "name": "Socom M1A",
+    "rarety": "NONE",
+    "rpm": 320,
+    "baseMagSize": 10,
+    "moddedMagSize": 15,
+    "reload": 2.32,
+    "damage": 129179.5,
+    "optimalRange": 60,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "M1A",
+    "name": "M1A CQB",
+    "rarety": "NONE",
+    "rpm": 320,
+    "baseMagSize": 10,
+    "moddedMagSize": 15,
+    "reload": 2.32,
+    "damage": 129179.5,
+    "optimalRange": 60,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "M1A",
+    "name": "M1A CQB Replica",
+    "rarety": "NONE",
+    "rpm": 320,
+    "baseMagSize": 10,
+    "moddedMagSize": 15,
+    "reload": 2.32,
+    "damage": 129179.5,
+    "optimalRange": 60,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "M1A",
+    "name": "Baker's Dozen (Classic M1A)",
+    "rarety": "NAMED",
+    "rpm": 180,
+    "baseMagSize": 13,
+    "moddedMagSize": 18,
+    "reload": 2.86,
+    "damage": 231346,
+    "optimalRange": 60,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedTalent": [
+      "Perfect Lucky Shot"
+    ],
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "M1A",
+    "name": "Stage Left (Socom M1A)",
+    "rarety": "NAMED",
+    "rpm": 320,
+    "baseMagSize": 10,
+    "moddedMagSize": 15,
+    "reload": 2.32,
+    "damage": 129179.5,
+    "optimalRange": 60,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedTalent": [
+      "Perfect Sledgehammer"
+    ],
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "M1A",
+    "name": "Cooler (M1A CQB)",
+    "rarety": "NAMED",
+    "rpm": 320,
+    "baseMagSize": 100,
+    "moddedMagSize": 0,
+    "reload": 3,
+    "damage": 0,
+    "optimalRange": 60,
+    "modSlots": [],
+    "fixedSlots": [],
+    "hsd": -100,
+    "fixedTalent": [
+      "Refreshing"
+    ],
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "M1A",
+    "name": "Bittersweet (Classic M1A)",
+    "rarety": "EXOTIC",
+    "rpm": 180,
+    "baseMagSize": 10,
+    "moddedMagSize": 20,
+    "reload": 2.6,
+    "damage": 231346,
+    "optimalRange": 60,
+    "modSlots": [],
+    "fixedSlots": [],
+    "hsd": 70,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "M1A",
+    "name": "Doctor Home (M1A CQB)",
+    "rarety": "EXOTIC",
+    "rpm": 320,
+    "baseMagSize": 10,
+    "moddedMagSize": 0,
+    "reload": 1.93,
+    "damage": 129269.5,
+    "optimalRange": 60,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "accuracy": 10
+      },
+      "MAGAZINE SLOT": {
+        "reload speed": 10
+      },
+      "MUZZLE SLOT": {
+        "stability": 10
+      },
+      "UNDERBARREL": {
+        "weapon handling": 10
+      }
+    },
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "M4",
+    "name": "Lightweight M4",
+    "rarety": "NONE",
+    "rpm": 360,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.03,
+    "damage": 107257.5,
+    "optimalRange": 55,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "M4",
+    "name": "LVOA-C",
+    "rarety": "NONE",
+    "rpm": 380,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.08,
+    "damage": 100615,
+    "optimalRange": 55,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "M4",
+    "name": "LVOA-C Replica",
+    "rarety": "NONE",
+    "rpm": 380,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.08,
+    "damage": 100615,
+    "optimalRange": 55,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "M4",
+    "name": "Surge (LVOA-C)",
+    "rarety": "NAMED",
+    "rpm": 380,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 2.08,
+    "damage": 100615,
+    "optimalRange": 55,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedTalent": [
+      "Perfect Spike"
+    ],
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "MDR",
+    "name": "Urban MDR",
+    "rarety": "NONE",
+    "rpm": 380,
+    "baseMagSize": 20,
+    "moddedMagSize": 40,
+    "reload": 2.85,
+    "damage": 102970,
+    "optimalRange": 60,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "MDR",
+    "name": "Urban MDR Replica",
+    "rarety": "NONE",
+    "rpm": 380,
+    "baseMagSize": 20,
+    "moddedMagSize": 40,
+    "reload": 2.85,
+    "damage": 102970,
+    "optimalRange": 60,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "MDR",
+    "name": "Vindicator",
+    "rarety": "EXOTIC",
+    "rpm": 380,
+    "baseMagSize": 25,
+    "moddedMagSize": 0,
+    "reload": 2.97,
+    "damage": 102970,
+    "optimalRange": 60,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "accuracy": 15
+      },
+      "MAGAZINE SLOT": {
+        "rounds": 5
+      },
+      "MUZZLE SLOT": {
+        "optimal range": 10
+      },
+      "UNDERBARREL": {
+        "stability": 15
+      }
+    },
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "Scar",
+    "name": "Military MK17",
+    "rarety": "NONE",
+    "rpm": 275,
+    "baseMagSize": 10,
+    "moddedMagSize": 30,
+    "reload": 2.45,
+    "damage": 145850,
+    "optimalRange": 55,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "Scar",
+    "name": "Police MK17",
+    "rarety": "NONE",
+    "rpm": 275,
+    "baseMagSize": 10,
+    "moddedMagSize": 30,
+    "reload": 2.45,
+    "damage": 145850,
+    "optimalRange": 55,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "Scar",
+    "name": "Police MK17 Replica",
+    "rarety": "NONE",
+    "rpm": 275,
+    "baseMagSize": 10,
+    "moddedMagSize": 30,
+    "reload": 2.45,
+    "damage": 145850,
+    "optimalRange": 55,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "Scar",
+    "name": "Everlasting Gaze (Police MK17)",
+    "rarety": "NAMED",
+    "rpm": 275,
+    "baseMagSize": 10,
+    "moddedMagSize": 30,
+    "reload": 2.45,
+    "damage": 145850,
+    "optimalRange": 55,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedTalent": [
+      "Perfect Perpetuation"
+    ],
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "SIG",
+    "name": "SIG 716",
+    "rarety": "NONE",
+    "rpm": 320,
+    "baseMagSize": 20,
+    "moddedMagSize": 40,
+    "reload": 2.68,
+    "damage": 121258,
+    "optimalRange": 45,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "SIG",
+    "name": "SIG 716 Replica",
+    "rarety": "NONE",
+    "rpm": 320,
+    "baseMagSize": 20,
+    "moddedMagSize": 40,
+    "reload": 2.68,
+    "damage": 121258,
+    "optimalRange": 45,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "SIG",
+    "name": "SIG 716 CQB",
+    "rarety": "NONE",
+    "rpm": 320,
+    "baseMagSize": 20,
+    "moddedMagSize": 40,
+    "reload": 2.63,
+    "damage": 125865,
+    "optimalRange": 45,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "SIG",
+    "name": "Artist's Tool (SIG 716 CQB)",
+    "rarety": "NAMED",
+    "rpm": 320,
+    "baseMagSize": 20,
+    "moddedMagSize": 40,
+    "reload": 2.63,
+    "damage": 125865,
+    "optimalRange": 45,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedTalent": [
+      "Perfect Rifleman"
+    ],
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "SIG",
+    "name": "The Ravenous",
+    "rarety": "EXOTIC",
+    "rpm": 300,
+    "baseMagSize": 60,
+    "moddedMagSize": 0,
+    "reload": 2.18,
+    "damage": 134360,
+    "optimalRange": 50,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "critical hit chance": 5
+      },
+      "MAGAZINE SLOT": {
+        "reload speed": 10
+      },
+      "MUZZLE SLOT": {
+        "stability": 10
+      },
+      "UNDERBARREL": {
+        "critical hit damage": 5
+      }
+    },
+    "hsd": 60,
+    "fixedTalent": [
+      "Geri and Freki"
+    ],
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "UMP",
+    "name": "USC .45 ACP",
+    "rarety": "NONE",
+    "rpm": 420,
+    "baseMagSize": 20,
+    "moddedMagSize": 40,
+    "reload": 2.88,
+    "damage": 97742.5,
+    "optimalRange": 55,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "UMP",
+    "name": "USC .45 ACP Replica",
+    "rarety": "NONE",
+    "rpm": 420,
+    "baseMagSize": 20,
+    "moddedMagSize": 40,
+    "reload": 2.88,
+    "damage": 97742.5,
+    "optimalRange": 55,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "UMP",
+    "name": "Achilles",
+    "rarety": "NAMED",
+    "rpm": 420,
+    "baseMagSize": 20,
+    "moddedMagSize": 40,
+    "reload": 2.88,
+    "damage": 97742.5,
+    "optimalRange": 55,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 61,
+    "fixedTalent": [
+      "Perfect Soft Spot"
+    ],
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "MK47",
+    "name": "Resolute Mk47",
+    "rarety": "NONE",
+    "rpm": 300,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 1.94,
+    "damage": 124901,
+    "optimalRange": 55,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "MK47",
+    "name": "Harmony",
+    "rarety": "NAMED",
+    "rpm": 300,
+    "baseMagSize": 30,
+    "moddedMagSize": 50,
+    "reload": 1.94,
+    "damage": 124901,
+    "optimalRange": 55,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedTalent": [
+      "Perfectly In Sync"
+    ],
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "1886",
+    "name": "1886",
+    "rarety": "NONE",
+    "rpm": 100,
+    "baseMagSize": 8,
+    "moddedMagSize": 0,
+    "reload": 3.46,
+    "damage": 386988.5,
+    "optimalRange": 35,
+    "modSlots": [
+      "MAGAZINE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "1886",
+    "name": "The Virginian",
+    "rarety": "NAMED",
+    "rpm": 100,
+    "baseMagSize": 8,
+    "moddedMagSize": 0,
+    "reload": 3.46,
+    "damage": 386988.5,
+    "optimalRange": 35,
+    "modSlots": [
+      "MAGAZINE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 60,
+    "fixedTalent": [
+      "Perfect Boomerang"
+    ],
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "rifle",
+    "variant": "1886",
+    "name": "Diamondback ",
+    "rarety": "EXOTIC",
+    "rpm": 100,
+    "baseMagSize": 8,
+    "moddedMagSize": 0,
+    "reload": 3.15,
+    "damage": 386988.5,
+    "optimalRange": 35,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "accuracy": 10
+      },
+      "MAGAZINE SLOT": {
+        "reload speed": 10
+      },
+      "MUZZLE SLOT": {
+        "critical hit damage": 15
+      },
+      "UNDERBARREL": {
+        "stability": 10
+      }
+    },
+    "hsd": 60,
+    "fixedTalent": [
+      "Agonizing Bite"
+    ],
+    "fixedPrimary1": {
+      "rifle damage": 15
+    },
+    "fixedPrimary2": {
+      "critical hit damage": 17
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "SCAR",
+    "name": "SOCOM Mk20 SSR",
+    "rarety": "NONE",
+    "rpm": 275,
+    "baseMagSize": 20,
+    "moddedMagSize": 40,
+    "reload": 4.99,
+    "damage": 145850,
+    "optimalRange": 55,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "SCAR",
+    "name": "SOCOM MK20 SSR Replica",
+    "rarety": "NONE",
+    "rpm": 275,
+    "baseMagSize": 20,
+    "moddedMagSize": 40,
+    "reload": 4.99,
+    "damage": 145850,
+    "optimalRange": 55,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "SCAR",
+    "name": "The Darkness",
+    "rarety": "NAMED",
+    "rpm": 275,
+    "baseMagSize": 20,
+    "moddedMagSize": 40,
+    "reload": 4.99,
+    "damage": 145850,
+    "optimalRange": 55,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedTalent": [
+      "Perfect Eyeless"
+    ],
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "G28",
+    "name": "G28",
+    "rarety": "NONE",
+    "rpm": 180,
+    "baseMagSize": 20,
+    "moddedMagSize": 40,
+    "reload": 3.6,
+    "damage": 206425,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "G28",
+    "name": "Relic ",
+    "rarety": "NAMED",
+    "rpm": 180,
+    "baseMagSize": 20,
+    "moddedMagSize": 40,
+    "reload": 3.6,
+    "damage": 206425,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedTalent": [
+      "Perfectly Determined"
+    ],
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "G28",
+    "name": "Sacrum Imperium ",
+    "rarety": "EXOTIC",
+    "rpm": 180,
+    "baseMagSize": 20,
+    "moddedMagSize": 0,
+    "reload": 3.6,
+    "damage": 206425,
+    "optimalRange": 50,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "headshot damage": 20
+      },
+      "MAGAZINE SLOT": {
+        "headshot damage": 10
+      },
+      "MUZZLE SLOT": {
+        "optimal range": 20
+      },
+      "UNDERBARREL": {
+        "stability": 20
+      }
+    },
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "M700",
+    "name": "M700 Carbon",
+    "rarety": "NONE",
+    "rpm": 55,
+    "baseMagSize": 7,
+    "moddedMagSize": 12,
+    "reload": 3.98,
+    "damage": 412516,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "M700",
+    "name": "M700 Carbon Replica",
+    "rarety": "NONE",
+    "rpm": 55,
+    "baseMagSize": 7,
+    "moddedMagSize": 12,
+    "reload": 3.96,
+    "damage": 412516,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "M700",
+    "name": "M700 Tactical",
+    "rarety": "NONE",
+    "rpm": 55,
+    "baseMagSize": 7,
+    "moddedMagSize": 12,
+    "reload": 3.98,
+    "damage": 412516,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "M700",
+    "name": "Model 700",
+    "rarety": "NONE",
+    "rpm": 55,
+    "baseMagSize": 7,
+    "moddedMagSize": 0,
+    "reload": 7.05,
+    "damage": 441569.5,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "M700",
+    "name": "Model 700 Replica",
+    "rarety": "NONE",
+    "rpm": 55,
+    "baseMagSize": 7,
+    "moddedMagSize": 0,
+    "reload": 7.05,
+    "damage": 441569.5,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "M700",
+    "name": "Brutus (M700 Carbon)",
+    "rarety": "NAMED",
+    "rpm": 55,
+    "baseMagSize": 7,
+    "moddedMagSize": 12,
+    "reload": 3.98,
+    "damage": 412516,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedTalent": [
+      "Perfectly Behind You"
+    ],
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "M700",
+    "name": "Ekim's Long Stick (Model 700)",
+    "rarety": "NAMED",
+    "rpm": 55,
+    "baseMagSize": 7,
+    "moddedMagSize": 0,
+    "reload": 7.05,
+    "damage": 441569.5,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedTalent": [
+      "Perfect Ranger"
+    ],
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "M700",
+    "name": "Shroud (M700 Carbon)",
+    "rarety": "EXOTIC",
+    "rpm": 55,
+    "baseMagSize": 7,
+    "moddedMagSize": 0,
+    "reload": 3.32,
+    "damage": 412516,
+    "optimalRange": 50,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "headshot damage": 25
+      },
+      "MAGAZINE SLOT": {
+        "reload speed": 25
+      },
+      "MUZZLE SLOT": {
+        "headshot damage": 20
+      },
+      "UNDERBARREL": {
+        "critical hit chance": 5
+      }
+    },
+    "hsd": 0,
+    "fixedTalent": [
+      "High Priority Target"
+    ],
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "SVD",
+    "name": "Paratrooper SVD",
+    "rarety": "NONE",
+    "rpm": 260,
+    "baseMagSize": 10,
+    "moddedMagSize": 15,
+    "reload": 2.85,
+    "damage": 156662.5,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "SVD",
+    "name": "Surplus SVD",
+    "rarety": "NONE",
+    "rpm": 260,
+    "baseMagSize": 10,
+    "moddedMagSize": 15,
+    "reload": 2.85,
+    "damage": 156662.5,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "SVD",
+    "name": "Commando (Paratrooper SVD)",
+    "rarety": "NAMED",
+    "rpm": 260,
+    "baseMagSize": 10,
+    "moddedMagSize": 15,
+    "reload": 2.85,
+    "damage": 156662.5,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedTalent": [
+      "Perfectly Naked"
+    ],
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "SVD",
+    "name": "Handbasket (Surplus SVD)",
+    "rarety": "NAMED",
+    "rpm": 60,
+    "baseMagSize": 10,
+    "moddedMagSize": 15,
+    "reload": 3.15,
+    "damage": 386988.5,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "bonus": {
+      "base damage": 230326,
+      "rpm": -200
+    },
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "SVD",
+    "name": "Dread Edict",
+    "rarety": "EXOTIC",
+    "rpm": 260,
+    "baseMagSize": 10,
+    "moddedMagSize": 0,
+    "reload": 2.48,
+    "damage": 156662.5,
+    "optimalRange": 50,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "headshot damage": 40
+      },
+      "MAGAZINE SLOT": {
+        "weapon handling": 15
+      },
+      "MUZZLE SLOT": {
+        "critical hit chance": 10
+      },
+      "UNDERBARREL": {
+        "stability": 10
+      }
+    },
+    "hsd": 0,
+    "fixedTalent": [
+      "Full Stop"
+    ],
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "SRS",
+    "name": "Covert SRS",
+    "rarety": "NONE",
+    "rpm": 60,
+    "baseMagSize": 7,
+    "moddedMagSize": 12,
+    "reload": 4.29,
+    "damage": 409357,
+    "optimalRange": 60,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "SRS",
+    "name": "SRS A1",
+    "rarety": "NONE",
+    "rpm": 60,
+    "baseMagSize": 7,
+    "moddedMagSize": 12,
+    "reload": 4.29,
+    "damage": 409357,
+    "optimalRange": 60,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "SRS",
+    "name": "SRS A1 Replica",
+    "rarety": "NONE",
+    "rpm": 60,
+    "baseMagSize": 7,
+    "moddedMagSize": 12,
+    "reload": 4.29,
+    "damage": 409357,
+    "optimalRange": 60,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "SRS",
+    "name": "Pinprick (Covert SRS)",
+    "rarety": "NAMED",
+    "rpm": 60,
+    "baseMagSize": 7,
+    "moddedMagSize": 12,
+    "reload": 4.29,
+    "damage": 409357,
+    "optimalRange": 60,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedTalent": [
+      "Perfect First Blood"
+    ],
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "SRS",
+    "name": "Mantis (Covert SRS)",
+    "rarety": "EXOTIC",
+    "rpm": 60,
+    "baseMagSize": 7,
+    "moddedMagSize": 0,
+    "reload": 3.9,
+    "damage": 409357,
+    "optimalRange": 60,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "headshot damage": 40
+      },
+      "MAGAZINE SLOT": {
+        "reload speed": 10
+      },
+      "MUZZLE SLOT": {
+        "critical hit chance": 5
+      },
+      "UNDERBARREL": {
+        "stability": 10
+      }
+    },
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "M44",
+    "name": "Classic M44 Carbine",
+    "rarety": "NONE",
+    "rpm": 55,
+    "baseMagSize": 5,
+    "moddedMagSize": 0,
+    "reload": 4.29,
+    "damage": 433563.5,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "M44",
+    "name": "Classic M44 Carbine Replica",
+    "rarety": "NONE",
+    "rpm": 55,
+    "baseMagSize": 5,
+    "moddedMagSize": 0,
+    "reload": 4.29,
+    "damage": 433563.5,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "M44",
+    "name": "Hunting M44",
+    "rarety": "NONE",
+    "rpm": 55,
+    "baseMagSize": 5,
+    "moddedMagSize": 0,
+    "reload": 4.29,
+    "damage": 428664,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "M44",
+    "name": "Custom M44",
+    "rarety": "NONE",
+    "rpm": 55,
+    "baseMagSize": 5,
+    "moddedMagSize": 10,
+    "reload": 4.29,
+    "damage": 417692,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "M44",
+    "name": "Custom M44 Replica",
+    "rarety": "NONE",
+    "rpm": 55,
+    "baseMagSize": 5,
+    "moddedMagSize": 10,
+    "reload": 4.29,
+    "damage": 417692,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "M44",
+    "name": "Instigator (Custom M44)",
+    "rarety": "NAMED",
+    "rpm": 55,
+    "baseMagSize": 5,
+    "moddedMagSize": 10,
+    "reload": 4.29,
+    "damage": 417692,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedTalent": [
+      "Perfect Soft Spot"
+    ],
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "M44",
+    "name": "Oh Carol (Classic M44 Carbine)",
+    "rarety": "NAMED",
+    "rpm": 55,
+    "baseMagSize": 5,
+    "moddedMagSize": 0,
+    "reload": 4.77,
+    "damage": 433563.5,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedTalent": [
+      "Twinkling Lights"
+    ],
+    "bonus": {
+      "hsd": 137
+    },
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "M44",
+    "name": "The White Death (Classic M44 Carbine)",
+    "rarety": "NAMED",
+    "rpm": 55,
+    "baseMagSize": 5,
+    "moddedMagSize": 0,
+    "reload": 4.29,
+    "damage": 433563.5,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "bonus": {
+      "hsd": 137
+    },
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "DSR-1",
+    "name": "SR-1",
+    "rarety": "NONE",
+    "rpm": 60,
+    "baseMagSize": 5,
+    "moddedMagSize": 10,
+    "reload": 3.15,
+    "damage": 409357,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "DSR-1",
+    "name": "SR-1 Replica",
+    "rarety": "NONE",
+    "rpm": 60,
+    "baseMagSize": 5,
+    "moddedMagSize": 10,
+    "reload": 3.15,
+    "damage": 409357,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "DSR-1",
+    "name": "Adrestia",
+    "rarety": "NAMED",
+    "rpm": 60,
+    "baseMagSize": 5,
+    "moddedMagSize": 10,
+    "reload": 3.15,
+    "damage": 409357,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "DSR-1",
+    "name": "Designated Hitter",
+    "rarety": "NAMED",
+    "rpm": 60,
+    "baseMagSize": 5,
+    "moddedMagSize": 10,
+    "reload": 3.15,
+    "damage": 409357,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedTalent": [
+      "Perfect Reformation"
+    ],
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "Tactical .308",
+    "name": "Tactical .308",
+    "rarety": "NONE",
+    "rpm": 90,
+    "baseMagSize": 7,
+    "moddedMagSize": 12,
+    "reload": 3.04,
+    "damage": 403809.5,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "Tactical .308",
+    "name": "Scalpel",
+    "rarety": "NAMED",
+    "rpm": 90,
+    "baseMagSize": 7,
+    "moddedMagSize": 12,
+    "reload": 3.04,
+    "damage": 403809.5,
+    "optimalRange": 50,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 0,
+    "fixedTalent": [
+      "Future Perfection"
+    ],
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "mr",
+    "variant": "Custom AWM",
+    "name": "Nemesis",
+    "rarety": "EXOTIC",
+    "rpm": 50,
+    "baseMagSize": 5,
+    "moddedMagSize": 0,
+    "reload": 2.78,
+    "damage": 940240,
+    "optimalRange": 60,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "headshot damage": 45
+      },
+      "MAGAZINE SLOT": {
+        "reload speed": 10
+      },
+      "MUZZLE SLOT": {
+        "critical hit damage": 5
+      },
+      "UNDERBARREL": {
+        "weapon handling": 5
+      }
+    },
+    "hsd": 0,
+    "fixedPrimary1": {
+      "mmr damage": 15
+    },
+    "fixedPrimary2": {
+      "headshot damage": 111
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "93R",
+    "name": "93R",
+    "rarety": "NONE",
+    "rpm": 700,
+    "baseMagSize": 20,
+    "moddedMagSize": 31,
+    "reload": 1.71,
+    "damage": 52977.5,
+    "optimalRange": 12,
+    "modSlots": [
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "93R",
+    "name": "Sharpshooter's 93R",
+    "rarety": "NAMED",
+    "rpm": 700,
+    "baseMagSize": 20,
+    "moddedMagSize": 31,
+    "reload": 1.56,
+    "damage": 52977.5,
+    "optimalRange": 12,
+    "modSlots": [
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedTalent": [
+      "Perfect Unwavering"
+    ],
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "93R",
+    "name": "Tempest",
+    "rarety": "EXOTIC",
+    "rpm": 700,
+    "baseMagSize": 30,
+    "moddedMagSize": 0,
+    "reload": 2.38,
+    "damage": 62714,
+    "optimalRange": 12,
+    "modSlots": [],
+    "fixedSlots": {
+      "MAGAZINE SLOT": {
+        "stability": 50
+      },
+      "MUZZLE SLOT": {
+        "critical hit chance": 15
+      }
+    },
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "Desert Eagle",
+    "name": "D50",
+    "rarety": "NONE",
+    "rpm": 200,
+    "baseMagSize": 8,
+    "moddedMagSize": 0,
+    "reload": 2.24,
+    "damage": 189171.5,
+    "optimalRange": 18,
+    "modSlots": [
+      "OPTICS RAIL"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "Desert Eagle",
+    "name": "Survivalist D50",
+    "rarety": "NAMED",
+    "rpm": 200,
+    "baseMagSize": 8,
+    "moddedMagSize": 0,
+    "reload": 2.24,
+    "damage": 189171.5,
+    "optimalRange": 18,
+    "modSlots": [
+      "OPTICS RAIL"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedTalent": [
+      "Perfect Sadist"
+    ],
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "Desert Eagle",
+    "name": "Liberty",
+    "rarety": "EXOTIC",
+    "rpm": 230,
+    "baseMagSize": 8,
+    "moddedMagSize": 0,
+    "reload": 1.95,
+    "damage": 189171.5,
+    "optimalRange": 18,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "headshot damage": 5
+      },
+      "MAGAZINE SLOT": {
+        "weapon handling": 15
+      },
+      "MUZZLE SLOT": {
+        "critical hit chance": 5
+      },
+      "UNDERBARREL": {
+        "rate of fire": 15
+      }
+    },
+    "hsd": 100,
+    "fixedTalent": [
+      "Liberty or Death"
+    ],
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "M1911",
+    "name": "M1911",
+    "rarety": "NONE",
+    "rpm": 310,
+    "baseMagSize": 7,
+    "moddedMagSize": 18,
+    "reload": 2.24,
+    "damage": 129884.5,
+    "optimalRange": 12,
+    "modSlots": [
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "M1911",
+    "name": "M45A1",
+    "rarety": "NONE",
+    "rpm": 310,
+    "baseMagSize": 7,
+    "moddedMagSize": 18,
+    "reload": 2.33,
+    "damage": 117435.5,
+    "optimalRange": 12,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "M1911",
+    "name": "Tactical M1911",
+    "rarety": "NONE",
+    "rpm": 310,
+    "baseMagSize": 7,
+    "moddedMagSize": 18,
+    "reload": 2.33,
+    "damage": 117435.5,
+    "optimalRange": 12,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "M1911",
+    "name": "Tactical M1911 Replica",
+    "rarety": "NONE",
+    "rpm": 310,
+    "baseMagSize": 7,
+    "moddedMagSize": 18,
+    "reload": 2.33,
+    "damage": 117435.5,
+    "optimalRange": 12,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "M1911",
+    "name": "Quickstep (M45A1)",
+    "rarety": "NAMED",
+    "rpm": 310,
+    "baseMagSize": 7,
+    "moddedMagSize": 18,
+    "reload": 2.33,
+    "damage": 117435.5,
+    "optimalRange": 12,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedTalent": [
+      "Sport Mode"
+    ],
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "M1911",
+    "name": "Mozambique Special (M45A1)",
+    "rarety": "NAMED",
+    "rpm": 310,
+    "baseMagSize": 7,
+    "moddedMagSize": 18,
+    "reload": 2.33,
+    "damage": 117435.5,
+    "optimalRange": 12,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedTalent": [
+      "Perfect Breadbasket"
+    ],
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "Maxim",
+    "name": "Maxim 9",
+    "rarety": "NAMED",
+    "rpm": 280,
+    "baseMagSize": 17,
+    "moddedMagSize": 28,
+    "reload": 1.39,
+    "damage": 125385,
+    "optimalRange": 16,
+    "modSlots": [
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedTalent": [
+      "Perfect Spike"
+    ],
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "M9",
+    "name": "Military M9",
+    "rarety": "NONE",
+    "rpm": 350,
+    "baseMagSize": 15,
+    "moddedMagSize": 26,
+    "reload": 1.9,
+    "damage": 102584.5,
+    "optimalRange": 16,
+    "modSlots": [
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "M9",
+    "name": "Military M9 Replica",
+    "rarety": "NONE",
+    "rpm": 350,
+    "baseMagSize": 15,
+    "moddedMagSize": 26,
+    "reload": 1.9,
+    "damage": 102584.5,
+    "optimalRange": 16,
+    "modSlots": [
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "M9",
+    "name": "Officer's M9 A1",
+    "rarety": "NONE",
+    "rpm": 350,
+    "baseMagSize": 15,
+    "moddedMagSize": 26,
+    "reload": 1.96,
+    "damage": 95697.5,
+    "optimalRange": 16,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "M9",
+    "name": "Mosquito (Military M9)",
+    "rarety": "EXOTIC",
+    "rpm": 350,
+    "baseMagSize": 15,
+    "moddedMagSize": 0,
+    "reload": 1.65,
+    "damage": 102584.5,
+    "optimalRange": 16,
+    "modSlots": [],
+    "fixedSlots": {
+      "MAGAZINE SLOT": {
+        "reload speed": 15
+      },
+      "MUZZLE SLOT": {
+        "accuracy": 15
+      }
+    },
+    "hsd": 100,
+    "fixedTalent": [
+      "Mosquito Song"
+    ],
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "P320",
+    "name": "P320 XCompact",
+    "rarety": "NAMED",
+    "rpm": 380,
+    "baseMagSize": 17,
+    "moddedMagSize": 28,
+    "reload": 1.77,
+    "damage": 87522,
+    "optimalRange": 12,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedTalent": [
+      "Perfect Preservation"
+    ],
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "PF45",
+    "name": "Custom PF45",
+    "rarety": "NONE",
+    "rpm": 370,
+    "baseMagSize": 10,
+    "moddedMagSize": 21,
+    "reload": 1.77,
+    "damage": 93962.5,
+    "optimalRange": 14,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "PF45",
+    "name": "First Wave PF45",
+    "rarety": "NONE",
+    "rpm": 370,
+    "baseMagSize": 10,
+    "moddedMagSize": 21,
+    "reload": 1.74,
+    "damage": 100727.5,
+    "optimalRange": 14,
+    "modSlots": [
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "PF45",
+    "name": "Lightning Rod (Custom PF45)",
+    "rarety": "NAMED",
+    "rpm": 370,
+    "baseMagSize": 10,
+    "moddedMagSize": 21,
+    "reload": 1.77,
+    "damage": 93962.5,
+    "optimalRange": 14,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedTalent": [
+      "Perfect Salvage"
+    ],
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "PF45",
+    "name": "Busy Little Bee (Custom PF45)",
+    "rarety": "EXOTIC",
+    "rpm": 400,
+    "baseMagSize": 10,
+    "moddedMagSize": 0,
+    "reload": 1.61,
+    "damage": 93962.5,
+    "optimalRange": 18,
+    "modSlots": [],
+    "fixedSlots": {
+      "OPTICS RAIL": {
+        "optimal range": 25
+      },
+      "MAGAZINE SLOT": {
+        "reload speed": 10
+      },
+      "MUZZLE SLOT": {
+        "stability": 10
+      },
+      "UNDERBARREL": {
+        "critical hit chance": 5
+      }
+    },
+    "hsd": 100,
+    "fixedTalent": [
+      "Busy Little Bee"
+    ],
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "Px4",
+    "name": "Px4 Storm Type F",
+    "rarety": "NONE",
+    "rpm": 380,
+    "baseMagSize": 14,
+    "moddedMagSize": 25,
+    "reload": 1.63,
+    "damage": 91692,
+    "optimalRange": 12,
+    "modSlots": [
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "Px4",
+    "name": "Px4 Storm Type T",
+    "rarety": "NONE",
+    "rpm": 380,
+    "baseMagSize": 14,
+    "moddedMagSize": 25,
+    "reload": 1.63,
+    "damage": 91692,
+    "optimalRange": 12,
+    "modSlots": [
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "Px4",
+    "name": "Px4 Storm Type T Replica",
+    "rarety": "NONE",
+    "rpm": 380,
+    "baseMagSize": 14,
+    "moddedMagSize": 25,
+    "reload": 1.63,
+    "damage": 91692,
+    "optimalRange": 12,
+    "modSlots": [
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "Rhino",
+    "name": "Diceros",
+    "rarety": "NONE",
+    "rpm": 180,
+    "baseMagSize": 6,
+    "moddedMagSize": 0,
+    "reload": 2,
+    "damage": 204803,
+    "optimalRange": 18,
+    "modSlots": [
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "Rhino",
+    "name": "Diceros Replica",
+    "rarety": "NONE",
+    "rpm": 180,
+    "baseMagSize": 6,
+    "moddedMagSize": 0,
+    "reload": 2,
+    "damage": 204803,
+    "optimalRange": 18,
+    "modSlots": [
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "Rhino",
+    "name": "Snubnosed Diceros",
+    "rarety": "NONE",
+    "rpm": 180,
+    "baseMagSize": 6,
+    "moddedMagSize": 0,
+    "reload": 1.98,
+    "damage": 211295,
+    "optimalRange": 18,
+    "modSlots": [
+      "MUZZLE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "Rhino",
+    "name": "Diceros Special (Diceros)",
+    "rarety": "NAMED",
+    "rpm": 180,
+    "baseMagSize": 6,
+    "moddedMagSize": 0,
+    "reload": 1.93,
+    "damage": 198305.5,
+    "optimalRange": 18,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedTalent": [
+      "Perfect Optimist"
+    ],
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "Magnum",
+    "name": "586 Magnum",
+    "rarety": "NONE",
+    "rpm": 160,
+    "baseMagSize": 6,
+    "moddedMagSize": 0,
+    "reload": 2.54,
+    "damage": 233278,
+    "optimalRange": 16,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "Magnum",
+    "name": "Police 686 Magnum",
+    "rarety": "NONE",
+    "rpm": 160,
+    "baseMagSize": 6,
+    "moddedMagSize": 0,
+    "reload": 2.54,
+    "damage": 233278,
+    "optimalRange": 16,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "Magnum",
+    "name": "Police 686 Magnum Replica",
+    "rarety": "NONE",
+    "rpm": 160,
+    "baseMagSize": 6,
+    "moddedMagSize": 0,
+    "reload": 2.54,
+    "damage": 233278,
+    "optimalRange": 16,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "Magnum",
+    "name": "Orbit (586 Magnum)",
+    "rarety": "NAMED",
+    "rpm": 160,
+    "baseMagSize": 6,
+    "moddedMagSize": 0,
+    "reload": 2.54,
+    "damage": 233278,
+    "optimalRange": 16,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedTalent": [
+      "Perfect Finisher"
+    ],
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "Magnum",
+    "name": "Prophet (Police 686 Magnum)",
+    "rarety": "NAMED",
+    "rpm": 160,
+    "baseMagSize": 6,
+    "moddedMagSize": 0,
+    "reload": 2.54,
+    "damage": 233278,
+    "optimalRange": 16,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedTalent": [
+      "Perfectly Determined"
+    ],
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "Magnum",
+    "name": "The Harvest (Police 686 Magnum)",
+    "rarety": "NAMED",
+    "rpm": 149,
+    "baseMagSize": 6,
+    "moddedMagSize": 0,
+    "reload": 2.54,
+    "damage": 256610,
+    "optimalRange": 16,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "bonus": {
+      "base damage": 10,
+      "rof": -7
+    },
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "Magnum",
+    "name": "Regulus",
+    "rarety": "EXOTIC",
+    "rpm": 160,
+    "baseMagSize": 6,
+    "moddedMagSize": 0,
+    "reload": 2.31,
+    "damage": 282072,
+    "optimalRange": 16,
+    "modSlots": [],
+    "fixedSlots": {
+      "MAGAZINE SLOT": {
+        "reload speed": 10
+      },
+      "MUZZLE SLOT": {
+        "accuracy": 20
+      }
+    },
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "X-45",
+    "name": "X-45",
+    "rarety": "NONE",
+    "rpm": 400,
+    "baseMagSize": 15,
+    "moddedMagSize": 26,
+    "reload": 1.99,
+    "damage": 88321,
+    "optimalRange": 16,
+    "modSlots": [
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "X-45",
+    "name": "X-45 Tactical",
+    "rarety": "NONE",
+    "rpm": 400,
+    "baseMagSize": 15,
+    "moddedMagSize": 26,
+    "reload": 1.99,
+    "damage": 88321,
+    "optimalRange": 16,
+    "modSlots": [
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "X-45",
+    "name": "X-45 Tactical Replica",
+    "rarety": "NONE",
+    "rpm": 400,
+    "baseMagSize": 15,
+    "moddedMagSize": 26,
+    "reload": 1.99,
+    "damage": 88321,
+    "optimalRange": 16,
+    "modSlots": [
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "Kriss Kard",
+    "name": "Kard-45",
+    "rarety": "NONE",
+    "rpm": 310,
+    "baseMagSize": 10,
+    "moddedMagSize": 21,
+    "reload": 1.71,
+    "damage": 114267,
+    "optimalRange": 12,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  },
+  {
+    "type": "pistol",
+    "variant": "Kriss Kard",
+    "name": "TDI \"Kard\" Custom",
+    "rarety": "NAMED",
+    "rpm": 310,
+    "baseMagSize": 10,
+    "moddedMagSize": 21,
+    "reload": 1.71,
+    "damage": 114267,
+    "optimalRange": 12,
+    "modSlots": [
+      "OPTICS RAIL",
+      "MAGAZINE SLOT",
+      "MUZZLE SLOT",
+      "UNDERBARREL"
+    ],
+    "fixedSlots": [],
+    "hsd": 100,
+    "bonus": {
+      "skill tier": 1
+    },
+    "fixedPrimary1": {
+      "pistol damage": 15
+    }
+  }
+]

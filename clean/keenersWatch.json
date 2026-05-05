@@ -1,0 +1,18 @@
+[
+  { "category": "offensive", "attribute": "weapon damage", "max": "10" },
+  { "category": "offensive", "attribute": "critical hit chance", "max": "10" },
+  { "category": "offensive", "attribute": "critical hit damage", "max": "20" },
+  { "category": "offensive", "attribute": "headshot damage", "max": "20" },
+  { "category": "defensive", "attribute": "total armor", "max": "10" },
+  { "category": "defensive", "attribute": "total health", "max": "10" },
+  { "category": "defensive", "attribute": "explosive resistance", "max": "10" },
+  { "category": "defensive", "attribute": "hazard protection", "max": "10" },
+  { "category": "utility", "attribute": "skill damage", "max": "10" },
+  { "category": "utility", "attribute": "skill haste", "max": "10" },
+  { "category": "utility", "attribute": "skill duration", "max": "20" },
+  { "category": "utility", "attribute": "skill repair", "max": "10" },
+  { "category": "handling", "attribute": "accuracy", "max": "10" },
+  { "category": "handling", "attribute": "stability", "max": "10" },
+  { "category": "handling", "attribute": "reload speed", "max": "10" },
+  { "category": "handling", "attribute": "ammo capacity", "max": "20" }
+]

@@ -1,0 +1,557 @@
+[
+  {
+    "icon": "https://puu.sh/Eivbc.png",
+    "brand": "5.11 Tactical",
+    "core": "armor",
+    "onePc": {
+      "health": 30
+    },
+    "twoPc": {
+      "incoming repairs": 30
+    },
+    "threePc": {
+      "hazard protection": 30
+    }
+  },
+  {
+    "icon": "https://puu.sh/D4eDs.png",
+    "brand": "Badger Tuff",
+    "core": "armor",
+    "onePc": {
+      "shotgun damage": 10
+    },
+    "twoPc": {
+      "total armor": 5
+    },
+    "threePc": {
+      "armor on kill": 15
+    },
+    "missing": [
+      "chest",
+      "holster",
+      "kneepads"
+    ]
+  },
+  {
+    "icon": "https://i.imgur.com/iCDOWbj.png",
+    "brand": "Belstone Armory",
+    "core": "armor",
+    "onePc": {
+      "armor regen": 1
+    },
+    "twoPc": {
+      "armor on kill": 10
+    },
+    "threePc": {
+      "incoming repairs": 45
+    }
+  },
+  {
+    "icon": "https://i.imgur.com/jbwm0ch.png",
+    "brand": "Brazos de Arcabuz",
+    "core": "armor",
+    "onePc": {
+      "skill haste": 10
+    },
+    "twoPc": {
+      "skill tier": 1
+    },
+    "threePc": {
+      "mag size": 50
+    }
+  },
+  {
+    "icon": "https://puu.sh/D4eDB.png",
+    "brand": "Gila Guard",
+    "core": "armor",
+    "onePc": {
+      "total armor": 5
+    },
+    "twoPc": {
+      "health": 60
+    },
+    "threePc": {
+      "armor regen": 2
+    }
+  },
+  {
+    "icon": "https://i.imgur.com/oPCQxDO.png",
+    "brand": "Golan Gear Ltd",
+    "core": "armor",
+    "onePc": {
+      "status effect": 10
+    },
+    "twoPc": {
+      "armor regen": 1.5
+    },
+    "threePc": {
+      "total armor": 10
+    }
+  },
+  {
+    "icon": "https://imgur.com/u6NJoI0.png)",
+    "brand": "Habsburg Guard",
+    "core": "armor",
+    "onePc": {
+      "headshot damage": 13
+    },
+    "twoPc": {
+      "mmr damage": 20
+    },
+    "threePc": {
+      "status effect": 25
+    }
+  },
+  {
+    "icon": "https://imgur.com/W4sXmQD.png",
+    "brand": "Lengmo",
+    "core": "armor",
+    "onePc": {
+      "explosive resistance": 20
+    },
+    "twoPc": {
+      "skill health": 20
+    },
+    "threePc": {
+      "lmg damage": 30
+    }
+  },
+  {
+    "icon": "https://i.imgur.com/zmtgRt8.png",
+    "brand": "Palisade Steelworks",
+    "core": "armor",
+    "onePc": {
+      "armor on kill": 10
+    },
+    "twoPc": {
+      "health": 60
+    },
+    "threePc": {
+      "skill tier": 1
+    }
+  },
+  {
+    "icon": "https://i.imgur.com/iu8gLqk.png",
+    "brand": "Uzina Getica",
+    "core": "armor",
+    "onePc": {
+      "total armor": 5
+    },
+    "twoPc": {
+      "armor on kill": 10
+    },
+    "threePc": {
+      "hazard protection": 30
+    }
+  },
+  {
+    "icon": "https://puu.sh/Eivj5.png",
+    "brand": "Yaahl Gear",
+    "core": "armor",
+    "onePc": {
+      "hazard protection": 10
+    },
+    "twoPc": {
+      "weapon damage": 10
+    },
+    "threePc": {
+      "pulse resistance": 40
+    },
+    "missing": [
+      "backpack",
+      "holster",
+      "kneepads"
+    ]
+  },
+  {
+    "icon": "https://puu.sh/D4eDq.png",
+    "brand": "Alps Summit Armaments",
+    "core": "skill tier",
+    "onePc": {
+      "repair skills": 18
+    },
+    "twoPc": {
+      "skill duration": 30
+    },
+    "threePc": {
+      "skill haste": 30
+    },
+    "missing": [
+      "mask",
+      "holster",
+      "kneepads"
+    ]
+  },
+  {
+    "icon": "https://i.imgur.com/Lp0klc0.png",
+    "brand": "China Light Industries",
+    "core": "skill tier",
+    "onePc": {
+      "explosive damage": 15
+    },
+    "twoPc": {
+      "skill haste": 20
+    },
+    "threePc": {
+      "status effect": 25
+    },
+    "missing": [
+      "gloves",
+      "holster",
+      "kneepads"
+    ]
+  },
+  {
+    "icon": "https://i.imgur.com/HKDlGkL.png",
+    "brand": "Electrique",
+    "core": "skill tier",
+    "onePc": {
+      "status effect": 10
+    },
+    "twoPc": {
+      "electricity protection": 20
+    },
+    "threePc": {
+      "smg damage": 30
+    }
+  },
+  {
+    "icon": "https://i.imgur.com/OhdQ0MK.png",
+    "brand": "Empress International",
+    "core": "skill tier",
+    "onePc": {
+      "skill health": 10
+    },
+    "twoPc": {
+      "skill damage": 10
+    },
+    "threePc": {
+      "skill efficiency": 8
+    }
+  },
+  {
+    "icon": "https://i.imgur.com/eUhsXYn.png",
+    "brand": "Hana-U Corporation",
+    "core": "skill tier",
+    "onePc": {
+      "skill haste": 10
+    },
+    "twoPc": {
+      "skill damage": 10
+    },
+    "threePc": {
+      "weapon damage": 15
+    }
+  },
+  {
+    "icon": "https://puu.sh/Eivj2.png",
+    "brand": "Murakami Industries",
+    "core": "skill tier",
+    "onePc": {
+      "skill duration": 15
+    },
+    "twoPc": {
+      "repair skills": 35
+    },
+    "threePc": {
+      "skill damage": 18
+    },
+    "missing": [
+      "gloves",
+      "holster",
+      "kneepads"
+    ]
+  },
+  {
+    "icon": "https://puu.sh/D4eDF.png",
+    "brand": "Richter & Kaiser GmbH",
+    "core": "skill tier",
+    "onePc": {
+      "incoming repairs": 15
+    },
+    "twoPc": {
+      "explosive resistance": 40
+    },
+    "threePc": {
+      "repair skills": 52
+    },
+    "missing": [
+      "chest",
+      "gloves",
+      "kneepads"
+    ]
+  },
+  {
+    "icon": "",
+    "brand": "Shiny Monkey",
+    "core": "skill tier",
+    "onePc": {
+      "skill duration": 15
+    },
+    "twoPc": {
+      "skill efficiency": 5
+    },
+    "threePc": {
+      "repair skills": 52
+    }
+  },
+  {
+    "icon": "https://puu.sh/D4eDH.png",
+    "brand": "Wyvern Wear",
+    "core": "skill tier",
+    "onePc": {
+      "skill damage": 8
+    },
+    "twoPc": {
+      "status effect": 18
+    },
+    "threePc": {
+      "skill duration": 45
+    }
+  },
+  {
+    "icon": "https://puu.sh/D4eDt.png",
+    "brand": "Airaldi Holdings",
+    "core": "weapon damage",
+    "onePc": {
+      "mmr damage": 10
+    },
+    "twoPc": {
+      "headshot damage": 13
+    },
+    "threePc": {
+      "damage to armor": 5
+    },
+    "missing": [
+      "mask",
+      "gloves",
+      "kneepads"
+    ]
+  },
+  {
+    "icon": "",
+    "brand": "Unit Alloys",
+    "core": "weapon damage",
+    "onePc": {
+      "rate of fire": 5
+    },
+    "twoPc": {
+      "assault rifle damage": 20
+    },
+    "threePc": {
+      "mag size": 50
+    }
+  },
+  {
+    "icon": "https://i.imgur.com/oRFe6pE.png",
+    "brand": "Česká Výroba s.r.o.",
+    "core": "weapon damage",
+    "onePc": {
+      "critical hit chance": 8
+    },
+    "twoPc": {
+      "hazard protection": 20
+    },
+    "threePc": {
+      "health": 90
+    }
+  },
+  {
+    "icon": "https://puu.sh/D4eDw.png",
+    "brand": "Douglas & Harding",
+    "core": "weapon damage",
+    "onePc": {
+      "pistol damage": 20
+    },
+    "twoPc": {
+      "stability": 30
+    },
+    "threePc": {
+      "accuracy": 50
+    },
+    "missing": [
+      "chest",
+      "backpack",
+      "gloves"
+    ]
+  },
+  {
+    "icon": "https://puu.sh/D4eDy.png",
+    "brand": "Fenris Group AB",
+    "core": "weapon damage",
+    "onePc": {
+      "assault rifle damage": 10
+    },
+    "twoPc": {
+      "reload speed": 30
+    },
+    "threePc": {
+      "stability": 50
+    },
+    "missing": [
+      "mask",
+      "gloves",
+      "holster"
+    ]
+  },
+  {
+    "icon": "https://i.imgur.com/m5j0yqs.png",
+    "brand": "Grupo Sombra S.A.",
+    "core": "weapon damage",
+    "onePc": {
+      "critical hit damage": 13
+    },
+    "twoPc": {
+      "explosive damage": 20
+    },
+    "threePc": {
+      "headshot damage": 13
+    }
+  },
+  {
+    "icon": "",
+    "brand": "Imminence Armaments",
+    "core": "weapon damage",
+    "onePc": {
+      "weapon damage": 5
+    },
+    "twoPc": {
+      "increased threat": 100
+    },
+    "threePc": {
+      "pistol damage": 60
+    }
+  },
+  {
+    "icon": "",
+    "brand": "Legatus S.p.A",
+    "core": "weapon damage",
+    "onePc": {
+      "swap speed": 30
+    },
+    "twoPc": {
+      "optimal range": 70
+    },
+    "threePc": {
+      "weapon damage": 15
+    }
+  },
+  {
+    "icon": "https://puu.sh/D4eDx.png",
+    "brand": "Overlord Armaments",
+    "core": "weapon damage",
+    "onePc": {
+      "rifle damage": 10
+    },
+    "twoPc": {
+      "accuracy": 30
+    },
+    "threePc": {
+      "weapon handling": 30
+    },
+    "missing": [
+      "mask",
+      "backpack",
+      "holster"
+    ]
+  },
+  {
+    "icon": "https://puu.sh/D4eDD.png",
+    "brand": "Petrov Defense Group",
+    "core": "weapon damage",
+    "onePc": {
+      "lmg damage": 10
+    },
+    "twoPc": {
+      "weapon handling": 15
+    },
+    "threePc": {
+      "ammo capacity": 50
+    },
+    "missing": [
+      "mask",
+      "holster",
+      "kneepads"
+    ]
+  },
+  {
+    "icon": "https://puu.sh/D4eDE.png",
+    "brand": "Providence Defense",
+    "core": "weapon damage",
+    "onePc": {
+      "headshot damage": 13
+    },
+    "twoPc": {
+      "critical hit chance": 8
+    },
+    "threePc": {
+      "critical hit damage": 13
+    },
+    "missing": [
+      "gloves",
+      "holster",
+      "kneepads"
+    ]
+  },
+  {
+    "icon": "https://puu.sh/D4eDG.png",
+    "brand": "Sokolov Concern",
+    "core": "weapon damage",
+    "onePc": {
+      "smg damage": 10
+    },
+    "twoPc": {
+      "critical hit damage": 13
+    },
+    "threePc": {
+      "critical hit chance": 8
+    },
+    "missing": [
+      "backpack",
+      "holster",
+      "kneepads"
+    ]
+  },
+  {
+    "icon": "",
+    "brand": "Urban Lookout",
+    "core": "weapon damage",
+    "onePc": {
+      "accuracy": 10
+    },
+    "twoPc": {
+      "skill duration": 30
+    },
+    "threePc": {
+      "mmr damage": 30
+    }
+  },
+  {
+    "icon": "https://i.imgur.com/cOtB0Uf.png",
+    "brand": "Walker, Harris & Co.",
+    "core": "weapon damage",
+    "onePc": {
+      "weapon damage": 5
+    },
+    "twoPc": {
+      "damage to armor": 5
+    },
+    "threePc": {
+      "damage to health": 10
+    }
+  },
+  {
+    "icon": "",
+    "brand": "Zwiadowka Sp. z o.o.",
+    "core": "weapon damage",
+    "onePc": {
+      "mag size": 15
+    },
+    "twoPc": {
+      "rifle damage": 20
+    },
+    "threePc": {
+      "weapon handling": 30
+    }
+  }
+]

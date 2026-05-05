@@ -1,0 +1,2605 @@
+{
+  "Precision": {
+    "type": "Smart Cover",
+    "name": "Precision",
+    "icon": "",
+    "data": {
+      "0": {
+        "Cooldown": "45s",
+        "Duration": "24s",
+        "Weapon Handling": 0.15,
+        "Damage to targets out of cover": 0.1,
+        "Health": 663623
+      },
+      "1": {
+        "Cooldown": "-",
+        "Duration": "-",
+        "Weapon Handling": "+25% Weapon Handling",
+        "Damage to targets out of cover": "+7% Damage to targets out of cover",
+        "Health": "+70% Health"
+      },
+      "2": {
+        "Cooldown": "-",
+        "Duration": "-",
+        "Weapon Handling": "+35% Weapon Handling",
+        "Damage to targets out of cover": "+9% Damage to targets out of cover",
+        "Health": "+140% Health"
+      },
+      "3": {
+        "Cooldown": "-",
+        "Duration": "-",
+        "Weapon Handling": "+45% Weapon Handling",
+        "Damage to targets out of cover": "+12% Damage to targets out of cover",
+        "Health": "+210% Health"
+      },
+      "4": {
+        "Cooldown": "-",
+        "Duration": "-",
+        "Weapon Handling": "+55% Weapon Handling",
+        "Damage to targets out of cover": "+16% Damage to targets out of cover",
+        "Health": "+280% Health"
+      },
+      "5": {
+        "Cooldown": "-",
+        "Duration": "-",
+        "Weapon Handling": "+65% Weapon Handling",
+        "Damage to targets out of cover": "+21% Damage to targets out of cover",
+        "Health": "+350% Health"
+      },
+      "6": {
+        "Cooldown": "-",
+        "Duration": "-",
+        "Weapon Handling": "+75% Weapon Handling",
+        "Damage to targets out of cover": "+27% Damage to targets out of cover",
+        "Health": "+420% Health"
+      },
+      "7": {
+        "Cooldown": "-",
+        "Duration": "-",
+        "Weapon Handling": "+100% Weapon Handling",
+        "Damage to targets out of cover": "+35% Damage to targets out of cover",
+        "Health": "+420%Health"
+      }
+    }
+  },
+  "Fortified": {
+    "type": "Smart Cover",
+    "name": "Fortified",
+    "icon": "",
+    "data": {
+      "0": {
+        "Cooldown": "45s",
+        "Duration": "36s",
+        "Bonus Armor": 0.5,
+        "Explosive Resistance": 0.05,
+        "Pulse Resistance": 0.05,
+        "Health": 663623
+      },
+      "1": {
+        "Cooldown": "-",
+        "Duration": "-",
+        "Bonus Armor": "+10% Bonus Armor",
+        "Explosive Resistance": "+10% Explosive Resistance",
+        "Pulse Resistance": "+5% Pulse Resistance",
+        "Health": "+70% Health"
+      },
+      "2": {
+        "Cooldown": "-",
+        "Duration": "-",
+        "Bonus Armor": "+20% Bonus Armor",
+        "Explosive Resistance": "+15% Explosive Resistance",
+        "Pulse Resistance": "+10% Pulse Resistance",
+        "Health": "+140% Health"
+      },
+      "3": {
+        "Cooldown": "-",
+        "Duration": "-",
+        "Bonus Armor": "+30% Bonus Armor",
+        "Explosive Resistance": "+20% Explosive Resistance",
+        "Pulse Resistance": "+15% Pulse Resistance",
+        "Health": "+210% Health"
+      },
+      "4": {
+        "Cooldown": "-",
+        "Duration": "-",
+        "Bonus Armor": "+40% Bonus Armor",
+        "Explosive Resistance": "+25% Explosive Resistance",
+        "Pulse Resistance": "+25% Pulse Resistance",
+        "Health": "+280% Health"
+      },
+      "5": {
+        "Cooldown": "-",
+        "Duration": "-",
+        "Bonus Armor": "+50% Bonus Armor",
+        "Explosive Resistance": "+35% Explosive Resistance",
+        "Pulse Resistance": "+35% Pulse Resistance",
+        "Health": "+350% Health"
+      },
+      "6": {
+        "Cooldown": "-",
+        "Duration": "-",
+        "Bonus Armor": "+60% Bonus Armor",
+        "Explosive Resistance": "+40% Explosive Resistance",
+        "Pulse Resistance": "+45% Pulse Resistance",
+        "Health": "+420% Health"
+      },
+      "7": {
+        "Cooldown": "-",
+        "Duration": "-",
+        "Bonus Armor": "+100% Bonus Armor",
+        "Explosive Resistance": "+60% Explosive Resistance",
+        "Pulse Resistance": "+45% Pulse Resistance",
+        "Health": "+420%Health"
+      }
+    }
+  },
+  "Burn": {
+    "type": "Sticky Bomb",
+    "name": "Burn",
+    "icon": "",
+    "data": {
+      "0": {
+        "Damage": 995434,
+        "Duration (flare)": "10s",
+        "Burn damage": 79794,
+        "Burn duration": "4.5s",
+        "PvP Damage": 218995
+      },
+      "1": {
+        "Damage": "-",
+        "Duration (flare)": "-",
+        "Burn damage": "‎+10% Burn Damage",
+        "Burn duration": "‎+35% Burn Duration",
+        "PvP Damage": "-"
+      },
+      "2": {
+        "Damage": "-",
+        "Duration (flare)": "-",
+        "Burn damage": "‎+20% Burn Damage",
+        "Burn duration": "‎+40% Burn Duration",
+        "PvP Damage": "-"
+      },
+      "3": {
+        "Damage": "-",
+        "Duration (flare)": "-",
+        "Burn damage": "‎+30% Burn Damage",
+        "Burn duration": "‎+60% Burn Duration",
+        "PvP Damage": "-"
+      },
+      "4": {
+        "Damage": "-",
+        "Duration (flare)": "-",
+        "Burn damage": "‎+40% Burn Damage",
+        "Burn duration": "‎+80% Burn Duration",
+        "PvP Damage": "-"
+      },
+      "5": {
+        "Damage": "-",
+        "Duration (flare)": "-",
+        "Burn damage": "‎+50% Burn Damage",
+        "Burn duration": "‎+100% Burn Duration",
+        "PvP Damage": "-"
+      },
+      "6": {
+        "Damage": "-",
+        "Duration (flare)": "-",
+        "Burn damage": "‎+60% Burn Damage",
+        "Burn duration": "‎+120% Burn Duration",
+        "PvP Damage": "-"
+      },
+      "7": {
+        "Damage": "-",
+        "Duration (flare)": "-",
+        "Burn damage": "‎+100% Burn Damage",
+        "Burn duration": "‎+200% Burn Duration",
+        "PvP Damage": "-"
+      }
+    }
+  },
+  "EMP": {
+    "type": "Sticky Bomb",
+    "name": "EMP",
+    "icon": "",
+    "data": {
+      "0": {
+        "Duration (Flare)": "8s",
+        "Disrupt Duration": "??",
+        "EMP\nBlast Radius": "4m"
+      },
+      "1": {
+        "Duration (Flare)": "‎+10% Duration",
+        "Disrupt Duration": "-",
+        "EMP\nBlast Radius": "‎+10% EMP \nBlast Radius"
+      },
+      "2": {
+        "Duration (Flare)": "‎+20% Duration",
+        "Disrupt Duration": "-",
+        "EMP\nBlast Radius": "‎+20% EMP \nBlast Radius"
+      },
+      "3": {
+        "Duration (Flare)": "‎+30% Duration",
+        "Disrupt Duration": "-",
+        "EMP\nBlast Radius": "‎+30% EMP \nBlast Radius"
+      },
+      "4": {
+        "Duration (Flare)": "‎+40% Duration",
+        "Disrupt Duration": "-",
+        "EMP\nBlast Radius": "‎+40% EMP \nBlast Radius"
+      },
+      "5": {
+        "Duration (Flare)": "‎+50% Duration",
+        "Disrupt Duration": "-",
+        "EMP\nBlast Radius": "‎+50% EMP \nBlast Radius"
+      },
+      "6": {
+        "Duration (Flare)": "‎+60% Duration",
+        "Disrupt Duration": "-",
+        "EMP\nBlast Radius": "‎+60% EMP \nBlast Radius"
+      },
+      "7": {
+        "Duration (Flare)": "‎+100% Duration",
+        "Disrupt Duration": "-",
+        "EMP\nBlast Radius": "‎+150% EMP \nBlast Radius"
+      }
+    }
+  },
+  "Explosive": {
+    "type": "Seeker",
+    "name": "Explosive",
+    "icon": "",
+    "data": {
+      "0": {
+        "Health": 199087,
+        "Damage": 1061796,
+        "Blast Radius": "4m",
+        "Bleed Damage": 29863,
+        "Bleed Duration": "7s",
+        "PvP Damage": 191123,
+        "PvP Bleed Damage": 7465
+      },
+      "1": {
+        "Health": "-",
+        "Damage": "+10% Damage",
+        "Blast Radius": "+5% Radius",
+        "Bleed Damage": "-",
+        "Bleed Duration": "-",
+        "PvP Damage": "-",
+        "PvP Bleed Damage": "-"
+      },
+      "2": {
+        "Health": "-",
+        "Damage": "+20% Damage",
+        "Blast Radius": "+10% Radius",
+        "Bleed Damage": "-",
+        "Bleed Duration": "-",
+        "PvP Damage": "-",
+        "PvP Bleed Damage": "-"
+      },
+      "3": {
+        "Health": "-",
+        "Damage": "+30% Damage",
+        "Blast Radius": "+15% Radius",
+        "Bleed Damage": "-",
+        "Bleed Duration": "-",
+        "PvP Damage": "-",
+        "PvP Bleed Damage": "-"
+      },
+      "4": {
+        "Health": "-",
+        "Damage": "+40% Damage",
+        "Blast Radius": "+20% Radius",
+        "Bleed Damage": "-",
+        "Bleed Duration": "-",
+        "PvP Damage": "-",
+        "PvP Bleed Damage": "-"
+      },
+      "5": {
+        "Health": "-",
+        "Damage": "+50% Damage",
+        "Blast Radius": "+25% Radius",
+        "Bleed Damage": "-",
+        "Bleed Duration": "-",
+        "PvP Damage": "-",
+        "PvP Bleed Damage": "-"
+      },
+      "6": {
+        "Health": "-",
+        "Damage": "+60% Damage",
+        "Blast Radius": "+30% Radius",
+        "Bleed Damage": "-",
+        "Bleed Duration": "-",
+        "PvP Damage": "-",
+        "PvP Bleed Damage": "-"
+      },
+      "7": {
+        "Health": "-",
+        "Damage": "+80% Damage",
+        "Blast Radius": "+200% Radius",
+        "Bleed Damage": "-",
+        "Bleed Duration": "-",
+        "PvP Damage": "-",
+        "PvP Bleed Damage": "-"
+      }
+    }
+  },
+  "Shock": {
+    "type": "Trap",
+    "name": "Shock",
+    "icon": "",
+    "data": {
+      "0": {
+        "Traps": 6,
+        "Shock Radius": "2.5m",
+        "Shock Duration": "3s",
+        "Duration": "60s",
+        "PvP Shock Effect Duration": "1.5s"
+      },
+      "1": {
+        "Traps": "+2 Traps",
+        "Shock Radius": "+10% Shock Radius",
+        "Shock Duration": "+10% Shock Duration",
+        "Duration": "-",
+        "PvP Shock Effect Duration": "-"
+      },
+      "2": {
+        "Traps": "+2 Traps",
+        "Shock Radius": "+20% Shock Radius",
+        "Shock Duration": "+20% Shock Duration",
+        "Duration": "-",
+        "PvP Shock Effect Duration": "-"
+      },
+      "3": {
+        "Traps": "+4 Traps",
+        "Shock Radius": "+30% Shock Radius",
+        "Shock Duration": "+30% Shock Duration",
+        "Duration": "-",
+        "PvP Shock Effect Duration": "-"
+      },
+      "4": {
+        "Traps": "+6 Traps",
+        "Shock Radius": "+40% Shock Radius",
+        "Shock Duration": "+40% Shock Duration",
+        "Duration": "-",
+        "PvP Shock Effect Duration": "-"
+      },
+      "5": {
+        "Traps": "+8 Traps",
+        "Shock Radius": "+50% Shock Radius",
+        "Shock Duration": "+50% Shock Duration",
+        "Duration": "-",
+        "PvP Shock Effect Duration": "-"
+      },
+      "6": {
+        "Traps": "+10 Traps",
+        "Shock Radius": "+60% Shock Radius",
+        "Shock Duration": "+60% Shock Duration",
+        "Duration": "-",
+        "PvP Shock Effect Duration": "-"
+      },
+      "7": {
+        "Traps": "+12 Traps",
+        "Shock Radius": "+70% Shock Radius",
+        "Shock Duration": "+200% Shock Duration",
+        "Duration": "-",
+        "PvP Shock Effect Duration": "-"
+      }
+    }
+  },
+  "Healing": {
+    "type": "Trap",
+    "name": "Healing",
+    "icon": "",
+    "data": {
+      "0": {
+        "Repair": 165906,
+        "Traps": 2,
+        "Repair Radius": "0.75m",
+        "Duration": "60s",
+        "PvP Repair": 82952
+      },
+      "1": {
+        "Repair": "+20% Repair",
+        "Traps": "+1 Traps",
+        "Repair Radius": "-",
+        "Duration": "-",
+        "PvP Repair": "-"
+      },
+      "2": {
+        "Repair": "+40% Repair",
+        "Traps": "+2 Traps",
+        "Repair Radius": "-",
+        "Duration": "-",
+        "PvP Repair": "-"
+      },
+      "3": {
+        "Repair": "+60% Repair",
+        "Traps": "+3 Traps",
+        "Repair Radius": "-",
+        "Duration": "-",
+        "PvP Repair": "-"
+      },
+      "4": {
+        "Repair": "+80% Repair",
+        "Traps": "+4 Traps",
+        "Repair Radius": "-",
+        "Duration": "-",
+        "PvP Repair": "-"
+      },
+      "5": {
+        "Repair": "+100% Repair",
+        "Traps": "+5 Traps",
+        "Repair Radius": "-",
+        "Duration": "-",
+        "PvP Repair": "-"
+      },
+      "6": {
+        "Repair": "+120% Repair",
+        "Traps": "+6 Traps",
+        "Repair Radius": "-",
+        "Duration": "-",
+        "PvP Repair": "-"
+      },
+      "7": {
+        "Repair": "+140% Repair",
+        "Traps": "+6 Traps",
+        "Repair Radius": "-",
+        "Duration": "-",
+        "PvP Repair": "-"
+      }
+    }
+  },
+  "Shrapnel": {
+    "type": "Trap",
+    "name": "Shrapnel",
+    "icon": "",
+    "data": {
+      "0": {
+        "Damage": "663,623",
+        "Traps": "9",
+        "Explosion Radius": "2m",
+        "Duration": "60s",
+        "Pvp Damage": 6636
+      },
+      "1": {
+        "Damage": "‎+10% Damage",
+        "Traps": "+1 Traps",
+        "Explosion Radius": "-",
+        "Duration": "-",
+        "Pvp Damage": "-"
+      },
+      "2": {
+        "Damage": "‎+20% Damage",
+        "Traps": "+2 Traps",
+        "Explosion Radius": "-",
+        "Duration": "-",
+        "Pvp Damage": "-"
+      },
+      "3": {
+        "Damage": "‎+30% Damage",
+        "Traps": "+3 Traps",
+        "Explosion Radius": "-",
+        "Duration": "-",
+        "Pvp Damage": "-"
+      },
+      "4": {
+        "Damage": "‎+40% Damage",
+        "Traps": "+4 Traps",
+        "Explosion Radius": "-",
+        "Duration": "-",
+        "Pvp Damage": "-"
+      },
+      "5": {
+        "Damage": "‎+50% Damage",
+        "Traps": "+5 Traps",
+        "Explosion Radius": "-",
+        "Duration": "-",
+        "Pvp Damage": "-"
+      },
+      "6": {
+        "Damage": "‎+60% Damage",
+        "Traps": "+6 Traps",
+        "Explosion Radius": "-",
+        "Duration": "-",
+        "Pvp Damage": "-"
+      },
+      "7": {
+        "Damage": "‎+100% Damage",
+        "Traps": "+6 Traps",
+        "Explosion Radius": "-",
+        "Duration": "-",
+        "Pvp Damage": "-"
+      }
+    }
+  },
+  "Holographic Distraction": {
+    "type": "Decoy",
+    "name": "Holographic Distraction",
+    "icon": "",
+    "data": {
+      "0": {
+        "Duration": "15s",
+        "Health": 929072,
+        "Threat": 1
+      },
+      "1": {
+        "Duration": "+15% Duration",
+        "Health": "+50% Health",
+        "Threat": "+15% Threat"
+      },
+      "2": {
+        "Duration": "+30% Duration",
+        "Health": "+100% Health",
+        "Threat": "+30% Threat"
+      },
+      "3": {
+        "Duration": "+45% Duration",
+        "Health": "+150% Health",
+        "Threat": "+45% Threat"
+      },
+      "4": {
+        "Duration": "+60% Duration",
+        "Health": "+200% Health",
+        "Threat": "+60% Threat"
+      },
+      "5": {
+        "Duration": "+75% Duration",
+        "Health": "+250% Health",
+        "Threat": "+75% Threat"
+      },
+      "6": {
+        "Duration": "+90% Duration",
+        "Health": "+300% Health",
+        "Threat": "+90% Threat"
+      },
+      "7": {
+        "Duration": "+90% Duration",
+        "Health": "+600%Health",
+        "Threat": "+250% Threat"
+      }
+    }
+  },
+  "Scanner": {
+    "type": "Pulse",
+    "name": "Scanner",
+    "icon": "",
+    "data": {
+      "0": {
+        "Duration": "8s",
+        "Effect Radius": "100m",
+        "Conflict Cooldown": "120s"
+      },
+      "1": {
+        "Duration": "+15% Effect Duration",
+        "Effect Radius": "-",
+        "Conflict Cooldown": "-"
+      },
+      "2": {
+        "Duration": "+30% Effect Duration",
+        "Effect Radius": "-",
+        "Conflict Cooldown": "-"
+      },
+      "3": {
+        "Duration": "+45% Effect Duration",
+        "Effect Radius": "-",
+        "Conflict Cooldown": "-"
+      },
+      "4": {
+        "Duration": "+60% Effect Duration",
+        "Effect Radius": "-",
+        "Conflict Cooldown": "-"
+      },
+      "5": {
+        "Duration": "+75% Effect Duration",
+        "Effect Radius": "-",
+        "Conflict Cooldown": "-"
+      },
+      "6": {
+        "Duration": "+90% Effect Duration",
+        "Effect Radius": "-",
+        "Conflict Cooldown": "-"
+      },
+      "7": {
+        "Duration": "+200% Effect Duration",
+        "Effect Radius": "-",
+        "Conflict Cooldown": "-"
+      }
+    }
+  },
+  "Remote": {
+    "type": "Pulse",
+    "name": "Remote",
+    "icon": "",
+    "data": {
+      "0": {
+        "Duration": "45s",
+        "Effect Radius": "15m"
+      },
+      "1": {
+        "Duration": "+15% Duration",
+        "Effect Radius": "+15% Radius"
+      },
+      "2": {
+        "Duration": "+30% Duration",
+        "Effect Radius": "+30% Radius"
+      },
+      "3": {
+        "Duration": "+45% Duration",
+        "Effect Radius": "+45% Radius"
+      },
+      "4": {
+        "Duration": "+60% Duration",
+        "Effect Radius": "+60% Radius"
+      },
+      "5": {
+        "Duration": "+75% Duration",
+        "Effect Radius": "+75% Radius"
+      },
+      "6": {
+        "Duration": "+90% Duration",
+        "Effect Radius": "+90% Radius"
+      },
+      "7": {
+        "Duration": "+120% Duration",
+        "Effect Radius": "+120% Radius"
+      }
+    }
+  },
+  "Jammer (EMP)": {
+    "type": "Pulse",
+    "name": "Jammer (EMP)",
+    "icon": "",
+    "data": {
+      "0": {
+        "EMP Effect Duration": "3s",
+        "Radius": "20m",
+        "Charging Time": "2s"
+      },
+      "1": {
+        "EMP Effect Duration": "+10% Effect Duration",
+        "Radius": "+10% Radius",
+        "Charging Time": "-"
+      },
+      "2": {
+        "EMP Effect Duration": "+20% Effect Duration",
+        "Radius": "+20% Radius",
+        "Charging Time": "-"
+      },
+      "3": {
+        "EMP Effect Duration": "+30% Effect Duration",
+        "Radius": "+30% Radius",
+        "Charging Time": "-"
+      },
+      "4": {
+        "EMP Effect Duration": "+40% Effect Duration",
+        "Radius": "+40% Radius",
+        "Charging Time": "-"
+      },
+      "5": {
+        "EMP Effect Duration": "+50% Effect Duration",
+        "Radius": "+50% Radius",
+        "Charging Time": "-"
+      },
+      "6": {
+        "EMP Effect Duration": "+60% Effect Duration",
+        "Radius": "+60% Radius",
+        "Charging Time": "-"
+      },
+      "7": {
+        "EMP Effect Duration": "+100% Effect Duration",
+        "Radius": "+150% Radius",
+        "Charging Time": "-"
+      }
+    }
+  },
+  "Achilles": {
+    "type": "Pulse",
+    "name": "Achilles",
+    "icon": "",
+    "data": {
+      "0": {
+        "Zone Health": 398174,
+        "Zone Duration": "10s",
+        "Cooldown": "40s"
+      },
+      "1": {
+        "Zone Health": "+10% Zone Health",
+        "Zone Duration": "+10% Duration",
+        "Cooldown": "+10% Skill Haste"
+      },
+      "2": {
+        "Zone Health": "+20% Zone Health",
+        "Zone Duration": "+20% Duration",
+        "Cooldown": "+20% Skill Haste"
+      },
+      "3": {
+        "Zone Health": "+30% Zone Health",
+        "Zone Duration": "+30% Duration",
+        "Cooldown": "+30% Skill Haste"
+      },
+      "4": {
+        "Zone Health": "+40% Zone Health",
+        "Zone Duration": "+40% Duration",
+        "Cooldown": "+40% Skill Haste"
+      },
+      "5": {
+        "Zone Health": "+50% Zone Health",
+        "Zone Duration": "+50% Duration",
+        "Cooldown": "+50% Skill Haste"
+      },
+      "6": {
+        "Zone Health": "+60% Zone Health",
+        "Zone Duration": "+60% Duration",
+        "Cooldown": "+60% Skill Haste"
+      },
+      "7": {
+        "Zone Health": "+100% Zone Health",
+        "Zone Duration": "+100% Duration",
+        "Cooldown": "+100% Skill Haste"
+      }
+    }
+  },
+  "Banshee": {
+    "type": "Pulse",
+    "name": "Banshee",
+    "icon": "",
+    "data": {
+      "0": {
+        "Duration": "10s",
+        "Disorient Duration": "4s",
+        "Radius": "30m",
+        "Cone Angle": 20
+      },
+      "1": {
+        "Duration": "-",
+        "Disorient Duration": "‎+10% Disorient Duration",
+        "Radius": "-",
+        "Cone Angle": "‎+10% Cone Size"
+      },
+      "2": {
+        "Duration": "-",
+        "Disorient Duration": "‎+20% Disorient Duration",
+        "Radius": "-",
+        "Cone Angle": "‎+20% Cone Size"
+      },
+      "3": {
+        "Duration": "-",
+        "Disorient Duration": "‎+30% Disorient Duration",
+        "Radius": "-",
+        "Cone Angle": "‎+20% Cone Size"
+      },
+      "4": {
+        "Duration": "-",
+        "Disorient Duration": "‎+40% Disorient Duration",
+        "Radius": "-",
+        "Cone Angle": "‎+40% Cone Size"
+      },
+      "5": {
+        "Duration": "-",
+        "Disorient Duration": "‎+50% Disorient Duration",
+        "Radius": "-",
+        "Cone Angle": "‎+50% Cone Size"
+      },
+      "6": {
+        "Duration": "-",
+        "Disorient Duration": "‎+60% Disorient Duration",
+        "Radius": "-",
+        "Cone Angle": "‎+60% Cone Size"
+      },
+      "7": {
+        "Duration": "-",
+        "Disorient Duration": "‎+100% Disorient Duration",
+        "Radius": "-",
+        "Cone Angle": "‎+150% Cone Size"
+      }
+    }
+  },
+  "Assault": {
+    "type": "Turret",
+    "name": "Assault",
+    "icon": "",
+    "data": {
+      "0": {
+        "Duration": "180s",
+        "Health": 1061796,
+        "Damage": 26545,
+        "PvP Damage": 6636
+      },
+      "1": {
+        "Duration": "-",
+        "Health": "+70% Health",
+        "Damage": "‎+20% Damage",
+        "PvP Damage": "-"
+      },
+      "2": {
+        "Duration": "-",
+        "Health": "+140% Health",
+        "Damage": "‎+40% Damage",
+        "PvP Damage": "-"
+      },
+      "3": {
+        "Duration": "-",
+        "Health": "+210% Health",
+        "Damage": "‎+60% Damage",
+        "PvP Damage": "-"
+      },
+      "4": {
+        "Duration": "-",
+        "Health": "+280% Health",
+        "Damage": "‎+80% Damage",
+        "PvP Damage": "-"
+      },
+      "5": {
+        "Duration": "-",
+        "Health": "+350% Health",
+        "Damage": "‎+100% Damage",
+        "PvP Damage": "-"
+      },
+      "6": {
+        "Duration": "-",
+        "Health": "+420% Health",
+        "Damage": "‎+120% Damage",
+        "PvP Damage": "-"
+      },
+      "7": {
+        "Duration": "-",
+        "Health": "+560%Health",
+        "Damage": "‎+175% Damage",
+        "PvP Damage": "-"
+      }
+    }
+  },
+  "Incinerator": {
+    "type": "Turret",
+    "name": "Incinerator",
+    "icon": "",
+    "data": {
+      "0": {
+        "Duration": "15s",
+        "Health": 1061796,
+        "Damage": 13272,
+        "Range": "15m",
+        "Burn Damage": 53090,
+        "Burn Duration": "4s",
+        "PvP Damage": 8494
+      },
+      "1": {
+        "Duration": "+10% Duration",
+        "Health": "+70% Health",
+        "Damage": "‎+10% Damage",
+        "Range": "-",
+        "Burn Damage": "‎+10% Burn Strength",
+        "PvP Damage": "-"
+      },
+      "2": {
+        "Duration": "+20% Duration",
+        "Health": "+140% Health",
+        "Damage": "‎+20% Damage",
+        "Range": "-",
+        "Burn Damage": "‎+20% Burn Strength",
+        "PvP Damage": "-"
+      },
+      "3": {
+        "Duration": "+30% Duration",
+        "Health": "+210% Health",
+        "Damage": "‎+30% Damage",
+        "Range": "-",
+        "Burn Damage": "‎+30% Burn Strength",
+        "PvP Damage": "-"
+      },
+      "4": {
+        "Duration": "+40% Duration",
+        "Health": "+280% Health",
+        "Damage": "‎+40% Damage",
+        "Range": "-",
+        "Burn Damage": "‎+40% Burn Strength",
+        "PvP Damage": "-"
+      },
+      "5": {
+        "Duration": "+50% Duration",
+        "Health": "+350% Health",
+        "Damage": "‎+50% Damage",
+        "Range": "-",
+        "Burn Damage": "‎+50% Burn Strength",
+        "PvP Damage": "-"
+      },
+      "6": {
+        "Duration": "+60% Duration",
+        "Health": "+420% Health",
+        "Damage": "‎+60% Damage",
+        "Range": "-",
+        "Burn Damage": "‎+60% Burn Strength",
+        "PvP Damage": "-"
+      },
+      "7": {
+        "Duration": "+100% Duration",
+        "Health": "+560%Health",
+        "Damage": "‎+60% Damage",
+        "Range": "-",
+        "Burn Damage": "‎+60% Burn Strength",
+        "PvP Damage": "-"
+      }
+    }
+  },
+  "Sniper": {
+    "type": "Turret",
+    "name": "Sniper",
+    "icon": "",
+    "data": {
+      "0": {
+        "Duration": "300s",
+        "Health": 1061796,
+        "Damage": 729985,
+        "Ammo": 3,
+        "PvP Damage": 233595
+      },
+      "1": {
+        "Duration": "-",
+        "Health": "+70% Health",
+        "Damage": "‎+15% Damage",
+        "Ammo": "+2 Extra Sniper Ammo",
+        "PvP Damage": "-"
+      },
+      "2": {
+        "Duration": "-",
+        "Health": "+140% Health",
+        "Damage": "‎+30% Damage",
+        "Ammo": "+4 Extra Sniper Ammo",
+        "PvP Damage": "-"
+      },
+      "3": {
+        "Duration": "-",
+        "Health": "+210% Health",
+        "Damage": "‎+45% Damage",
+        "Ammo": "+6 Extra Sniper Ammo",
+        "PvP Damage": "-"
+      },
+      "4": {
+        "Duration": "-",
+        "Health": "+280% Health",
+        "Damage": "‎+60% Damage",
+        "Ammo": "+8 Extra Sniper Ammo",
+        "PvP Damage": "-"
+      },
+      "5": {
+        "Duration": "-",
+        "Health": "+350% Health",
+        "Damage": "‎+75% Damage",
+        "Ammo": "+10 Extra Sniper Ammo",
+        "PvP Damage": "-"
+      },
+      "6": {
+        "Duration": "-",
+        "Health": "+420% Health",
+        "Damage": "‎+90% Damage",
+        "Ammo": "+12 Extra Sniper Ammo",
+        "PvP Damage": "-"
+      },
+      "7": {
+        "Duration": "-",
+        "Health": "+560%Health",
+        "Damage": "‎+90% Damage",
+        "Ammo": "+15 Extra Sniper Ammo",
+        "PvP Damage": "-"
+      }
+    }
+  },
+  "Artillery": {
+    "type": "Turret",
+    "name": "Artillery",
+    "icon": "",
+    "data": {
+      "0": {
+        "Duration": 300,
+        "Health": 1061796,
+        "Damage": 729985,
+        "Ammo": 3,
+        "Blast Radius": "4.5m",
+        "Bleed Damage": 29863,
+        "Bleed Duration": 7,
+        "PvP Damage": 182496,
+        "PvP Bleed Damage": 7465
+      },
+      "1": {
+        "Duration": "-",
+        "Health": "+70% Health",
+        "Damage": "‎+15% Damage",
+        "Ammo": "+1 Extra Mortar Ammo",
+        "Blast Radius": "+8% Mortar Blast Radius",
+        "Bleed Damage": "-",
+        "Bleed Duration": "-",
+        "PvP Damage": "-",
+        "PvP Bleed Damage": "-"
+      },
+      "2": {
+        "Duration": "-",
+        "Health": "+140% Health",
+        "Damage": "‎+30% Damage",
+        "Ammo": "+2 Extra Mortar Ammo",
+        "Blast Radius": "+16% Mortar Blast Radius",
+        "Bleed Damage": "-",
+        "Bleed Duration": "-",
+        "PvP Damage": "-",
+        "PvP Bleed Damage": "-"
+      },
+      "3": {
+        "Duration": "-",
+        "Health": "+210% Health",
+        "Damage": "‎+45% Damage",
+        "Ammo": "+3 Extra Mortar Ammo",
+        "Blast Radius": "+24% Mortar Blast Radius",
+        "Bleed Damage": "-",
+        "Bleed Duration": "-",
+        "PvP Damage": "-",
+        "PvP Bleed Damage": "-"
+      },
+      "4": {
+        "Duration": "-",
+        "Health": "+280% Health",
+        "Damage": "‎+60% Damage",
+        "Ammo": "+4 Extra Mortar Ammo",
+        "Blast Radius": "+32% Mortar Blast Radius",
+        "Bleed Damage": "-",
+        "Bleed Duration": "-",
+        "PvP Damage": "-",
+        "PvP Bleed Damage": "-"
+      },
+      "5": {
+        "Duration": "-",
+        "Health": "+350% Health",
+        "Damage": "‎+75% Damage",
+        "Ammo": "+5 Extra Mortar Ammo",
+        "Blast Radius": "+40% Mortar Blast Radius",
+        "Bleed Damage": "-",
+        "Bleed Duration": "-",
+        "PvP Damage": "-",
+        "PvP Bleed Damage": "-"
+      },
+      "6": {
+        "Duration": "-",
+        "Health": "+420% Health",
+        "Damage": "‎+90% Damage",
+        "Ammo": "+6 Extra Mortar Ammo",
+        "Blast Radius": "+50% Mortar Blast Radius",
+        "Bleed Damage": "-",
+        "Bleed Duration": "-",
+        "PvP Damage": "-",
+        "PvP Bleed Damage": "-"
+      },
+      "7": {
+        "Duration": "-",
+        "Health": "+560%Health",
+        "Damage": "‎+137.5% Damage",
+        "Ammo": "+10 Extra Mortar Ammo",
+        "Blast Radius": "+75% Mortar Blast Radius",
+        "Bleed Damage": "-",
+        "Bleed Duration": "-",
+        "PvP Damage": "-",
+        "PvP Bleed Damage": "-"
+      }
+    }
+  },
+  "Restorer": {
+    "type": "Hive",
+    "name": "Restorer",
+    "icon": "",
+    "data": {
+      "0": {
+        "Charges": 8,
+        "Range": "8m",
+        "Duration": "180s",
+        "Health": 796347,
+        "Healing": 59726,
+        "PvP Healing": 36432
+      },
+      "1": {
+        "Charges": "+4 Repair Charges",
+        "Range": "+10% Range",
+        "Duration": "-",
+        "Health": "+70% Health",
+        "Healing": "+20% Healing",
+        "PvP Healing": "-"
+      },
+      "2": {
+        "Charges": "+8 Repair Charges",
+        "Range": "+20% Range",
+        "Duration": "-",
+        "Health": "+140% Health",
+        "Healing": "+40% Healing",
+        "PvP Healing": "-"
+      },
+      "3": {
+        "Charges": "+12 Repair Charges",
+        "Range": "+30% Range",
+        "Duration": "-",
+        "Health": "+210% Health",
+        "Healing": "+60% Healing",
+        "PvP Healing": "-"
+      },
+      "4": {
+        "Charges": "+16 Repair Charges",
+        "Range": "+40% Range",
+        "Duration": "-",
+        "Health": "+280% Health",
+        "Healing": "+80% Healing",
+        "PvP Healing": "-"
+      },
+      "5": {
+        "Charges": "+20 Repair Charges",
+        "Range": "+50% Range",
+        "Duration": "-",
+        "Health": "+350% Health",
+        "Healing": "+100% Healing",
+        "PvP Healing": "-"
+      },
+      "6": {
+        "Charges": "+24 Repair Charges",
+        "Range": "+60% Range",
+        "Duration": "-",
+        "Health": "+420% Health",
+        "Healing": "+120% Healing",
+        "PvP Healing": "-"
+      },
+      "7": {
+        "Charges": "+24 Repair Charges",
+        "Range": "+200% Range",
+        "Duration": "-",
+        "Health": "+420%Health",
+        "Healing": "+140% Healing",
+        "PvP Healing": "-"
+      }
+    }
+  },
+  "Stinger": {
+    "type": "Hive",
+    "name": "Stinger",
+    "icon": "",
+    "data": {
+      "0": {
+        "Charges": 8,
+        "Range": "8m",
+        "Duration": "180s",
+        "Health": 796347,
+        "Damage": 265449,
+        "Bleed Damage": 29863,
+        "Bleed Duration": "7s",
+        "PvP Damage": 63707,
+        "PvP Bleed Damage": 7465
+      },
+      "1": {
+        "Charges": "+1 Stinger Charges",
+        "Range": "+5% Range",
+        "Duration": "-",
+        "Health": "+70% Health",
+        "Damage": "‎+20% Damage",
+        "Bleed Damage": "-",
+        "Bleed Duration": "-",
+        "PvP Damage": "-",
+        "PvP Bleed Damage": "-"
+      },
+      "2": {
+        "Charges": "+2 Stinger Charges",
+        "Range": "+10% Range",
+        "Duration": "-",
+        "Health": "+140% Health",
+        "Damage": "‎+40% Damage",
+        "Bleed Damage": "-",
+        "Bleed Duration": "-",
+        "PvP Damage": "-",
+        "PvP Bleed Damage": "-"
+      },
+      "3": {
+        "Charges": "+3 Stinger Charges",
+        "Range": "+15% Range",
+        "Duration": "-",
+        "Health": "+210% Health",
+        "Damage": "‎+60% Damage",
+        "Bleed Damage": "-",
+        "Bleed Duration": "-",
+        "PvP Damage": "-",
+        "PvP Bleed Damage": "-"
+      },
+      "4": {
+        "Charges": "+4 Stinger Charges",
+        "Range": "+20% Range",
+        "Duration": "-",
+        "Health": "+280% Health",
+        "Damage": "‎+80% Damage",
+        "Bleed Damage": "-",
+        "Bleed Duration": "-",
+        "PvP Damage": "-",
+        "PvP Bleed Damage": "-"
+      },
+      "5": {
+        "Charges": "+5 Stinger Charges",
+        "Range": "+25% Range",
+        "Duration": "-",
+        "Health": "+350% Health",
+        "Damage": "‎+100% Damage",
+        "Bleed Damage": "-",
+        "Bleed Duration": "-",
+        "PvP Damage": "-",
+        "PvP Bleed Damage": "-"
+      },
+      "6": {
+        "Charges": "+6 Stinger Charges",
+        "Range": "+30% Range",
+        "Duration": "-",
+        "Health": "+420% Health",
+        "Damage": "‎+120% Damage",
+        "Bleed Damage": "-",
+        "Bleed Duration": "-",
+        "PvP Damage": "-",
+        "PvP Bleed Damage": "-"
+      },
+      "7": {
+        "Charges": "+6 Stinger Charges",
+        "Range": "+100% Range",
+        "Duration": "-",
+        "Health": "+420%Health",
+        "Damage": "‎+200% Damage",
+        "Bleed Damage": "-",
+        "Bleed Duration": "-",
+        "PvP Damage": "-",
+        "PvP Bleed Damage": "-"
+      }
+    }
+  },
+  "Reviver": {
+    "type": "Hive",
+    "name": "Reviver",
+    "icon": "",
+    "data": {
+      "0": {
+        "Charges": 1,
+        "Range": "8m",
+        "Duration": "180s",
+        "Health": 796347,
+        "Revive Armor": 0.25
+      },
+      "1": {
+        "Charges": "+1 Charges",
+        "Range": "+5% Range",
+        "Duration": "-",
+        "Health": "+70% Health",
+        "Revive Armor": "+10% Reviver Armor Repair"
+      },
+      "2": {
+        "Charges": "+2 Charges",
+        "Range": "+10% Range",
+        "Duration": "-",
+        "Health": "+140% Health",
+        "Revive Armor": "+20% Reviver Armor Repair"
+      },
+      "3": {
+        "Charges": "+3 Charges",
+        "Range": "+15% Range",
+        "Duration": "-",
+        "Health": "+210% Health",
+        "Revive Armor": "+30% Reviver Armor Repair"
+      },
+      "4": {
+        "Charges": "+4 Charges",
+        "Range": "+20% Range",
+        "Duration": "-",
+        "Health": "+280% Health",
+        "Revive Armor": "+40% Reviver Armor Repair"
+      },
+      "5": {
+        "Charges": "+5 Charges",
+        "Range": "+25% Range",
+        "Duration": "-",
+        "Health": "+350% Health",
+        "Revive Armor": "+50% Reviver Armor Repair"
+      },
+      "6": {
+        "Charges": "+6 Charges",
+        "Range": "+30% Range",
+        "Duration": "-",
+        "Health": "+420% Health",
+        "Revive Armor": "+60% Reviver Armor Repair"
+      },
+      "7": {
+        "Charges": "+6 Charges",
+        "Range": "+100% Range",
+        "Duration": "-",
+        "Health": "+420%Health",
+        "Revive Armor": "+75% Reviver Armor Repair"
+      }
+    }
+  },
+  "Booster": {
+    "type": "Hive",
+    "name": "Booster",
+    "icon": "",
+    "data": {
+      "0": {
+        "Charges": 8,
+        "Range": "8m",
+        "Duration": "180s",
+        "Health": 796347,
+        "Buff Amount": 0.2,
+        "Buff Duration": "5s"
+      },
+      "1": {
+        "Charges": "+4 Stim Charges",
+        "Range": "+5% Range",
+        "Duration": "-",
+        "Health": "+70% Health",
+        "Buff Amount": "+33% Stim Efficiency",
+        "Buff Duration": "+20% Buff Duration"
+      },
+      "2": {
+        "Charges": "+8 Stim Charges",
+        "Range": "+10% Range",
+        "Duration": "-",
+        "Health": "+140% Health",
+        "Buff Amount": "+66% Stim Efficiency",
+        "Buff Duration": "+30% Buff Duration"
+      },
+      "3": {
+        "Charges": "+12 Stim Charges",
+        "Range": "+15% Range",
+        "Duration": "-",
+        "Health": "+210% Health",
+        "Buff Amount": "+100% Stim Efficiency",
+        "Buff Duration": "+40% Buff Duration"
+      },
+      "4": {
+        "Charges": "+16 Stim Charges",
+        "Range": "+20% Range",
+        "Duration": "-",
+        "Health": "+280% Health",
+        "Buff Amount": "+133% Stim Efficiency",
+        "Buff Duration": "+60% Buff Duration"
+      },
+      "5": {
+        "Charges": "+20 Stim Charges",
+        "Range": "+25% Range",
+        "Duration": "-",
+        "Health": "+350% Health",
+        "Buff Amount": "+166% Stim Efficiency",
+        "Buff Duration": "+80% Buff Duration"
+      },
+      "6": {
+        "Charges": "+24 Stim Charges",
+        "Range": "+30% Range",
+        "Duration": "-",
+        "Health": "+420% Health",
+        "Buff Amount": "+200% Stim Efficiency",
+        "Buff Duration": "+100% Buff Duration"
+      },
+      "7": {
+        "Charges": "+24 Stim Charges",
+        "Range": "+100% Range",
+        "Duration": "-",
+        "Health": "+420%Health",
+        "Buff Amount": "+400% Stim Efficiency",
+        "Buff Duration": "+110% Buff Duration"
+      }
+    }
+  },
+  "Artificer": {
+    "type": "Hive",
+    "name": "Artificer",
+    "icon": "",
+    "data": {
+      "0": {
+        "Charges": 8,
+        "Range": "8m",
+        "Duration": "180s",
+        "Health": 796347,
+        "Buff Amount": 0.1,
+        "Buff Duration": "10s",
+        "Skill Repair": 0.1,
+        "Skill Refresh": "3s"
+      },
+      "1": {
+        "Charges": "+4 Charges",
+        "Range": "+10% Range",
+        "Duration": "-",
+        "Health": "+70% Health",
+        "Buff Amount": "+100% Charge Efficiency",
+        "Buff Duration": "-",
+        "Skill Repair": "-",
+        "Skill Refresh": "+2s Skill Refresh"
+      },
+      "2": {
+        "Charges": "+8 Charges",
+        "Range": "+20% Range",
+        "Duration": "-",
+        "Health": "+140% Health",
+        "Buff Amount": "+200% Charge Efficiency",
+        "Buff Duration": "-",
+        "Skill Repair": "-",
+        "Skill Refresh": "+4s Skill Refresh"
+      },
+      "3": {
+        "Charges": "+12 Charges",
+        "Range": "+30% Range",
+        "Duration": "-",
+        "Health": "+210% Health",
+        "Buff Amount": "+300% Charge Efficiency",
+        "Buff Duration": "-",
+        "Skill Repair": "-",
+        "Skill Refresh": "+6s Skill Refresh"
+      },
+      "4": {
+        "Charges": "+16 Charges",
+        "Range": "+40% Range",
+        "Duration": "-",
+        "Health": "+280% Health",
+        "Buff Amount": "+400% Charge Efficiency",
+        "Buff Duration": "-",
+        "Skill Repair": "-",
+        "Skill Refresh": "+8s Skill Refresh"
+      },
+      "5": {
+        "Charges": "+20 Charges",
+        "Range": "+50% Range",
+        "Duration": "-",
+        "Health": "+350% Health",
+        "Buff Amount": "+500% Charge Efficiency",
+        "Buff Duration": "-",
+        "Skill Repair": "-",
+        "Skill Refresh": "+10s Skill Refresh"
+      },
+      "6": {
+        "Charges": "+24 Charges",
+        "Range": "+60% Range",
+        "Duration": "-",
+        "Health": "+420% Health",
+        "Buff Amount": "+600% Charge Efficiency",
+        "Buff Duration": "-",
+        "Skill Repair": "-",
+        "Skill Refresh": "+12s Skill Refresh"
+      },
+      "7": {
+        "Charges": "+24 Charges",
+        "Range": "+200% Range",
+        "Duration": "-",
+        "Health": "+420%Health",
+        "Buff Amount": "+700% Charge Efficiency",
+        "Buff Duration": "-",
+        "Skill Repair": "-",
+        "Skill Refresh": "+22s Skill Refresh"
+      }
+    }
+  },
+  "Reinforcer": {
+    "type": "Chem Launcher",
+    "name": "Reinforcer",
+    "icon": "",
+    "data": {
+      "0": {
+        "Ammo Cooldown": "30s",
+        "Cloud Radius": "3m",
+        "Cloud Duration": "5s",
+        "Ally Repair": 199087,
+        "Repair Over Time": 39817,
+        "PvP Ally Repair": 99543,
+        "PvP Repair Over Time": 19908
+      },
+      "1": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+10% Radius",
+        "Cloud Duration": "-",
+        "Ally Repair": "+20% Heal"
+      },
+      "2": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+20% Radius",
+        "Cloud Duration": "-",
+        "Ally Repair": "+40% Heal"
+      },
+      "3": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+30% Radius",
+        "Cloud Duration": "-",
+        "Ally Repair": "+60% Heal"
+      },
+      "4": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+40% Radius",
+        "Cloud Duration": "-",
+        "Ally Repair": "+80% Heal"
+      },
+      "5": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+50% Radius",
+        "Cloud Duration": "-",
+        "Ally Repair": "+100% Heal"
+      },
+      "6": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+60% Radius",
+        "Cloud Duration": "-",
+        "Ally Repair": "+120% Heal"
+      },
+      "7": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+150% Radius",
+        "Cloud Duration": "+100% Duration",
+        "Ally Repair": "+140% Heal"
+      }
+    }
+  },
+  "Firestarter": {
+    "type": "Chem Launcher",
+    "name": "Firestarter",
+    "icon": "",
+    "data": {
+      "0": {
+        "Ammo Cooldown": "30s",
+        "Cloud Radius": "3.00m",
+        "Cloud Duration": "20s",
+        "Damage": 265449,
+        "Burn Damage": 79635,
+        "Burn Duration": "4s",
+        "PVP Damage": 106179,
+        "PVP Burn Damage": 12741
+      },
+      "1": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+5% Radius",
+        "Cloud Duration": "-",
+        "Damage": "-",
+        "Burn Damage": "‎+10% Burn Damage",
+        "Burn Duration": "‎+10% Burn Duration",
+        "PVP Damage": "-",
+        "PVP Burn Damage": "-"
+      },
+      "2": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+10% Radius",
+        "Cloud Duration": "-",
+        "Damage": "-",
+        "Burn Damage": "‎+20% Burn Damage",
+        "Burn Duration": "‎+20% Burn Duration",
+        "PVP Damage": "-",
+        "PVP Burn Damage": "-"
+      },
+      "3": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+15% Radius",
+        "Cloud Duration": "-",
+        "Damage": "-",
+        "Burn Damage": "‎+30% Burn Damage",
+        "Burn Duration": "‎+30% Burn Duration",
+        "PVP Damage": "-",
+        "PVP Burn Damage": "-"
+      },
+      "4": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+20% Radius",
+        "Cloud Duration": "-",
+        "Damage": "-",
+        "Burn Damage": "‎+40% Burn Damage",
+        "Burn Duration": "‎+40% Burn Duration",
+        "PVP Damage": "-",
+        "PVP Burn Damage": "-"
+      },
+      "5": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+25% Radius",
+        "Cloud Duration": "-",
+        "Damage": "-",
+        "Burn Damage": "‎+50% Burn Damage",
+        "Burn Duration": "‎+50% Burn Duration",
+        "PVP Damage": "-",
+        "PVP Burn Damage": "-"
+      },
+      "6": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+30% Radius",
+        "Cloud Duration": "-",
+        "Damage": "-",
+        "Burn Damage": "‎+60% Burn Damage",
+        "Burn Duration": "‎+60% Burn Duration",
+        "PVP Damage": "-",
+        "PVP Burn Damage": "-"
+      },
+      "7": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+135% Radius",
+        "Cloud Duration": "-",
+        "Damage": "-",
+        "Burn Damage": "‎+60% Burn Damage",
+        "Burn Duration": "‎+100% Burn Duration",
+        "PVP Damage": "-",
+        "PVP Burn Damage": "-"
+      }
+    }
+  },
+  "Riot Foam": {
+    "type": "Chem Launcher",
+    "name": "Riot Foam",
+    "icon": "",
+    "data": {
+      "0": {
+        "Ammo Cooldown": "30s",
+        "Cloud Radius": "3m",
+        "Ensnare Duration": "6s",
+        "Foam Health": 452470,
+        "PvP Ensnare Duration": 2
+      },
+      "1": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+5% Radius",
+        "Ensnare Duration": "+10% Ensnare Duration",
+        "Foam Health": "+50% Ensnare Health",
+        "PvP Ensnare Duration": "-"
+      },
+      "2": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+10% Radius",
+        "Ensnare Duration": "+20% Ensnare Duration",
+        "Foam Health": "+100% Ensnare Health",
+        "PvP Ensnare Duration": "-"
+      },
+      "3": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+15% Radius",
+        "Ensnare Duration": "+30% Ensnare Duration",
+        "Foam Health": "+150% Ensnare Health",
+        "PvP Ensnare Duration": "-"
+      },
+      "4": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+20% Radius",
+        "Ensnare Duration": "+40% Ensnare Duration",
+        "Foam Health": "+200% Ensnare Health",
+        "PvP Ensnare Duration": "-"
+      },
+      "5": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+25% Radius",
+        "Ensnare Duration": "+50% Ensnare Duration",
+        "Foam Health": "+250% Ensnare Health",
+        "PvP Ensnare Duration": "-"
+      },
+      "6": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+30% Radius",
+        "Ensnare Duration": "+60% Ensnare Duration",
+        "Foam Health": "+300% Ensnare Health",
+        "PvP Ensnare Duration": "-"
+      },
+      "7": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+135% Radius",
+        "Ensnare Duration": "+100% Ensnare Duration",
+        "Foam Health": "+500% Ensnare Health",
+        "PvP Ensnare Duration": "-"
+      }
+    }
+  },
+  "Oxidizer": {
+    "type": "Chem Launcher",
+    "name": "Oxidizer",
+    "icon": "",
+    "data": {
+      "0": {
+        "Ammo Cooldown": "25s",
+        "Cloud Radius": "3.5m",
+        "Cloud Duration": "5s",
+        "Cloud Damage": 53090,
+        "PvP Damage": 18581
+      },
+      "1": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+2% Radius",
+        "Cloud Duration": "‎+20% Duration",
+        "Cloud Damage": "‎+10% Damage",
+        "PvP Damage": "-"
+      },
+      "2": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+4% Radius",
+        "Cloud Duration": "‎+40% Duration",
+        "Cloud Damage": "‎+20% Damage",
+        "PvP Damage": "-"
+      },
+      "3": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+6% Radius",
+        "Cloud Duration": "‎+60% Duration",
+        "Cloud Damage": "‎+30% Damage",
+        "PvP Damage": "-"
+      },
+      "4": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+8% Radius",
+        "Cloud Duration": "‎+80% Duration",
+        "Cloud Damage": "‎+40% Damage",
+        "PvP Damage": "-"
+      },
+      "5": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+10% Radius",
+        "Cloud Duration": "‎+100% Duration",
+        "Cloud Damage": "‎+50% Damage",
+        "PvP Damage": "-"
+      },
+      "6": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+12% Radius",
+        "Cloud Duration": "‎+120% Duration",
+        "Cloud Damage": "‎+60% Damage",
+        "PvP Damage": "-"
+      },
+      "7": {
+        "Ammo Cooldown": "-",
+        "Cloud Radius": "+100% Radius",
+        "Cloud Duration": "‎+150% Duration",
+        "Cloud Damage": "‎+80% Damage",
+        "PvP Damage": "-"
+      }
+    }
+  },
+  "Blinder": {
+    "type": "Firefly",
+    "name": "Blinder",
+    "icon": "",
+    "data": {
+      "0": {
+        "Max Targets": 3,
+        "Health": 663623,
+        "Speed": 1,
+        "Blind Duration": "5s",
+        "PvP Blind Duration": "2s"
+      },
+      "1": {
+        "Max Targets": "+1 Max Targets",
+        "Health": "-",
+        "Speed": "+35% Speed",
+        "Blind Duration": "+10% Blind Effect Duration",
+        "PvP Blind Duration": "-"
+      },
+      "2": {
+        "Max Targets": "+2 Max Targets",
+        "Health": "-",
+        "Speed": "+70% Speed",
+        "Blind Duration": "+20% Blind Effect Duration",
+        "PvP Blind Duration": "-"
+      },
+      "3": {
+        "Max Targets": "+3 Max Targets",
+        "Health": "-",
+        "Speed": "+105% Speed",
+        "Blind Duration": "+30% Blind Effect Duration",
+        "PvP Blind Duration": "-"
+      },
+      "4": {
+        "Max Targets": "+4 Max Targets",
+        "Health": "-",
+        "Speed": "+140% Speed",
+        "Blind Duration": "+40% Blind Effect Duration",
+        "PvP Blind Duration": "-"
+      },
+      "5": {
+        "Max Targets": "+5 Max Targets",
+        "Health": "-",
+        "Speed": "+175% Speed",
+        "Blind Duration": "+50% Blind Effect Duration",
+        "PvP Blind Duration": "-"
+      },
+      "6": {
+        "Max Targets": "+6 Max Targets",
+        "Health": "-",
+        "Speed": "+210% Speed",
+        "Blind Duration": "+60% Blind Effect Duration",
+        "PvP Blind Duration": "-"
+      },
+      "7": {
+        "Max Targets": "+10 Max Targets",
+        "Health": "-",
+        "Speed": "+250% Speed",
+        "Blind Duration": "+100% Blind Effect Duration",
+        "PvP Blind Duration": "-"
+      }
+    }
+  },
+  "Burster": {
+    "type": "Firefly",
+    "name": "Burster",
+    "icon": "",
+    "data": {
+      "0": {
+        "Max Targets": 3,
+        "Health": 663623,
+        "Speed": 1,
+        "Damage": 663623
+      },
+      "1": {
+        "Max Targets": "+1 Max Targets",
+        "Health": "-",
+        "Speed": "+35% Speed",
+        "Damage": "‎+15% Damage"
+      },
+      "2": {
+        "Max Targets": "+2 Max Targets",
+        "Health": "-",
+        "Speed": "+70% Speed",
+        "Damage": "‎+30% Damage"
+      },
+      "3": {
+        "Max Targets": "+3 Max Targets",
+        "Health": "-",
+        "Speed": "+105% Speed",
+        "Damage": "‎+45% Damage"
+      },
+      "4": {
+        "Max Targets": "+4 Max Targets",
+        "Health": "-",
+        "Speed": "+140% Speed",
+        "Damage": "‎+60% Damage"
+      },
+      "5": {
+        "Max Targets": "+5 Max Targets",
+        "Health": "-",
+        "Speed": "+175% Speed",
+        "Damage": "‎+75% Damage"
+      },
+      "6": {
+        "Max Targets": "+6 Max Targets",
+        "Health": "-",
+        "Speed": "+210% Speed",
+        "Damage": "‎+90% Damage"
+      },
+      "7": {
+        "Max Targets": "+10 Max Targets",
+        "Health": "-",
+        "Speed": "+250% Speed",
+        "Damage": "‎+137.5% Damage"
+      }
+    }
+  },
+  "Demolisher": {
+    "type": "Firefly",
+    "name": "Demolisher",
+    "icon": "",
+    "data": {
+      "0": {
+        "Max Targets": 3,
+        "Health": 663623,
+        "Speed": 1,
+        "Damage": 1659056,
+        "PvP Damage": 3318112
+      },
+      "1": {
+        "Max Targets": "+1 Max Targets",
+        "Health": "-",
+        "Speed": "+35% Speed",
+        "Damage": "‎+35% Damage",
+        "PvP Damage": "-"
+      },
+      "2": {
+        "Max Targets": "+2 Max Targets",
+        "Health": "-",
+        "Speed": "+70% Speed",
+        "Damage": "‎+70% Damage",
+        "PvP Damage": "-"
+      },
+      "3": {
+        "Max Targets": "+3 Max Targets",
+        "Health": "-",
+        "Speed": "+105% Speed",
+        "Damage": "‎+105% Damage",
+        "PvP Damage": "-"
+      },
+      "4": {
+        "Max Targets": "+4 Max Targets",
+        "Health": "-",
+        "Speed": "+140% Speed",
+        "Damage": "‎+140% Damage",
+        "PvP Damage": "-"
+      },
+      "5": {
+        "Max Targets": "+5 Max Targets",
+        "Health": "-",
+        "Speed": "+175% Speed",
+        "Damage": "‎+175% Damage",
+        "PvP Damage": "-"
+      },
+      "6": {
+        "Max Targets": "+6 Max Targets",
+        "Health": "-",
+        "Speed": "+210% Speed",
+        "Damage": "‎+210% Damage",
+        "PvP Damage": "-"
+      },
+      "7": {
+        "Max Targets": "+10 Max Targets",
+        "Health": "-",
+        "Speed": "+250% Speed",
+        "Damage": "‎+300% Damage",
+        "PvP Damage": "-"
+      }
+    }
+  },
+  "Airburst": {
+    "type": "Seeker",
+    "name": "Airburst",
+    "icon": "",
+    "data": {
+      "0": {
+        "Health": 199087,
+        "Damage": 331811,
+        "Burn Damage": 79635,
+        "Burn Duration": "4s",
+        "PvP Damage": 132724,
+        "PvP Burn Damage": 11945,
+        "Radius": "6m"
+      },
+      "1": {
+        "Health": "-",
+        "Damage": "+10% Damage",
+        "Burn Damage": "‎+10% Burn Damage",
+        "Burn Duration": "‎+50% Burn Duration",
+        "PvP Damage": "-",
+        "PvP Burn Damage": "-",
+        "Radius": "-"
+      },
+      "2": {
+        "Health": "-",
+        "Damage": "+20% Damage",
+        "Burn Damage": "‎+20% Burn Damage",
+        "Burn Duration": "‎+100% Burn Duration",
+        "PvP Damage": "-",
+        "PvP Burn Damage": "-",
+        "Radius": "-"
+      },
+      "3": {
+        "Health": "-",
+        "Damage": "+30% Damage",
+        "Burn Damage": "‎+30% Burn Damage",
+        "Burn Duration": "‎+150% Burn Duration",
+        "PvP Damage": "-",
+        "PvP Burn Damage": "-",
+        "Radius": "-"
+      },
+      "4": {
+        "Health": "-",
+        "Damage": "+40% Damage",
+        "Burn Damage": "‎+40% Burn Damage",
+        "Burn Duration": "‎+200% Burn Duration",
+        "PvP Damage": "-",
+        "PvP Burn Damage": "-",
+        "Radius": "-"
+      },
+      "5": {
+        "Health": "-",
+        "Damage": "+50% Damage",
+        "Burn Damage": "‎+50% Burn Damage",
+        "Burn Duration": "‎+250% Burn Duration",
+        "PvP Damage": "-",
+        "PvP Burn Damage": "-",
+        "Radius": "-"
+      },
+      "6": {
+        "Health": "-",
+        "Damage": "+60% Damage",
+        "Burn Damage": "‎+60% Burn Damage",
+        "Burn Duration": "‎+300% Burn Duration",
+        "PvP Damage": "-",
+        "PvP Burn Damage": "-",
+        "Radius": "-"
+      },
+      "7": {
+        "Health": "-",
+        "Damage": "+60% Damage",
+        "Burn Damage": "‎+60% Burn Damage",
+        "Burn Duration": "‎+400% Burn Duration",
+        "PvP Damage": "-",
+        "PvP Burn Damage": "-",
+        "Radius": "-"
+      }
+    }
+  },
+  "Cluster": {
+    "type": "Seeker",
+    "name": "Cluster",
+    "icon": "",
+    "data": {
+      "0": {
+        "Health": 199087,
+        "Damage": 729985,
+        "Number of Mines": 3,
+        "Blast Radius": "2m",
+        "PvP Damage": 131397
+      },
+      "1": {
+        "Health": "-",
+        "Damage": "+10% Damage",
+        "Number of Mines": "+1 Cluster Mines",
+        "Blast Radius": "-",
+        "PvP Damage": "-"
+      },
+      "2": {
+        "Health": "-",
+        "Damage": "+20% Damage",
+        "Number of Mines": "+2 Cluster Mines",
+        "Blast Radius": "-",
+        "PvP Damage": "-"
+      },
+      "3": {
+        "Health": "-",
+        "Damage": "+30% Damage",
+        "Number of Mines": "+3 Cluster Mines",
+        "Blast Radius": "-",
+        "PvP Damage": "-"
+      },
+      "4": {
+        "Health": "-",
+        "Damage": "+40% Damage",
+        "Number of Mines": "+4 Cluster Mines",
+        "Blast Radius": "-",
+        "PvP Damage": "-"
+      },
+      "5": {
+        "Health": "-",
+        "Damage": "+50% Damage",
+        "Number of Mines": "+5 Cluster Mines",
+        "Blast Radius": "-",
+        "PvP Damage": "-"
+      },
+      "6": {
+        "Health": "-",
+        "Damage": "+60% Damage",
+        "Number of Mines": "+6 Cluster Mines",
+        "Blast Radius": "-",
+        "PvP Damage": "-"
+      },
+      "7": {
+        "Health": "-",
+        "Damage": "+80% Damage",
+        "Number of Mines": "+8 Cluster Mines",
+        "Blast Radius": "-",
+        "PvP Damage": "-"
+      }
+    }
+  },
+  "Mender": {
+    "type": "Seeker",
+    "name": "Mender",
+    "icon": "",
+    "data": {
+      "0": {
+        "Duration": "180s",
+        "Healing": "17918 HP/s",
+        "Radius": "3m",
+        "Cloud Duration": "8s",
+        "Health": 199087,
+        "PvP Healing": 8958
+      },
+      "1": {
+        "Duration": "-",
+        "Healing": "+20% Healing",
+        "Radius": "+5% Radius",
+        "Cloud Duration": "-",
+        "Health": "-",
+        "PvP Healing": "-"
+      },
+      "2": {
+        "Duration": "-",
+        "Healing": "+40% Healing",
+        "Radius": "+10% Radius",
+        "Cloud Duration": "-",
+        "Health": "-",
+        "PvP Healing": "-"
+      },
+      "3": {
+        "Duration": "-",
+        "Healing": "+60% Healing",
+        "Radius": "+15% Radius",
+        "Cloud Duration": "-",
+        "Health": "-",
+        "PvP Healing": "-"
+      },
+      "4": {
+        "Duration": "-",
+        "Healing": "+80% Healing",
+        "Radius": "+20% Radius",
+        "Cloud Duration": "-",
+        "Health": "-",
+        "PvP Healing": "-"
+      },
+      "5": {
+        "Duration": "-",
+        "Healing": "+100% Healing",
+        "Radius": "+25% Radius",
+        "Cloud Duration": "-",
+        "Health": "-",
+        "PvP Healing": "-"
+      },
+      "6": {
+        "Duration": "-",
+        "Healing": "+120% Healing",
+        "Radius": "+30% Radius",
+        "Cloud Duration": "-",
+        "Health": "-",
+        "PvP Healing": "-"
+      },
+      "7": {
+        "Duration": "-",
+        "Healing": "+160% Healing",
+        "Radius": "+150% Radius",
+        "Cloud Duration": "-",
+        "Health": "-",
+        "PvP Healing": "-"
+      }
+    }
+  },
+  "Striker": {
+    "type": "Shield",
+    "name": "Striker",
+    "icon": "",
+    "data": {
+      "0": {
+        "Buff Angle": 45,
+        "Buff Range": "10m",
+        "Cooldown": "20s",
+        "Health": 1327245,
+        "Holstered\nRegeneration": 66362,
+        "Active\nRegeneration": 39817,
+        "PvP Damage\nTaken Modifier": "8x"
+      },
+      "1": {
+        "Buff Angle": "-",
+        "Buff Range": "-",
+        "Cooldown": "-",
+        "Health": "+40% Shield Health",
+        "Holstered\nRegeneration": "+5% Holstered Regeneration",
+        "Active\nRegeneration": "+10% Active Regeneration",
+        "PvP Damage\nTaken Modifier": "-"
+      },
+      "2": {
+        "Buff Angle": "-",
+        "Buff Range": "-",
+        "Cooldown": "-",
+        "Health": "+66% Shield Health",
+        "Holstered\nRegeneration": "+10% Holstered Regeneration",
+        "Active\nRegeneration": "+20% Active Regeneration",
+        "PvP Damage\nTaken Modifier": "-"
+      },
+      "3": {
+        "Buff Angle": "-",
+        "Buff Range": "-",
+        "Cooldown": "-",
+        "Health": "+100% Shield Health",
+        "Holstered\nRegeneration": "+15% Holstered Regeneration",
+        "Active\nRegeneration": "+30% Active Regeneration",
+        "PvP Damage\nTaken Modifier": "-"
+      },
+      "4": {
+        "Buff Angle": "-",
+        "Buff Range": "-",
+        "Cooldown": "-",
+        "Health": "+150% Shield Health",
+        "Holstered\nRegeneration": "+20% Holstered Regeneration",
+        "Active\nRegeneration": "+40% Active Regeneration",
+        "PvP Damage\nTaken Modifier": "-"
+      },
+      "5": {
+        "Buff Angle": "-",
+        "Buff Range": "-",
+        "Cooldown": "-",
+        "Health": "+200% Shield Health",
+        "Holstered\nRegeneration": "+25% Holstered Regeneration",
+        "Active\nRegeneration": "+50% Active Regeneration",
+        "PvP Damage\nTaken Modifier": "-"
+      },
+      "6": {
+        "Buff Angle": "-",
+        "Buff Range": "-",
+        "Cooldown": "-",
+        "Health": "+250% Shield Health",
+        "Holstered\nRegeneration": "+40% Holstered Regeneration",
+        "Active\nRegeneration": "+60% Active Regeneration",
+        "PvP Damage\nTaken Modifier": "-"
+      },
+      "7": {
+        "Buff Angle": "-",
+        "Buff Range": "-",
+        "Cooldown": "-",
+        "Health": "+400% Shield Health",
+        "Holstered\nRegeneration": "+100% Holstered Regeneration",
+        "Active\nRegeneration": "+60% Active Regeneration",
+        "PvP Damage\nTaken Modifier": "-"
+      }
+    }
+  },
+  "Defender": {
+    "type": "Drone",
+    "name": "Defender",
+    "icon": "",
+    "data": {
+      "0": {
+        "Health": 1061796,
+        "Duration": 20,
+        "Damage Reduction": 0.2,
+        "PvP Damge Reduction": 0.1
+      },
+      "1": {
+        "Health": "+70% Health",
+        "Duration": "-",
+        "Damage Reduction": "+5% Damage  Reduction",
+        "PvP Damge Reduction": "-"
+      },
+      "2": {
+        "Health": "+140% Health",
+        "Duration": "-",
+        "Damage Reduction": "+10% Damage Reduction",
+        "PvP Damge Reduction": "-"
+      },
+      "3": {
+        "Health": "+210% Health",
+        "Duration": "-",
+        "Damage Reduction": "+15% Damage Reduction",
+        "PvP Damge Reduction": "-"
+      },
+      "4": {
+        "Health": "+280% Health",
+        "Duration": "-",
+        "Damage Reduction": "+20% Damage Reduction",
+        "PvP Damge Reduction": "-"
+      },
+      "5": {
+        "Health": "+350% Health",
+        "Duration": "-",
+        "Damage Reduction": "+25% Damage Reduction",
+        "PvP Damge Reduction": "-"
+      },
+      "6": {
+        "Health": "+420% Health",
+        "Duration": "-",
+        "Damage Reduction": "+30% Damage \nReduction",
+        "PvP Damge Reduction": "-"
+      },
+      "7": {
+        "Health": "+560%Health",
+        "Duration": "-",
+        "Damage Reduction": "+60% Damage \nReduction",
+        "PvP Damge Reduction": "-"
+      }
+    }
+  },
+  "Bombardier": {
+    "type": "Drone",
+    "name": "Bombardier",
+    "icon": "",
+    "data": {
+      "0": {
+        "Health": 1061796,
+        "Explosion Damage": 564079,
+        "Number of Bombs": 3,
+        "Blast Radius": "4.5m",
+        "PvP Damage": 152301
+      },
+      "1": {
+        "Health": "+70% Health",
+        "Explosion Damage": "+10% Blast Damage",
+        "Number of Bombs": "+1 Extra Bombs",
+        "Blast Radius": "-",
+        "PvP Damage": "-"
+      },
+      "2": {
+        "Health": "+140% Health",
+        "Explosion Damage": "+20% Blast Damage",
+        "Number of Bombs": "+2 Extra Bombs",
+        "Blast Radius": "-",
+        "PvP Damage": "-"
+      },
+      "3": {
+        "Health": "+210% Health",
+        "Explosion Damage": "+30% Blast Damage",
+        "Number of Bombs": "+3 Extra Bombs",
+        "Blast Radius": "-",
+        "PvP Damage": "-"
+      },
+      "4": {
+        "Health": "+280% Health",
+        "Explosion Damage": "+40% Blast Damage",
+        "Number of Bombs": "+4 Extra Bombs",
+        "Blast Radius": "-",
+        "PvP Damage": "-"
+      },
+      "5": {
+        "Health": "+350% Health",
+        "Explosion Damage": "+50% Blast Damage",
+        "Number of Bombs": "+5 Extra Bombs",
+        "Blast Radius": "-",
+        "PvP Damage": "-"
+      },
+      "6": {
+        "Health": "+420% Health",
+        "Explosion Damage": "+60% Blast Damage",
+        "Number of Bombs": "+6 Extra Bombs",
+        "Blast Radius": "-",
+        "PvP Damage": "-"
+      },
+      "7": {
+        "Health": "+420%Health",
+        "Explosion Damage": "+60% Blast Damage",
+        "Number of Bombs": "+6 Extra Bombs",
+        "Blast Radius": "+5 Blast Radius",
+        "PvP Damage": "-"
+      }
+    }
+  },
+  "Fixer": {
+    "type": "Drone",
+    "name": "Fixer",
+    "icon": "",
+    "data": {
+      "0": {
+        "Health": 1061796,
+        "Duration": "180s",
+        "Healing": 17918,
+        "PvP Healing": 8958
+      },
+      "1": {
+        "Health": "+70% Health",
+        "Duration": "-",
+        "Healing": "+20% Armor Repair",
+        "PvP Healing": "-"
+      },
+      "2": {
+        "Health": "+140% Health",
+        "Duration": "-",
+        "Healing": "+40% Armor Repair",
+        "PvP Healing": "-"
+      },
+      "3": {
+        "Health": "+210% Health",
+        "Duration": "-",
+        "Healing": "+60% Armor Repair",
+        "PvP Healing": "-"
+      },
+      "4": {
+        "Health": "+280% Health",
+        "Duration": "-",
+        "Healing": "+80% Armor Repair",
+        "PvP Healing": "-"
+      },
+      "5": {
+        "Health": "+350% Health",
+        "Duration": "-",
+        "Healing": "+100% Armor Repair",
+        "PvP Healing": "-"
+      },
+      "6": {
+        "Health": "+420% Health",
+        "Duration": "-",
+        "Healing": "+120% Armor Repair",
+        "PvP Healing": "-"
+      },
+      "7": {
+        "Health": "+500%Health",
+        "Duration": "-",
+        "Healing": "+175% Armor Repair",
+        "PvP Healing": "-"
+      }
+    }
+  },
+  "Tactician": {
+    "type": "Drone",
+    "name": "Tactician",
+    "icon": "",
+    "data": {
+      "0": {
+        "Health": 1061796,
+        "Duration": "300s",
+        "Scan Range": "50m"
+      },
+      "1": {
+        "Health": "+70% Health",
+        "Duration": "-",
+        "Scan Range": "+5m Scan Range"
+      },
+      "2": {
+        "Health": "+140% Health",
+        "Duration": "-",
+        "Scan Range": "+10m Scan Range"
+      },
+      "3": {
+        "Health": "+210% Health",
+        "Duration": "-",
+        "Scan Range": "+15m Scan Range"
+      },
+      "4": {
+        "Health": "+280% Health",
+        "Duration": "-",
+        "Scan Range": "+20m Scan Range"
+      },
+      "5": {
+        "Health": "+350% Health",
+        "Duration": "-",
+        "Scan Range": "+25m Scan Range"
+      },
+      "6": {
+        "Health": "+420% Health",
+        "Duration": "-",
+        "Scan Range": "+30m Scan Range"
+      },
+      "7": {
+        "Health": "+560%Health",
+        "Duration": "-",
+        "Scan Range": "+40m Scan Range"
+      }
+    }
+  },
+  "Bulwark": {
+    "type": "Shield",
+    "name": "Bulwark",
+    "icon": "",
+    "data": {
+      "0": {
+        "Health": 2654490,
+        "Active\nRegeneration": "79,635 HP/s",
+        "Holstered\nRegeneration": "132,725 HP/s",
+        "PvP Damage \nTaken Modifier": "8x"
+      },
+      "1": {
+        "Health": "+67% Shield Health",
+        "Active\nRegeneration": "+20% Active Regeneration",
+        "Holstered\nRegeneration": "+5% Holstered Regeneration",
+        "PvP Damage \nTaken Modifier": "-"
+      },
+      "2": {
+        "Health": "+133% Shield Health",
+        "Active\nRegeneration": "+40% Active Regeneration",
+        "Holstered\nRegeneration": "+10% Holstered Regeneration",
+        "PvP Damage \nTaken Modifier": "-"
+      },
+      "3": {
+        "Health": "+200% Shield Health",
+        "Active\nRegeneration": "+60% Active Regeneration",
+        "Holstered\nRegeneration": "+15% Holstered Regeneration",
+        "PvP Damage \nTaken Modifier": "-"
+      },
+      "4": {
+        "Health": "+266% Shield Health",
+        "Active\nRegeneration": "+80% Active Regeneration",
+        "Holstered\nRegeneration": "+20% Holstered Regeneration",
+        "PvP Damage \nTaken Modifier": "-"
+      },
+      "5": {
+        "Health": "+333% Shield Health",
+        "Active\nRegeneration": "+100% Active Regeneration",
+        "Holstered\nRegeneration": "+25% Holstered Regeneration",
+        "PvP Damage \nTaken Modifier": "-"
+      },
+      "6": {
+        "Health": "+400% Shield Health",
+        "Active\nRegeneration": "+120% Active Regeneration",
+        "Holstered\nRegeneration": "+40% Holstered Regeneration",
+        "PvP Damage \nTaken Modifier": "-"
+      },
+      "7": {
+        "Health": "+400% Shield Health",
+        "Active\nRegeneration": "+500% Active Regeneration",
+        "Holstered\nRegeneration": "+40% Holstered Regeneration",
+        "PvP Damage \nTaken Modifier": "-"
+      }
+    }
+  },
+  "Crusader": {
+    "type": "Shield",
+    "name": "Crusader",
+    "icon": "",
+    "data": {
+      "0": {
+        "Health": 1327245,
+        "Active \nRegeneration": 39817,
+        "Holstered \nRegeneration": 66362,
+        "PvP Damge \nTaken Modifier": "8x"
+      },
+      "1": {
+        "Health": "+40% Shield Health",
+        "Active \nRegeneration": "+10% Active Regeneration",
+        "Holstered \nRegeneration": "+5% Holstered Regeneration",
+        "PvP Damge \nTaken Modifier": "-"
+      },
+      "2": {
+        "Health": "+66% Shield Health",
+        "Active \nRegeneration": "+20% Active Regeneration",
+        "Holstered \nRegeneration": "+10% Holstered Regeneration",
+        "PvP Damge \nTaken Modifier": "-"
+      },
+      "3": {
+        "Health": "+100% Shield Health",
+        "Active \nRegeneration": "+30% Active Regeneration",
+        "Holstered \nRegeneration": "+15% Holstered Regeneration",
+        "PvP Damge \nTaken Modifier": "-"
+      },
+      "4": {
+        "Health": "+150% Shield Health",
+        "Active \nRegeneration": "+40% Active Regeneration",
+        "Holstered \nRegeneration": "+20% Holstered Regeneration",
+        "PvP Damge \nTaken Modifier": "-"
+      },
+      "5": {
+        "Health": "+200% Shield Health",
+        "Active \nRegeneration": "+50% Active Regeneration",
+        "Holstered \nRegeneration": "+25% Holstered Regeneration",
+        "PvP Damge \nTaken Modifier": "-"
+      },
+      "6": {
+        "Health": "+250% Shield Health",
+        "Active \nRegeneration": "+60% Active Regeneration",
+        "Holstered \nRegeneration": "+40% Holstered Regeneration",
+        "PvP Damge \nTaken Modifier": "-"
+      },
+      "7": {
+        "Health": "+250% Shield Health",
+        "Active \nRegeneration": "+500% Active Regeneration",
+        "Holstered \nRegeneration": "+40% Holstered Regeneration",
+        "PvP Damge \nTaken Modifier": "-"
+      }
+    }
+  },
+  "Deflector": {
+    "type": "Shield",
+    "name": "Deflector",
+    "icon": "",
+    "data": {
+      "0": {
+        "Health": 2123592,
+        "Active\nRegeneration": 63708,
+        "Holstered\nRegeneration": 106180,
+        "Average Damage": 80465,
+        "PvP Damage \nTaken Modifier": "8x"
+      },
+      "1": {
+        "Health": "+40% Shield Health",
+        "Active\nRegeneration": "+10% Active Regeneration",
+        "Holstered\nRegeneration": "+5% Holstered Regeneration",
+        "Average Damage": "+10% Deflector Damage",
+        "PvP Damage \nTaken Modifier": "-"
+      },
+      "2": {
+        "Health": "+66% Shield Health",
+        "Active\nRegeneration": "+20% Active Regeneration",
+        "Holstered\nRegeneration": "+10% Holstered Regeneration",
+        "Average Damage": "+20% Deflector Damage",
+        "PvP Damage \nTaken Modifier": "-"
+      },
+      "3": {
+        "Health": "+100% Shield Health",
+        "Active\nRegeneration": "+30% Active Regeneration",
+        "Holstered\nRegeneration": "+15% Holstered Regeneration",
+        "Average Damage": "+30% Deflector Damage",
+        "PvP Damage \nTaken Modifier": "-"
+      },
+      "4": {
+        "Health": "+150% Shield Health",
+        "Active\nRegeneration": "+40% Active Regeneration",
+        "Holstered\nRegeneration": "+20% Holstered Regeneration",
+        "Average Damage": "+40% Deflector Damage",
+        "PvP Damage \nTaken Modifier": "-"
+      },
+      "5": {
+        "Health": "+200% Shield Health",
+        "Active\nRegeneration": "+50% Active Regeneration",
+        "Holstered\nRegeneration": "+25% Holstered Regeneration",
+        "Average Damage": "+50% Deflector Damage",
+        "PvP Damage \nTaken Modifier": "-"
+      },
+      "6": {
+        "Health": "+250% Shield Health",
+        "Active\nRegeneration": "+60% Active Regeneration",
+        "Holstered\nRegeneration": "+40% Holstered Regeneration",
+        "Average Damage": "+60% Deflector Damage",
+        "PvP Damage \nTaken Modifier": "-"
+      },
+      "7": {
+        "Health": "+250% Shield Health",
+        "Active\nRegeneration": "+60% Active Regeneration",
+        "Holstered\nRegeneration": "+40% Holstered Regeneration",
+        "Average Damage": "+100% Deflector Damage",
+        "PvP Damage \nTaken Modifier": "-"
+      }
+    }
+  }
+}

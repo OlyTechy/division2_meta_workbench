@@ -1,0 +1,14 @@
+[
+  { "classification": "offensive", "attribute": "weapon handling", "max": "8" },
+  { "classification": "offensive", "attribute": "critical hit chance", "max": "6" },
+  { "classification": "offensive", "attribute": "critical hit damage", "max": "12" },
+  { "classification": "offensive", "attribute": "headshot damage", "max": "10" },
+  { "classification": "defensive", "attribute": "armor regen", "max": "4925" },
+  { "classification": "defensive", "attribute": "hazard protection", "max": "10" },
+  { "classification": "defensive", "attribute": "health", "max": "18935" },
+  { "classification": "defensive", "attribute": "explosive resistance", "max": "10" },
+  { "classification": "skill", "attribute": "skill haste", "max": "12" },
+  { "classification": "skill", "attribute": "skill damage", "max": "10" },
+  { "classification": "skill", "attribute": "repair skills", "max": "20" },
+  { "classification": "skill", "attribute": "status effect", "max": "10" }
+]

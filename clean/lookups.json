@@ -1,0 +1,94 @@
+{
+  "weaponAttributes": {
+    "damage to armor": 6,
+    "critical hit chance": 9.5,
+    "health damage": 9.5,
+    "dmg to target out of cover": 10,
+    "headshot damage": 10,
+    "critical hit damage": 10,
+    "reload speed": 12,
+    "stability": 12,
+    "accuracy": 12,
+    "optimal range": 24,
+    "mag size": 12.5,
+    "rate of fire": 5,
+    "swap speed": 15
+  },
+  "gearAttributes": {
+    "offensive": {
+      "weapon handling": 8,
+      "critical hit chance": 6,
+      "critical hit damage": 12,
+      "headshot damage": 10
+    },
+    "defensive": {
+      "armor regen": 4925,
+      "hazard protection": 10,
+      "health": 18935,
+      "explosive resistance": 10
+    },
+    "skill": {
+      "skill haste": 12,
+      "skill damage": 10,
+      "repair skills": 20,
+      "status effect": 10
+    }
+  },
+  "gearMods": {
+    "offensive": {
+      "critical hit chance": 6,
+      "critical hit damage": 12,
+      "headshot damage": 10
+    },
+    "defensive": {
+      "protection from elites": 13,
+      "armor on kill": 18935,
+      "status effect resistance": 10,
+      "pulse resistance": 10,
+      "incoming repairs": 20
+    },
+    "skill": {
+      "skill haste": 12,
+      "skill duration": 10,
+      "repair skills": 20
+    }
+  },
+  "keenersWatch": {
+    "offensive": {
+      "weapon damage": 10,
+      "critical hit chance": 10,
+      "critical hit damage": 20,
+      "headshot damage": 20
+    },
+    "defensive": {
+      "total armor": 10,
+      "total health": 10,
+      "explosive resistance": 10,
+      "hazard protection": 10
+    },
+    "utility": {
+      "skill damage": 10,
+      "skill haste": 10,
+      "skill duration": 20,
+      "skill repair": 10
+    },
+    "handling": {
+      "accuracy": 10,
+      "stability": 10,
+      "reload speed": 10,
+      "ammo capacity": 20
+    }
+  },
+  "statusImmunities": {
+    "bleed": 93.8,
+    "blind/deaf": 91,
+    "burn": 91.4,
+    "disorient": 93.8,
+    "disrupt": 95.8,
+    "ensnare": 93.8,
+    "poison": 89.2,
+    "shock": 86,
+    "pulse": 100,
+    "napalm (cleaners)": 88.9
+  }
+}

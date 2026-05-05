@@ -1,0 +1,4072 @@
+[
+  {
+    "name": "Breadbasket",
+    "type": "weapon",
+    "perfectName": "Perfect Breadbasket",
+    "icon": "",
+    "description": "Landing body shots adds a stack of bonus +55% headshot damage to the next headshot for 10s. Max stack is 3.",
+    "perfectDescription": "Landing body shots adds a stack of bonus +70% headshot damage to the next headshot for 10s. Max stack is 2.",
+    "exclusiveTo": [],
+    "stacks": [
+      {
+        "size": 3,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "headshot damage": 55
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Killer",
+    "type": "weapon",
+    "perfectName": "Perfect Killer",
+    "icon": "",
+    "description": "Killing an enemy with a critical hit grants +70% critical hit damage for 10s.",
+    "perfectDescription": "Killing an enemy with a critical hit grants +90% critical hit damage for 10s.",
+    "exclusiveTo": [],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "critical hit damage": 70
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Preservation",
+    "type": "weapon",
+    "perfectName": "Perfect Preservation",
+    "icon": "",
+    "description": "Killing an enemy repairs 10% armor over 5s. Headshot kills improve the repair by an additional 10%.",
+    "perfectDescription": "Killing an enemy repairs 15% armor over 5s. Headshot kills improve the repair by an additional 15%.",
+    "exclusiveTo": [],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 5,
+        "cooldown": 0,
+        "bonus": {
+          "armor repair": 10
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Optimist",
+    "type": "weapon",
+    "perfectName": "Perfect Optimist",
+    "icon": "",
+    "description": "Weapon damage is increased by +3.5% for every 10% ammo missing from the magazine.",
+    "perfectDescription": "Weapon damage is increased by +4.5% for every 10% ammo missing from the magazine.",
+    "exclusiveTo": [],
+    "stacks": [
+      {
+        "size": 10,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "weapon damage": 3.5
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Strained",
+    "type": "weapon",
+    "perfectName": "Perfect Strained",
+    "icon": "",
+    "description": "Gain 10% critical hit damage for every 0.5s you are firing. Stacks up to 5 times.",
+    "perfectDescription": "Gain 10% critical hit damage for every 0.5s you are firing. Stacks up to 8 times.",
+    "exclusiveTo": [],
+    "stacks": [
+      {
+        "size": 5,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "critical hit damage": 10
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Close & Personal",
+    "type": "weapon",
+    "perfectName": "Perfectly Close & Personal",
+    "icon": "",
+    "description": "Killing a target within 7m grants +30% weapon damage for 10s.",
+    "perfectDescription": "Killing a target within 7m grants +38% weapon damage for 10s.",
+    "exclusiveTo": [],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "weapon damage": 30
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Fast Hands",
+    "type": "weapon",
+    "perfectName": "Perfect Fast Hands",
+    "icon": "",
+    "description": "Critical hits add a stack of 3% reload speed bonus. Max stack is 40.",
+    "perfectDescription": "Critical hits add a stack of 5% reload speed bonus. Max stack is 40.",
+    "exclusiveTo": [],
+    "stacks": [
+      {
+        "size": 40,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "reload speed": 3
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Sadist",
+    "type": "weapon",
+    "perfectName": "Perfect Sadist",
+    "icon": "",
+    "description": "Amplifies +30% weapon damage to bleeding enemies. After 4 kills, applies bleed to the next enemy you hit.",
+    "perfectDescription": "Amplifies +35% weapon damage to bleeding enemies. After 3 kills, applies bleed to the next enemy you hit.",
+    "exclusiveTo": [],
+    "stacks": [],
+    "perfectStacks": [],
+    "bonus": {
+      "amplified weapon damage": 30
+    },
+    "perfectBonus": {
+      "amplified weapon damage": 35
+    }
+  },
+  {
+    "name": "Ranger",
+    "type": "weapon",
+    "perfectName": "Perfect Ranger",
+    "icon": "",
+    "description": "Amplifies weapon damage by 2% for every 4m you are away from your target.",
+    "perfectDescription": "Amplifies weapon damage by 2% for every 3m you are away from your target.",
+    "exclusiveTo": [],
+    "stacks": [
+      {
+        "size": 25,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "amplified weapon damage": 2
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Steady Handed",
+    "type": "weapon",
+    "perfectName": "Perfect Steady Handed",
+    "icon": "",
+    "description": "Hits grant a stack of +1% Accuracy and Stability. At 100 stacks, consumes stacks to refill the magazine.",
+    "perfectDescription": "Hits grant a stack of +1% Accuracy and Stability. At 75 stacks, consumes stacks to refill the magazine.",
+    "exclusiveTo": [],
+    "stacks": [
+      {
+        "size": 100,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "accuracy": 1,
+          "stability": 1
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Spike",
+    "type": "weapon",
+    "perfectName": "Perfect Spike",
+    "icon": "",
+    "description": "Headshots grant +20% skill damage for 15s.",
+    "perfectDescription": "Headshots grant +25% skill damage for 15s.",
+    "exclusiveTo": [],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 15,
+        "cooldown": 0,
+        "bonus": {
+          "skill damage": 20
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Perpetuation",
+    "type": "weapon",
+    "perfectName": "Perfect Perpetuation",
+    "icon": "",
+    "description": "Headshots grant +75% status effect damage and duration to the next status effect you apply. Cooldown: 20s.",
+    "perfectDescription": "Headshots grant +75% status effect damage and duration to the next status effect you apply. Cooldown: 16s.",
+    "exclusiveTo": [],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 0,
+        "cooldown": 20,
+        "bonus": {
+          "status effect damage": 75,
+          "status effect duration": 75
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Future Perfect",
+    "type": "weapon",
+    "perfectName": "Future Perfection",
+    "icon": "",
+    "description": "Weapon kills grant +1 skill tier for 15s. Stacks up to 3 times. Weapon kills at skill tier 6 grant overcharge for 15s. Overcharge Cooldown: 90s.",
+    "perfectDescription": "Weapon kills grant +1 skill tier for 19s. Stacks up to 4 times. Weapon kills at skill tier 6 grant overcharge for 15s. Overcharge Cooldown: 90s.",
+    "exclusiveTo": [],
+    "stacks": [
+      {
+        "size": 3,
+        "duration": 15,
+        "cooldown": 0,
+        "bonus": {
+          "skill tier": 1
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Flatline",
+    "type": "weapon",
+    "perfectName": "Perfect Flatline",
+    "icon": "",
+    "description": "Amplifies weapon damage by 15% to pulsed enemies. After 4 kills, applies pulse to the next enemy you hit.",
+    "perfectDescription": "Amplifies weapon damage by 20% to pulsed enemies. After 3 kills, applies pulse to the next enemy you hit.",
+    "exclusiveTo": [],
+    "stacks": [],
+    "perfectStacks": [],
+    "bonus": {
+      "amplified weapon damage": 15
+    },
+    "perfectBonus": {
+      "amplified weapon damage": 20
+    }
+  },
+  {
+    "name": "In Sync",
+    "type": "weapon",
+    "perfectName": "Perfectly In Sync",
+    "icon": "",
+    "description": "Hitting an enemy grants +15% skill damage for 5s. Using a skill or damaging an enemy with a skill grants +15% weapon damage for 5s. Damage increases are doubled while both buffs are active at the same time.",
+    "perfectDescription": "Hitting an enemy grants +20% skill damage for 5s. Using a skill or damaging an enemy with a skill grants +20% weapon damage for 5s. Damage increases are doubled while both buffs are active at the same time.",
+    "exclusiveTo": [],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 5,
+        "cooldown": 0,
+        "bonus": {
+          "skill damage": 15
+        }
+      },
+      {
+        "size": 1,
+        "duration": 5,
+        "cooldown": 0,
+        "bonus": {
+          "weapon damage": 15
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Soft Spot",
+    "type": "weapon",
+    "perfectName": "Perfect Soft Spot",
+    "icon": "",
+    "description": "Destroying a Weakpoint grants 19% Weapon Damage for 15s.",
+    "perfectDescription": "Destroying a Weakpoint grants 24% Weapon Damage for 15s.",
+    "exclusiveTo": [],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 15,
+        "cooldown": 0,
+        "bonus": {
+          "weapon damage": 19
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Rifleman",
+    "type": "weapon",
+    "perfectName": "Perfect Rifleman",
+    "icon": "",
+    "description": "Landing headshots adds a stack of bonus +10% weapon damage for 5s. Max stack is 5. Additional headshots refresh the duration.",
+    "perfectDescription": "Landing headshots adds a stack of bonus +11% weapon damage for 5s. Max stack is 6. Additional headshots refresh the duration.",
+    "exclusiveTo": [
+      "rifle"
+    ],
+    "stacks": [
+      {
+        "size": 5,
+        "duration": 5,
+        "cooldown": 0,
+        "bonus": {
+          "weapon damage": 10
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Boomerang",
+    "type": "weapon",
+    "perfectName": "Perfect Boomerang",
+    "icon": "",
+    "description": "Critical hits have a 50% chance to return the bullet to the magazine. If a bullet is returned the next shot gains 40% increased damage.",
+    "perfectDescription": "Critical hits have a 75% chance to return the bullet to the magazine. If a bullet is returned the next shot gains 50% increased damage.",
+    "exclusiveTo": [
+      "rifle"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "weapon damage": 40
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {
+      "return chance": 50
+    },
+    "perfectBonus": {
+      "return chance": 75
+    }
+  },
+  {
+    "name": "Lucky Shot",
+    "type": "weapon",
+    "perfectName": "Perfect Lucky Shot",
+    "icon": "",
+    "description": "Magazine capacity is increased by 20%. Missed shots from cover have a 100% chance to return to the magazine.",
+    "perfectDescription": "Magazine capacity is increased by 30%. Missed shots from cover have a 100% chance to return to the magazine.",
+    "exclusiveTo": [
+      "rifle",
+      "mr",
+      "pistol"
+    ],
+    "stacks": [],
+    "perfectStacks": [],
+    "bonus": {
+      "magazine capacity": 20,
+      "miss return chance": 100
+    },
+    "perfectBonus": {
+      "magazine capacity": 30,
+      "miss return chance": 100
+    }
+  },
+  {
+    "name": "Determined",
+    "type": "weapon",
+    "perfectName": "Perfectly Determined",
+    "icon": "",
+    "description": "After killing an enemy with a headshot the next shot landed on any enemy will be a guaranteed headshot.",
+    "perfectDescription": "After killing an enemy with a headshot the next shot landed on any enemy will be a guaranteed critical headshot.",
+    "exclusiveTo": [
+      "rifle",
+      "mr",
+      "pistol"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "guaranteed headshot": 1
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Behind You",
+    "type": "weapon",
+    "perfectName": "Perfectly Behind You",
+    "icon": "",
+    "description": "Amplifies weapon damage by +20% to enemies that are not targeting you.",
+    "perfectDescription": "Amplifies weapon damage by +25% to enemies that are not targeting you.",
+    "exclusiveTo": [
+      "rifle",
+      "mr"
+    ],
+    "stacks": [],
+    "perfectStacks": [],
+    "bonus": {
+      "amplified weapon damage": 20
+    },
+    "perfectBonus": {
+      "amplified weapon damage": 25
+    }
+  },
+  {
+    "name": "Precision Strike",
+    "type": "weapon",
+    "perfectName": "Perfect Precision Strike",
+    "icon": "",
+    "description": "Killing enemies farther than 20m builds up stacks. Max stack is 3. Hitting an enemy within 20m will use all stacks to provide 20% amplified damage to enemies within 20m for 5s.",
+    "perfectDescription": "Killing enemies farther than 20m builds up stacks. Max stack is 3. Hitting an enemy within 20m will use all stacks to provide 20% amplified damage to enemies within 20m for 5s.",
+    "exclusiveTo": [
+      "rifle",
+      "assault rifle",
+      "mr",
+      "lmg"
+    ],
+    "stacks": [
+      {
+        "size": 3,
+        "duration": 5,
+        "cooldown": 0,
+        "bonus": {
+          "amplified weapon damage": 20
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Near Sighted",
+    "type": "weapon",
+    "perfectName": "Perfect Near Sighted",
+    "icon": "",
+    "description": "Receive +80% stability at the cost of -35% optimal range.",
+    "perfectDescription": "Receive +100% stability at the cost of -35% optimal range.",
+    "exclusiveTo": [
+      "assault rifle"
+    ],
+    "stacks": [],
+    "perfectStacks": [],
+    "bonus": {
+      "stability": 80,
+      "optimal range": -35
+    },
+    "perfectBonus": {
+      "stability": 100,
+      "optimal range": -35
+    }
+  },
+  {
+    "name": "On Empty",
+    "type": "weapon",
+    "perfectName": "Perfect On Empty",
+    "icon": "",
+    "description": "Reloading from empty grants +60% weapon handling for 10s.",
+    "perfectDescription": "Reloading from empty grants +80% weapon handling for 10s.",
+    "exclusiveTo": [
+      "assault rifle"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "weapon handling": 60
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Measured",
+    "type": "weapon",
+    "perfectName": "Perfectly Measured",
+    "icon": "",
+    "description": "The top half of the magazine has 25% rate of fire and -25% weapon damage. The bottom half of the magazine has -18% rate of fire and +30% total weapon damage.",
+    "perfectDescription": "The top half of the magazine has 25% rate of fire and -30% weapon damage. The bottom half of the magazine has -18% rate of fire and +38% total weapon damage.",
+    "exclusiveTo": [
+      "assault rifle",
+      "smg",
+      "lmg"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "rate of fire": 25,
+          "weapon damage": -25
+        }
+      },
+      {
+        "size": 1,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "rate of fire": -18,
+          "total weapon damage": 30
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Overflowing",
+    "type": "weapon",
+    "perfectName": "Perfect Overflowing",
+    "icon": "",
+    "description": "Every 3 reloads from empty increases your base magazine capacity by 100%.",
+    "perfectDescription": "Every 2 reloads from empty increases your base magazine capacity by 100%.",
+    "exclusiveTo": [
+      "assault rifle"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "magazine capacity": 100
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Stabilize",
+    "type": "weapon",
+    "perfectName": "Perfect Stabilize",
+    "icon": "",
+    "description": "Firing your weapon increases Weapon Accuracy by 1% and Weapon Stability by 1% per shot up to 60%. If you stop firing, the bonuses reset after 4 seconds.",
+    "perfectDescription": "Firing your weapon increases Weapon Accuracy by 1% and Weapon Stability by 1% per shot up to 60%. If you stop firing, the bonuses reset after 4 seconds.",
+    "exclusiveTo": [
+      "assault rifle",
+      "smg",
+      "lmg"
+    ],
+    "stacks": [
+      {
+        "size": 60,
+        "duration": 4,
+        "cooldown": 0,
+        "bonus": {
+          "accuracy": 1,
+          "stability": 1
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Naked",
+    "type": "weapon",
+    "perfectName": "Perfectly Naked",
+    "icon": "",
+    "description": "Hitting an enemy with no armor grants +50% headshot damage for 5s.",
+    "perfectDescription": "Hitting an enemy with no armor grants +50% headshot damage for 8s.",
+    "exclusiveTo": [
+      "mr"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 5,
+        "cooldown": 0,
+        "bonus": {
+          "headshot damage": 50
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "First Blood",
+    "type": "weapon",
+    "perfectName": "Perfect First Blood",
+    "icon": "",
+    "description": "If scoped, your first shot fired from out of combat or after fully reloading from empty deals headshot damage to any part of the body hit. Requires a Scope with 8x magnification or higher.",
+    "perfectDescription": "If scoped, your first 2 shots fired from out of combat or after fully reloading from empty deals headshot damage to any part of the body hit. Requires a Scope with 8x magnification or higher.",
+    "exclusiveTo": [
+      "mr"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "guaranteed headshot damage": 1
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Outsider",
+    "type": "weapon",
+    "perfectName": "Perfect Outsider",
+    "icon": "",
+    "description": "After killing an enemy, gain 100% optimal range and +100% accuracy for 10s.",
+    "perfectDescription": "After killing an enemy, gain 150% optimal range and +125% accuracy for 10s.",
+    "exclusiveTo": [
+      "smg"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "optimal range": 100,
+          "accuracy": 100
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Unwavering",
+    "type": "weapon",
+    "perfectName": "Perfect Unwavering",
+    "icon": "",
+    "description": "Swapping to this weapon grants +300% weapon handling for 5s. Kills refresh the buff. Swapping away disables this from all weapons for 5s.",
+    "perfectDescription": "Swapping to this weapon grants +400% weapon handling for 5s. Kills refresh the buff. Swapping away disables this from all weapons for 5s.",
+    "exclusiveTo": [
+      "smg"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 5,
+        "cooldown": 5,
+        "bonus": {
+          "weapon handling": 300
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Unhinged",
+    "type": "weapon",
+    "perfectName": "Perfect Unhinged",
+    "icon": "",
+    "description": "Grants +18% weapon damage at the cost of -25% Stability and -25% Accuracy.",
+    "perfectDescription": "Grants +22% weapon damage at the cost of -25% Stability and -25% Accuracy.",
+    "exclusiveTo": [
+      "lmg"
+    ],
+    "stacks": [],
+    "perfectStacks": [],
+    "bonus": {
+      "weapon damage": 18,
+      "stability": -25,
+      "accuracy": -25
+    },
+    "perfectBonus": {
+      "weapon damage": 22,
+      "stability": -25,
+      "accuracy": -25
+    }
+  },
+  {
+    "name": "Frenzy",
+    "type": "weapon",
+    "perfectName": "Perfect Frenzy",
+    "icon": "",
+    "description": "For every 10 bullets in the magazine capacity, gain +3% rate of fire and +3% weapon damage for 9s when reloading from empty.",
+    "perfectDescription": "For every 8 bullets in the magazine capacity, gain +3% rate of fire and +3% weapon damage for 9s when reloading from empty.",
+    "exclusiveTo": [
+      "lmg"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 9,
+        "cooldown": 0,
+        "bonus": {
+          "rate of fire per 10 rounds": 3,
+          "weapon damage per 10 rounds": 3
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Overwhelm",
+    "type": "weapon",
+    "perfectName": "Perfect Overwhelm",
+    "icon": "",
+    "description": "Suppressing an enemy, that is not currently suppressed, grants +10% weapon damage for 12 seconds. Max stack is 4.",
+    "perfectDescription": "Suppressing an enemy, that is not currently suppressed, grants +12% weapon damage for 12 seconds. Max stack is 4.",
+    "exclusiveTo": [
+      "lmg"
+    ],
+    "stacks": [
+      {
+        "size": 4,
+        "duration": 12,
+        "cooldown": 0,
+        "bonus": {
+          "weapon damage": 10
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Pummel",
+    "type": "weapon",
+    "perfectName": "Perfect Pummel",
+    "icon": "",
+    "description": "3 consecutive kills refills the magazine and grants +40% weapon damage for 10s.",
+    "perfectDescription": "2 consecutive kills refills the magazine and grants +40% weapon damage for 10s.",
+    "exclusiveTo": [
+      "shotgun"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "weapon damage": 40
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Pumped Up",
+    "type": "weapon",
+    "perfectName": "Perfect Pumped Up",
+    "icon": "",
+    "description": "Reloading grants +1.2% weapon damage for 10s. Stacks up to 25 times.",
+    "perfectDescription": "Reloading grants +6% weapon damage for 10s. Stacks up to 5 times.",
+    "exclusiveTo": [
+      "shotgun"
+    ],
+    "stacks": [
+      {
+        "size": 25,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "weapon damage": 1.2
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Brazen",
+    "type": "weapon",
+    "perfectName": "Perfect Brazen",
+    "icon": "",
+    "description": "Receive +3.5% Amplified Damage on the next shot with the weapon for each pellet that hits the target, if at least 6 pellets hit.",
+    "perfectDescription": "Receive +2%/3% Amplified Damage on the next shot with the weapon for each pellet that hits the target, if at least 4 pellets hit.",
+    "exclusiveTo": [
+      "shotgun"
+    ],
+    "stacks": [
+      {
+        "size": 8,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "amplified damage": 3.5
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Salvage",
+    "type": "weapon",
+    "perfectName": "Perfect Salvage",
+    "icon": "",
+    "description": "Killing a target has a +70% chance to refill the magazine.",
+    "perfectDescription": "Killing a target has a +85% chance to refill the magazine.",
+    "exclusiveTo": [
+      "pistol"
+    ],
+    "stacks": [],
+    "perfectStacks": [],
+    "bonus": {
+      "refill chance": 70
+    },
+    "perfectBonus": {
+      "refill chance": 85
+    }
+  },
+  {
+    "name": "Finisher",
+    "type": "weapon",
+    "perfectName": "Perfect Finisher",
+    "icon": "",
+    "description": "Swapping from this weapon within 10s of killing an enemy grants 30% critical hit chance and 30% critical hit damage for 15s.",
+    "perfectDescription": "Swapping from this weapon within 10s of killing an enemy grants 35% critical hit chance and 40% critical hit damage for 15s.",
+    "exclusiveTo": [
+      "pistol"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 15,
+        "cooldown": 0,
+        "bonus": {
+          "critical hit chance": 30,
+          "critical hit damage": 30
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Adaptive Instincts",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "Hitting 30 headshots grants 20% critical hit chance and 50% critical hit damage for 45s. Hitting 65 body shots grants 90% weapon damage for 45s. Hitting 20 leg shots grants 150% reload speed for 45s. Buffs refresh when out of combat.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "Chameleon"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 45,
+        "cooldown": 0,
+        "bonus": {
+          "critical hit chance": 20,
+          "critical hit damage": 50
+        }
+      },
+      {
+        "size": 1,
+        "duration": 45,
+        "cooldown": 0,
+        "bonus": {
+          "weapon damage": 90
+        }
+      },
+      {
+        "size": 1,
+        "duration": 45,
+        "cooldown": 0,
+        "bonus": {
+          "reload speed": 150
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Eagle Strike",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "Accuracy increases as you continuously fire, up to 30%. Headshot kills grant the Tenacity buff for 15s. The strength of Tenacity is increased by 1% for body shots and 5% for headshots.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "Eagle Bearer"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 15,
+        "cooldown": 0,
+        "bonus": {
+          "activate tenacity": 1
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {
+      "max accuracy": 30
+    },
+    "perfectBonus": {}
+  },
+  {
+    "name": "Tenacity",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "40-80% of damage taken is delayed until the buff expires. All of the total delayed damage is reduced for each enemy killed while the buff is active, up to 100% with 3 kills.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "Eagle Bearer"
+    ],
+    "stacks": [
+      {
+        "size": 3,
+        "duration": 15,
+        "cooldown": 0,
+        "bonus": {
+          "delayed damage reduction": 33.3
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {
+      "damage delay minimum": 40,
+      "damage delay maximum": 80
+    },
+    "perfectBonus": {}
+  },
+  {
+    "name": "Actum Est",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "Shooting an enemy with this weapon will give 1 stack. At 100 stacks the next magazine will be 100% filled with shock ammo.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "St. Elmo's Engine"
+    ],
+    "stacks": [
+      {
+        "size": 100,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "shock ammo": 100
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Big Game Hunter",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "When scoped, switches to semi-automatic fire mode, dealing 450% weapon damage. Headshots grant +6% headshot damage. Stacks up to 25 times. Once at full stacks, 10 stacks decay every 4s.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "The Bighorn"
+    ],
+    "stacks": [
+      {
+        "size": 25,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "headshot damage": 6
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {
+      "scoped weapon damage": 450
+    },
+    "perfectBonus": {}
+  },
+  {
+    "name": "Talent Unnerve",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "Killing an enemy will apply a mark on every enemy within 20m. Max marks per enemy is 5. Marks disappear 10s after the last one. Deal +15% Amplified Damage per mark.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "Strega"
+    ],
+    "stacks": [
+      {
+        "size": 5,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "amplified damage": 15
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Capacitance",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "Shooting enemies builds stacks to a cap of 40. Each stack grants 1.5% Skill Damage. For each skill tier gain 7.5% Weapon Damage.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "Capacitor"
+    ],
+    "stacks": [
+      {
+        "size": 40,
+        "duration": 5,
+        "cooldown": 0,
+        "bonus": {
+          "skill damage": 1.5
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {
+      "weapon damage per skill tier": 7.5
+    },
+    "perfectBonus": {}
+  },
+  {
+    "name": "Perturb",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "While holstered for 10s, weapon becomes Primed. Swapping to Primed weapon grants +25% Rate of Fire, +30% Weapon Damage and 100% more Threat for 20s.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "Whiplash"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 20,
+        "cooldown": 10,
+        "bonus": {
+          "rate of fire": 25,
+          "weapon damage": 30,
+          "threat": 100
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {
+      "holstered threat": -50
+    },
+    "perfectBonus": {}
+  },
+  {
+    "name": "Bullet Hell",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "This weapon never needs to be reloaded. For every 100 bullets that hit an enemy, replenish ammo to you and all allies' reserves.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "Bullet King"
+    ],
+    "stacks": [],
+    "perfectStacks": [],
+    "bonus": {
+      "infinite magazine": 1
+    },
+    "perfectBonus": {}
+  },
+  {
+    "name": "Disruptor Rounds",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "Shooting marks enemies and adds stacks up to 50. Deploying a non-shield skill triggers effects based on stacks: 1-10 Pulse, 11-25 Disrupt, 26-49 Disorient, 50 all effects within 10m.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "Bluescreen"
+    ],
+    "stacks": [
+      {
+        "size": 50,
+        "duration": 5,
+        "cooldown": 0,
+        "bonus": {
+          "status effect": 1
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Ardent",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "Shooting heats up weapon. When the meter is full (50% mag size), rounds ignite enemies.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "Iron Lung"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "ignite rounds": 1
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Pakhan",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "Each kill gains a stack of 75% Base Magazine Size increase to the next magazine, up to 4 stacks.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "Pakhan"
+    ],
+    "stacks": [
+      {
+        "size": 4,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "magazine size": 75
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Plague of the Outcasts",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "Hits apply a debuff dealing 100% weapon damage over 10s. Stacks up to 50 times.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "Pestilence"
+    ],
+    "stacks": [
+      {
+        "size": 50,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "damage over time": 100
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Payment in kind",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "Dealing damage adds a stack of 2% Critical Hit Damage, up to 100 stacks, lasting 10s. On reload apply a 10s bleed to yourself.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "Backfire"
+    ],
+    "stacks": [
+      {
+        "size": 100,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "critical hit damage": 2
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Incessant Chatter",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "When you reload, rate of fire is increased by 25% for each enemy within 15m. Max stacks: 5. Kills refill 50% magazine.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "The Chatterbox"
+    ],
+    "stacks": [
+      {
+        "size": 5,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "rate of fire": 25
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {
+      "refill on kill": 50
+    },
+    "perfectBonus": {}
+  },
+  {
+    "name": "Breathe Free",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "When moving, gain 4-8 stacks per second. Each round fired consumes a stack, amplifying damage by 75%. Kills grant +20% movement speed for 10s.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "Lady Death"
+    ],
+    "stacks": [
+      {
+        "size": 32,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "amplified damage": 75
+        }
+      },
+      {
+        "size": 1,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "movement speed": 20
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Rule them all",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "When the agent has a Status Effect, 50% of the next magazine applies the same Status Effect.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "Ouroboros"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "status effect ammo": 50
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Sandman",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "Melee attacks instantly kill non-elite enemies. Cooldown: 15s.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "Sweet Dreams"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 0,
+        "cooldown": 15,
+        "bonus": {
+          "instant kill melee": 1
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Septic Shock",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "Shooting applies venom stacks (10s). 2-Poison, 4-Disorient, 6-Shock, 9-Target takes 20% additional damage.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "Scorpio"
+    ],
+    "stacks": [
+      {
+        "size": 9,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "damage taken": 20
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Binary Trigger",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "Fires on trigger pull and release. If both hit, gain a stack. At 7 stacks, next shot deals 500% amplified damage and 500% explosion damage.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "Merciless"
+    ],
+    "stacks": [
+      {
+        "size": 7,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "amplified damage": 500,
+          "explosion damage": 500
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Agonizing Bite",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "Marks a random enemy. Hitting consumes mark for guaranteed crit with 20% amplified damage. Afterwards, all shots are guaranteed crits for 5s.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "Diamondback"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 5,
+        "cooldown": 0,
+        "bonus": {
+          "guaranteed critical hit": 1,
+          "amplified damage": 20
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Geri and Freki",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "On trigger pull, fire both barrels at once.\nWhen fired from the right shoulder, hits add offensive primers, and defensive primers when fired drom the left shoulder.\nHits from one shoulder will detonate all of the opposite shoulder's primers when present.\nWhen detonated, each offensive primer deals 100% weapon damage, while each defensive primer grants +4% bonus armor and +10% amplified damage to armor plates for 5s.\nPrimer effectiveness is doubled at 10 stacks.",
+    "perfectDescription": "",
+    "exclusiveTo": ["The Ravenous"],
+    "stacks": [
+      {
+        "size": 10,
+        "duration": 5,
+        "cooldown": 0,
+        "bonus": {
+          "bonus armor": 4,
+          "amplified damage to armor": 10
+        }
+      },
+      {
+        "size": 10,
+        "duration": 5,
+        "cooldown": 0,
+        "bonus": {
+          "weapon damage": 100
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Transfusion",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "Headshots build stacks (max 8). Healing allies repairs 50% damage per stack. Healed allies receive bonus armor. At max stacks, shots are guaranteed headshots for 8s.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "Bittersweet"
+    ],
+    "stacks": [
+      {
+        "size": 8,
+        "duration": 8,
+        "cooldown": 0,
+        "bonus": {
+          "repair": 50,
+          "guaranteed headshots": 1
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Full Stop",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "Shooting builds stacks (cap 20). Headshots grant 2. Each stack grants 2% Weapon Damage and 5% Headshot Damage. Reload grants temp armor based on stacks.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "Dread Edict"
+    ],
+    "stacks": [
+      {
+        "size": 20,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "weapon damage": 2,
+          "headshot damage": 5
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "High Priority Target",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "Amplifies Weapon Damage by 125% to the highest ranking enemies in combat.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "Shroud"
+    ],
+    "stacks": [],
+    "perfectStacks": [],
+    "bonus": {
+      "amplified weapon damage": 125
+    },
+    "perfectBonus": {}
+  },
+  {
+    "name": "Liberty or Death",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "Hits grant +2% weapon damage. Stacks up to 30. Headshots consume all stacks, repairing shield for 3% per stack.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "Liberty"
+    ],
+    "stacks": [
+      {
+        "size": 30,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "weapon damage": 2
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {
+      "shield repair per stack": 3
+    },
+    "perfectBonus": {}
+  },
+  {
+    "name": "Busy Little Bee",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "Each shot to a different target gives 1 stack (max 10). Each stack gives 20% weapon damage on weapon swap for 10s.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "Busy Little Bee"
+    ],
+    "stacks": [
+      {
+        "size": 10,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "amplified damage": 20
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Mosquito Song",
+    "type": "weapon",
+    "perfectName": "",
+    "icon": "",
+    "description": "Hitting an enemy applies a stack. At 5 stacks, enemy targets you for 5s and takes 25% more damage to armor.",
+    "perfectDescription": "",
+    "exclusiveTo": [
+      "Mosquito"
+    ],
+    "stacks": [
+      {
+        "size": 5,
+        "duration": 5,
+        "cooldown": 0,
+        "bonus": {
+          "damage to armor": 25
+        }
+      }
+    ],
+    "perfectStacks": [],
+    "bonus": {},
+    "perfectBonus": {}
+  },
+  {
+    "name": "Dead Man's Hand",
+    "type": "gear",
+    "exclusiveTo": [
+      "Aces & Eights"
+    ],
+    "description": "Flip a card when landing shots. After 5 cards, next shot amplified by 30%.",
+    "stacks": [
+      {
+        "size": 5,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "amplified damage": 30
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "No Limit",
+    "type": "gear",
+    "exclusiveTo": [
+      "Aces & Eights"
+    ],
+    "description": "Increases Dead Man's Hand damage bonus from 30% to 50%.",
+    "stacks": [
+      {
+        "size": 5,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "amplified damage": 50
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Ace in the Sleeve",
+    "type": "gear",
+    "exclusiveTo": [
+      "Aces & Eights"
+    ],
+    "description": "Amplifies 1 extra shot when revealing your hand.",
+    "stacks": [],
+    "bonus": {
+      "extra amplified shots": 1
+    }
+  },
+  {
+    "name": "Stoic",
+    "type": "gear",
+    "exclusiveTo": [
+      "Aegis"
+    ],
+    "description": "+4% Damage Resistance for every enemy targeting you.",
+    "stacks": [
+      {
+        "size": 10,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "damage resistance": 4
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Polyethylene Plating",
+    "type": "gear",
+    "exclusiveTo": [
+      "Aegis"
+    ],
+    "description": "Increase Stoic Damage Resistance bonus from 4% to 5%.",
+    "stacks": [
+      {
+        "size": 10,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "damage resistance": 5
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Deceit",
+    "type": "gear",
+    "exclusiveTo": [
+      "Aegis"
+    ],
+    "description": "Enemies targeting your Decoy also count towards Stoic bonus.",
+    "stacks": [],
+    "bonus": {
+      "decoy synergy": 1
+    }
+  },
+  {
+    "name": "On Point",
+    "type": "gear",
+    "exclusiveTo": [
+      "Breaking Point"
+    ],
+    "description": "Hits grant stacks. Reloading grants 2% handling and 4% WD per stack for 10s.",
+    "stacks": [
+      {
+        "size": 100,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "weapon handling": 2,
+          "weapon damage": 4
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Point of Honor",
+    "type": "gear",
+    "exclusiveTo": [
+      "Breaking Point"
+    ],
+    "description": "Increases On Point Weapon Damage bonus from 4% to 7.2%.",
+    "stacks": [
+      {
+        "size": 100,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "weapon handling": 2,
+          "weapon damage": 7.2
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Point of no Return",
+    "type": "gear",
+    "exclusiveTo": [
+      "Breaking Point"
+    ],
+    "description": "Increase On Point bonus timer from 10s to 15s.",
+    "stacks": [
+      {
+        "size": 100,
+        "duration": 15,
+        "cooldown": 0,
+        "bonus": {
+          "weapon handling": 2,
+          "weapon damage": 4
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Charging",
+    "type": "gear",
+    "exclusiveTo": [
+      "Cavalier"
+    ],
+    "description": "Each second out of cover grants 5% reduced skill damage. Max 50%.",
+    "stacks": [
+      {
+        "size": 10,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "reduced skill damage": 5
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Overcharging",
+    "type": "gear",
+    "exclusiveTo": [
+      "Cavalier"
+    ],
+    "description": "Increases Charger max incoming damage protection to 70%.",
+    "stacks": [
+      {
+        "size": 14,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "reduced skill damage": 5
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Safe Charging",
+    "type": "gear",
+    "exclusiveTo": [
+      "Cavalier"
+    ],
+    "description": "Charging gives 10% protection per second.",
+    "stacks": [
+      {
+        "size": 5,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "reduced skill damage": 10
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Camaraderie",
+    "type": "gear",
+    "exclusiveTo": [
+      "Concentrated Company"
+    ],
+    "description": "Marked kills grant 3% WD and 2% CHD per contributor. Max 35 stacks.",
+    "stacks": [
+      {
+        "size": 35,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "weapon damage": 3,
+          "critical hit damage": 2
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "One for All",
+    "type": "gear",
+    "exclusiveTo": [
+      "Concentrated Company"
+    ],
+    "description": "Increase Weapon Damage bonus per stack from 3% to 5%.",
+    "stacks": [
+      {
+        "size": 35,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "weapon damage": 5,
+          "critical hit damage": 2
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "All for One",
+    "type": "gear",
+    "exclusiveTo": [
+      "Concentrated Company"
+    ],
+    "description": "Increase max marks from 4 to 8.",
+    "stacks": [],
+    "bonus": {
+      "max marks": 8
+    }
+  },
+  {
+    "name": "Indirect Transmission",
+    "type": "gear",
+    "exclusiveTo": [
+      "Eclipse Protocol"
+    ],
+    "description": "On kill, spread status effects (10m) and refresh 50% duration.",
+    "stacks": [],
+    "bonus": {
+      "spread range": 10,
+      "duration refresh": 50
+    }
+  },
+  {
+    "name": "Proliferation",
+    "type": "gear",
+    "exclusiveTo": [
+      "Eclipse Protocol"
+    ],
+    "description": "Increases range to 15m and refresh percentage to 75%.",
+    "stacks": [],
+    "bonus": {
+      "spread range": 15,
+      "duration refresh": 75
+    }
+  },
+  {
+    "name": "Symptom Aggravator",
+    "type": "gear",
+    "exclusiveTo": [
+      "Eclipse Protocol"
+    ],
+    "description": "Amplifies damage to status affected targets by 30%.",
+    "stacks": [],
+    "bonus": {
+      "amplified damage": 30
+    }
+  },
+  {
+    "name": "Makeshift Repairs",
+    "type": "gear",
+    "exclusiveTo": [
+      "Foundry Bulwark"
+    ],
+    "description": "25% of damage taken is repaired over 10s.",
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "repair percentage": 25
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Process Refinery",
+    "type": "gear",
+    "exclusiveTo": [
+      "Foundry Bulwark"
+    ],
+    "description": "Increases Makeshift Repairs from 25% to 35%.",
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "repair percentage": 35
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Improved Materials",
+    "type": "gear",
+    "exclusiveTo": [
+      "Foundry Bulwark"
+    ],
+    "description": "Decreases repair time from 10s to 5s.",
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 5,
+        "cooldown": 0,
+        "bonus": {
+          "repair percentage": 25
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Ground Control",
+    "type": "gear",
+    "exclusiveTo": [
+      "Future Initiative"
+    ],
+    "description": "15% total damage when at full armor. Repair proximity allies for 60%.",
+    "stacks": [],
+    "bonus": {
+      "total damage": 15,
+      "proximity repair": 60
+    }
+  },
+  {
+    "name": "Tactical Superiority",
+    "type": "gear",
+    "exclusiveTo": [
+      "Future Initiative"
+    ],
+    "description": "Increases Ground Control damage bonus from 15% to 25%.",
+    "stacks": [],
+    "bonus": {
+      "total damage": 25
+    }
+  },
+  {
+    "name": "Advanced Combat Tactics",
+    "type": "gear",
+    "exclusiveTo": [
+      "Future Initiative"
+    ],
+    "description": "Increases Ground Control proximity repair from 60% to 120%.",
+    "stacks": [],
+    "bonus": {
+      "proximity repair": 120
+    }
+  },
+  {
+    "name": "Feedback Loop",
+    "type": "gear",
+    "exclusiveTo": [
+      "Hard Wired"
+    ],
+    "description": "Skill use/cancel reduces other cooldown by 30s. +10% skill damage/repair.",
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 20,
+        "cooldown": 10,
+        "bonus": {
+          "skill damage": 10,
+          "skill repair": 10
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Positive Reinforcement",
+    "type": "gear",
+    "exclusiveTo": [
+      "Hard Wired"
+    ],
+    "description": "Increases damage and repair bonus from +10% to +25%.",
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 20,
+        "cooldown": 10,
+        "bonus": {
+          "skill damage": 25,
+          "skill repair": 25
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Short Circuit",
+    "type": "gear",
+    "exclusiveTo": [
+      "Hard Wired"
+    ],
+    "description": "Decreases Feedback Loop cooldown from 10s to 5s.",
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 20,
+        "cooldown": 5,
+        "bonus": {
+          "skill damage": 10,
+          "skill repair": 10
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Heartstopper",
+    "type": "gear",
+    "exclusiveTo": [
+      "Heartbreaker"
+    ],
+    "description": "Hits on pulsed enemies add +1% bonus armor and +1.1% WD. Max 50.",
+    "stacks": [
+      {
+        "size": 50,
+        "duration": 5,
+        "cooldown": 0,
+        "bonus": {
+          "bonus armor": 1,
+          "weapon damage": 1.1
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Max BPM",
+    "type": "gear",
+    "exclusiveTo": [
+      "Heartbreaker"
+    ],
+    "description": "Max stack is now 100.",
+    "stacks": [
+      {
+        "size": 100,
+        "duration": 5,
+        "cooldown": 0,
+        "bonus": {
+          "bonus armor": 1,
+          "weapon damage": 1.1
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Cold",
+    "type": "gear",
+    "exclusiveTo": [
+      "Heartbreaker"
+    ],
+    "description": "Stacks now supply +2% bonus armor.",
+    "stacks": [
+      {
+        "size": 50,
+        "duration": 5,
+        "cooldown": 0,
+        "bonus": {
+          "bonus armor": 2,
+          "weapon damage": 1.1
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Headache",
+    "type": "gear",
+    "exclusiveTo": [
+      "Hotshot"
+    ],
+    "description": "Consecutive headshots grant damage, armor, and magazine refill.",
+    "stacks": [
+      {
+        "size": 3,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "next headshot": 20,
+          "armor": 10
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Stand Tall",
+    "type": "gear",
+    "exclusiveTo": [
+      "Hotshot"
+    ],
+    "description": "Increases bonus Armor from 50% to 100%.",
+    "stacks": [],
+    "bonus": {
+      "max bonus armor": 100
+    }
+  },
+  {
+    "name": "Lucky",
+    "type": "gear",
+    "exclusiveTo": [
+      "Hotshot"
+    ],
+    "description": "Agents can miss one headshot before resetting cycle.",
+    "stacks": [],
+    "bonus": {
+      "grace shots": 1
+    }
+  },
+  {
+    "name": "Apex Predator",
+    "type": "gear",
+    "exclusiveTo": [
+      "Hunter's Fury"
+    ],
+    "description": "20% amp damage within 15m. Kills stack 5% damage (Max 5).",
+    "stacks": [
+      {
+        "size": 5,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "amplified damage": 5
+        }
+      }
+    ],
+    "bonus": {
+      "debuff amp": 20
+    }
+  },
+  {
+    "name": "Endless Hunger",
+    "type": "gear",
+    "exclusiveTo": [
+      "Hunter's Fury"
+    ],
+    "description": "Increases stack duration from 10s to 30s.",
+    "stacks": [
+      {
+        "size": 5,
+        "duration": 30,
+        "cooldown": 0,
+        "bonus": {
+          "amplified damage": 5
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Overwhelming Force",
+    "type": "gear",
+    "exclusiveTo": [
+      "Hunter's Fury"
+    ],
+    "description": "Increases disorient radius on kill from 5m to 10m.",
+    "stacks": [],
+    "bonus": {
+      "disorient radius": 10
+    }
+  },
+  {
+    "name": "Huddle",
+    "type": "gear",
+    "exclusiveTo": [
+      "Measured Assembly"
+    ],
+    "description": "+1 skill tier per ally in Hive/Smart cover range. Overcharge at Tier 6.",
+    "stacks": [
+      {
+        "size": 4,
+        "duration": 15,
+        "cooldown": 40,
+        "bonus": {
+          "skill tier": 1
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Hivemind",
+    "type": "gear",
+    "exclusiveTo": [
+      "Measured Assembly"
+    ],
+    "description": "Decrease Overcharge cooldown from 40s to 25s.",
+    "stacks": [
+      {
+        "size": 4,
+        "duration": 15,
+        "cooldown": 25,
+        "bonus": {
+          "skill tier": 1
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Smart Cooperation",
+    "type": "gear",
+    "exclusiveTo": [
+      "Measured Assembly"
+    ],
+    "description": "Decrease skill destruction cooldown from 10s to 1s.",
+    "stacks": [],
+    "bonus": {
+      "destruction cooldown": 1
+    }
+  },
+  {
+    "name": "Crowd Control",
+    "type": "gear",
+    "exclusiveTo": [
+      "Negotiator's Dilemma"
+    ],
+    "description": "Crits mark targets (Max 3). 60% damage shared between marks.",
+    "stacks": [
+      {
+        "size": 20,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "critical hit damage": 2
+        }
+      }
+    ],
+    "bonus": {
+      "damage shared": 60
+    }
+  },
+  {
+    "name": "Target Rich Environment",
+    "type": "gear",
+    "exclusiveTo": [
+      "Negotiator's Dilemma"
+    ],
+    "description": "Increases mark count from 3 to 5.",
+    "stacks": [],
+    "bonus": {
+      "max marks": 5
+    }
+  },
+  {
+    "name": "Critical Measures",
+    "type": "gear",
+    "exclusiveTo": [
+      "Negotiator's Dilemma"
+    ],
+    "description": "Increases shared damage from 60% to 112%.",
+    "stacks": [],
+    "bonus": {
+      "damage shared": 112
+    }
+  },
+  {
+    "name": "Rules of Engagement",
+    "type": "gear",
+    "exclusiveTo": [
+      "Ongoing Directive"
+    ],
+    "description": "Kills on marked status enemies grant Hollow-Point ammo (+20% damage).",
+    "stacks": [],
+    "bonus": {
+      "amplified damage": 20
+    }
+  },
+  {
+    "name": "Parabellum Rounds",
+    "type": "gear",
+    "exclusiveTo": [
+      "Ongoing Directive"
+    ],
+    "description": "Increases Hollow-Point damage amplification to 50%.",
+    "stacks": [],
+    "bonus": {
+      "amplified damage": 50
+    }
+  },
+  {
+    "name": "Trauma Specialist",
+    "type": "gear",
+    "exclusiveTo": [
+      "Ongoing Directive"
+    ],
+    "description": "Increases bleed duration by 50% and damage by 100%.",
+    "stacks": [],
+    "bonus": {
+      "bleed duration": 50,
+      "bleed damage": 100
+    }
+  },
+  {
+    "name": "Ortiz Incinerator Turret Prototype",
+    "type": "gear",
+    "exclusiveTo": [
+      "Ortiz: Exuro"
+    ],
+    "description": "Turret spins 360 and explodes when disabled. Immune to own fire.",
+    "stacks": [],
+    "bonus": {
+      "turret spin": 360
+    }
+  },
+  {
+    "name": "Chain Combustion",
+    "type": "gear",
+    "exclusiveTo": [
+      "Ortiz: Exuro"
+    ],
+    "description": "Turret fire ignites other enemies within 2m.",
+    "stacks": [],
+    "bonus": {
+      "ignition radius": 2
+    }
+  },
+  {
+    "name": "Heatstroke",
+    "type": "gear",
+    "exclusiveTo": [
+      "Ortiz: Exuro"
+    ],
+    "description": "+25% WD to enemies on fire; +25% Turret Range.",
+    "stacks": [],
+    "bonus": {
+      "weapon damage": 25,
+      "turret range": 25
+    }
+  },
+  {
+    "name": "Return to Sender",
+    "type": "gear",
+    "exclusiveTo": [
+      "Refactor"
+    ],
+    "description": "Repairs 10% damage dealt by skills (Allies 20%).",
+    "stacks": [],
+    "bonus": {
+      "self repair": 10,
+      "ally repair": 20
+    }
+  },
+  {
+    "name": "Increased Interest",
+    "type": "gear",
+    "exclusiveTo": [
+      "Refactor"
+    ],
+    "description": "Increase repairs from 10/20% to 25/35%.",
+    "stacks": [],
+    "bonus": {
+      "self repair": 25,
+      "ally repair": 35
+    }
+  },
+  {
+    "name": "Over-engineered",
+    "type": "gear",
+    "exclusiveTo": [
+      "Refactor"
+    ],
+    "description": "Repairs provide Bonus Armor up to 80% total armor.",
+    "stacks": [],
+    "bonus": {
+      "bonus armor cap": 80
+    }
+  },
+  {
+    "name": "Tend and Befriend",
+    "type": "gear",
+    "exclusiveTo": [
+      "Rigger"
+    ],
+    "description": "Interacting with skills grants +25% skill damage for 10s.",
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "skill damage": 25
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Best Buds",
+    "type": "gear",
+    "exclusiveTo": [
+      "Rigger"
+    ],
+    "description": "Increase damage buff from 25% to 50%.",
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "skill damage": 50
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Complete Uptime",
+    "type": "gear",
+    "exclusiveTo": [
+      "Rigger"
+    ],
+    "description": "Cancelling skills resets their cooldown.",
+    "stacks": [],
+    "bonus": {
+      "reset cooldown on cancel": 1
+    }
+  },
+  {
+    "name": "Striker's Gamble",
+    "type": "gear",
+    "exclusiveTo": [
+      "Striker's Battlegear"
+    ],
+    "description": "Hits grant 0.65% total damage. Max 100.",
+    "stacks": [
+      {
+        "size": 100,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "total damage": 0.65
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Press the Advantage",
+    "type": "gear",
+    "exclusiveTo": [
+      "Striker's Battlegear"
+    ],
+    "description": "Increases max stacks from 100 to 200.",
+    "stacks": [
+      {
+        "size": 200,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "total damage": 0.65
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Risk Management",
+    "type": "gear",
+    "exclusiveTo": [
+      "Striker's Battlegear"
+    ],
+    "description": "Increases damage per stack from 0.65% to 0.9%.",
+    "stacks": [
+      {
+        "size": 100,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "total damage": 0.9
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Hackstep Protocol",
+    "type": "gear",
+    "exclusiveTo": [
+      "System Corruption"
+    ],
+    "description": "Instant: 50% bonus armor, 20% repair, up to 20% WD.",
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 5,
+        "cooldown": 20,
+        "bonus": {
+          "bonus armor": 50,
+          "repair": 20,
+          "weapon damage": 20
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Multithreaded Execution",
+    "type": "gear",
+    "exclusiveTo": [
+      "System Corruption"
+    ],
+    "description": "Increases bonus armor from 50% to 100%.",
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 5,
+        "cooldown": 20,
+        "bonus": {
+          "bonus armor": 100,
+          "repair": 20,
+          "weapon damage": 20
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Compiler Optimization",
+    "type": "gear",
+    "exclusiveTo": [
+      "System Corruption"
+    ],
+    "description": "Decreases cooldown from 20s to 15s.",
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 5,
+        "cooldown": 15,
+        "bonus": {
+          "bonus armor": 50,
+          "repair": 20,
+          "weapon damage": 20
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Aggressive Recon",
+    "type": "gear",
+    "exclusiveTo": [
+      "Tip of the Spear"
+    ],
+    "description": "Signature kill: 15% Sig Damage and 25% reload speed.",
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "signature damage": 15,
+          "reload speed": 25
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Specialized Destruction",
+    "type": "gear",
+    "exclusiveTo": [
+      "Tip of the Spear"
+    ],
+    "description": "Increase Sig Damage bonus to 30%.",
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "signature damage": 30
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Signature Moves",
+    "type": "gear",
+    "exclusiveTo": [
+      "Tip of the Spear"
+    ],
+    "description": "50% WD after depleting signature ammo.",
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 15,
+        "cooldown": 0,
+        "bonus": {
+          "weapon damage": 50
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Throttle Control",
+    "type": "gear",
+    "exclusiveTo": [
+      "Tipping Scales"
+    ],
+    "description": "Shooting builds stacks. +0.5% Handling and +4% CHD.",
+    "stacks": [
+      {
+        "size": 50,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "weapon handling": 0.5,
+          "critical hit damage": 4
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Sustainability",
+    "type": "gear",
+    "exclusiveTo": [
+      "Tipping Scales"
+    ],
+    "description": "Increase maximum stacks from 50 to 75.",
+    "stacks": [
+      {
+        "size": 75,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "weapon handling": 0.5,
+          "critical hit damage": 4
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Snowball",
+    "type": "gear",
+    "exclusiveTo": [
+      "Tipping Scales"
+    ],
+    "description": "Increase CHD per stack from 4% to 7%.",
+    "stacks": [
+      {
+        "size": 50,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "weapon handling": 0.5,
+          "critical hit damage": 7
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Red, White and Blue",
+    "type": "gear",
+    "exclusiveTo": [
+      "True Patriot"
+    ],
+    "description": "Shooting cycles debuffs. Red (8% Amp), White (2% Armor), Blue (8% Reduction).",
+    "stacks": [],
+    "bonus": {
+      "amplified damage": 8,
+      "armor repair": 2,
+      "damage reduction": 8
+    }
+  },
+  {
+    "name": "Waving the Flag",
+    "type": "gear",
+    "exclusiveTo": [
+      "True Patriot"
+    ],
+    "description": "Increases debuff rotation speed to 1.5s.",
+    "stacks": [],
+    "bonus": {
+      "rotation speed": 1.5
+    }
+  },
+  {
+    "name": "Patriotic Boost",
+    "type": "gear",
+    "exclusiveTo": [
+      "True Patriot"
+    ],
+    "description": "Increases debuff strength (12% Amp/Reduction, 3% Repair).",
+    "stacks": [],
+    "bonus": {
+      "amplified damage": 12,
+      "armor repair": 3,
+      "damage reduction": 12
+    }
+  },
+  {
+    "name": "From the Shadows Into the Light",
+    "type": "gear",
+    "exclusiveTo": [
+      "Umbra Initiative"
+    ],
+    "description": "Stacks grant Armor Regen (in cover) or Crit Damage/RPM (out of cover).",
+    "stacks": [
+      {
+        "size": 50,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "armor regen": 0.8,
+          "critical damage": 1.2,
+          "rpm": 0.4
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "From the Shadows",
+    "type": "gear",
+    "exclusiveTo": [
+      "Umbra Initiative"
+    ],
+    "description": "Increases Max stacks (damage) from 50 to 100 and gain speed.",
+    "stacks": [
+      {
+        "size": 100,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "critical damage": 1.2,
+          "rpm": 0.4
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Into the Light",
+    "type": "gear",
+    "exclusiveTo": [
+      "Umbra Initiative"
+    ],
+    "description": "Increases Max stacks (armor regen) from 50 to 100 and gain speed.",
+    "stacks": [
+      {
+        "size": 100,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "armor regen": 0.8
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Symphony",
+    "type": "gear",
+    "exclusiveTo": [
+      "Virtuoso"
+    ],
+    "description": "Kill at ranges to build stacks. At 4 stacks, multi-bonus x1.5 for 15s.",
+    "stacks": [
+      {
+        "size": 4,
+        "duration": 15,
+        "cooldown": 0,
+        "bonus": {
+          "bonus multiplier": 1.5
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Fortissimo",
+    "type": "gear",
+    "exclusiveTo": [
+      "Virtuoso"
+    ],
+    "description": "Double the weapon dmg bonus from Symphony.",
+    "stacks": [
+      {
+        "size": 4,
+        "duration": 15,
+        "cooldown": 0,
+        "bonus": {
+          "bonus multiplier": 2
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Accelerando",
+    "type": "gear",
+    "exclusiveTo": [
+      "Virtuoso"
+    ],
+    "description": "Decreases number of stacks needed for Symphony from 4 to 3.",
+    "stacks": [
+      {
+        "size": 3,
+        "duration": 15,
+        "cooldown": 0,
+        "bonus": {
+          "bonus multiplier": 1.5
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfect Bloodsucker",
+    "type": "gear",
+    "description": "Killing an enemy adds and refreshes a stack of +12% bonus armor for 10s. Max stack is 10.",
+    "exclusiveTo": [
+      "Liquid Engineer"
+    ],
+    "stacks": [
+      {
+        "size": 10,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "bonus armor": 12
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfect Overclock",
+    "type": "gear",
+    "description": "You and allies within 15m of your deployed skills gain +30% reload speed and reduces active cooldowns by 0.6s each second.",
+    "exclusiveTo": [
+      "Hermano"
+    ],
+    "stacks": [],
+    "bonus": {
+      "reload speed": 30,
+      "active cooldown reduction": 0.6
+    }
+  },
+  {
+    "name": "Perfect Creeping Death",
+    "type": "gear",
+    "description": "When you apply a status effect, it is also applied to all enemies within 10m of your target.",
+    "exclusiveTo": [
+      "The Courier"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 0,
+        "cooldown": 10,
+        "bonus": {
+          "status effect spread": 1
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfectly Unstoppable Force",
+    "type": "gear",
+    "description": "Killing an enemy increases total weapon damage by 7% for 15s. Stacks up to 5. Grenade kills add 2 stacks.",
+    "exclusiveTo": [
+      "Backbone"
+    ],
+    "stacks": [
+      {
+        "size": 5,
+        "duration": 15,
+        "cooldown": 0,
+        "bonus": {
+          "total weapon damage": 7
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfectly Wicked",
+    "type": "gear",
+    "description": "Applying a status effect increases total weapon damage by 18% for 27s.",
+    "exclusiveTo": [
+      "Anarchist's Cookbook"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 27,
+        "cooldown": 0,
+        "bonus": {
+          "total weapon damage": 18
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfect Shock and Awe",
+    "type": "gear",
+    "description": "Applying a status effect to an enemy increases total skill damage and repair by 20% for 27s.",
+    "exclusiveTo": [
+      "Strategic Alignment"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 27,
+        "cooldown": 0,
+        "bonus": {
+          "total skill damage": 20,
+          "total skill repair": 20
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfect Galvanize",
+    "type": "gear",
+    "description": "Applying Blind, Ensnare, Confuse, or Shock to an enemy grants 50% of your armor as bonus armor to you and allies within 30m for 10s.",
+    "exclusiveTo": [
+      "Lavoisier"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "bonus armor": 50
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfect Adrenaline Rush",
+    "type": "gear",
+    "description": "When you are within 10m of an enemy, gain 23% bonus armor for 5s. Stacks up to 3 times.",
+    "exclusiveTo": [
+      "Matador"
+    ],
+    "stacks": [
+      {
+        "size": 3,
+        "duration": 5,
+        "cooldown": 5,
+        "bonus": {
+          "bonus armor": 23
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfect Vigilance",
+    "type": "gear",
+    "description": "Increases total weapon damage by 25%. Taking damage disables buff for 3s.",
+    "exclusiveTo": [
+      "The Gift"
+    ],
+    "stacks": [],
+    "bonus": {
+      "total weapon damage": 25,
+      "disable on hit duration": 3
+    }
+  },
+  {
+    "name": "Perfect Tech Support",
+    "type": "gear",
+    "description": "Skill kills increase total skill damage by 25% for 27s.",
+    "exclusiveTo": [
+      "Percussive Maintenance"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 27,
+        "cooldown": 0,
+        "bonus": {
+          "total skill damage": 25
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfect Versatile",
+    "type": "gear",
+    "description": "Amplifies total weapon damage for 10s when swapping weapons. 45% for Shotguns/SMGs (15m) or Rifles/MMRs (25m). 20% for LMGs/ARs.",
+    "exclusiveTo": [
+      "Vigil"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 10,
+        "cooldown": 5,
+        "bonus": {
+          "amplified damage": 45
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfect Clutch",
+    "type": "gear",
+    "description": "Below 20% armor, crits repair 2.5% missing armor. On kill, crits repair for 4-10s based on Red cores.",
+    "exclusiveTo": [
+      "Devil's Due"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 4,
+        "cooldown": 0,
+        "bonus": {
+          "armor repair": 2.5
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfectly Calculated",
+    "type": "gear",
+    "description": "Kills from cover reduce skill cooldowns by 15%.",
+    "exclusiveTo": [
+      "Battery Pack"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "cooldown reduction": 15
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfectly Opportunistic",
+    "type": "gear",
+    "description": "Enemies hit with shotguns/MMRs take 15% amplified damage from all sources for 5s.",
+    "exclusiveTo": [
+      "The Setup"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 5,
+        "cooldown": 0,
+        "bonus": {
+          "amplified damage taken": 15
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfect Combined Arms",
+    "type": "gear",
+    "description": "Shooting an enemy increases total skill damage by 30% for 3s.",
+    "exclusiveTo": [
+      "Force Multiplier"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 3,
+        "cooldown": 0,
+        "bonus": {
+          "total skill damage": 30
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfectly Tamper Proof",
+    "type": "gear",
+    "description": "Enemies within 3m of specific skills are shocked. Cooldown per skill: 8s.",
+    "exclusiveTo": [
+      "Proxy"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 0,
+        "cooldown": 8,
+        "bonus": {
+          "shock": 1
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfect Energize",
+    "type": "gear",
+    "description": "Using an armor kit grants +1 Skill Tier for 15s. Grants Overcharge if at Tier 6.",
+    "exclusiveTo": [
+      "Axel"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 15,
+        "cooldown": 30,
+        "bonus": {
+          "skill tier": 1
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfect Leadership",
+    "type": "gear",
+    "description": "Cover to cover grants 20% bonus armor (60% if near enemy) for 10s.",
+    "exclusiveTo": [
+      "Cap'n"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 10,
+        "cooldown": 10,
+        "bonus": {
+          "bonus armor": 20
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Fireworks Show",
+    "type": "gear",
+    "description": "Concussion grenades become Festive Grenades. Hitting an enemy causes explosions around two others within 20m.",
+    "exclusiveTo": [
+      "Festive Delivery"
+    ],
+    "stacks": [],
+    "bonus": {
+      "festive explosions": 2
+    }
+  },
+  {
+    "name": "Perfect Companion",
+    "type": "gear",
+    "description": "Within 10m of ally/skill, total weapon damage is increased by 20%.",
+    "exclusiveTo": [
+      "Henri"
+    ],
+    "stacks": [],
+    "bonus": {
+      "total weapon damage": 20
+    }
+  },
+  {
+    "name": "Perfect Intimidate",
+    "type": "gear",
+    "description": "While holding bonus armor, gain 3 stacks per second (Max 10). Each increases WD by 4% within 10m.",
+    "exclusiveTo": [
+      "Hunter-Killer"
+    ],
+    "stacks": [
+      {
+        "size": 10,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "total weapon damage": 4
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfectly Efficient",
+    "type": "gear",
+    "description": "75% chance to not consume armor kit. Spec kit bonuses increased 100%.",
+    "exclusiveTo": [
+      "Everyday Carrier"
+    ],
+    "stacks": [],
+    "bonus": {
+      "kit preserve chance": 75,
+      "spec kit efficiency": 100
+    }
+  },
+  {
+    "name": "Perfect Headhunter",
+    "type": "gear",
+    "description": "Headshot kill grants next hit bonus damage equal to 150% of the killing blow for 30s. Cap 800-1250%.",
+    "exclusiveTo": [
+      "Chainkiller"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 30,
+        "cooldown": 0,
+        "bonus": {
+          "headshot damage cap": 1250
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfect Vanguard",
+    "type": "gear",
+    "description": "Deploying shield makes it invulnerable for 5s and grants 50% armor as bonus armor to allies for 20s.",
+    "exclusiveTo": [
+      "Pointman"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 20,
+        "cooldown": 25,
+        "bonus": {
+          "bonus armor": 50,
+          "invulnerability": 5
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfect Braced",
+    "type": "gear",
+    "description": "While in cover weapon handling is increased by +50%.",
+    "exclusiveTo": [
+      "Vedmedytsya Vest"
+    ],
+    "stacks": [],
+    "bonus": {
+      "weapon handling": 50
+    }
+  },
+  {
+    "name": "Perfect Glass Cannon",
+    "type": "gear",
+    "description": "All damage dealt amplified by 30%. All damage taken amplified by 60%.",
+    "exclusiveTo": [
+      "The Sacrifice"
+    ],
+    "stacks": [],
+    "bonus": {
+      "amplified damage dealt": 30,
+      "amplified damage taken": 60
+    }
+  },
+  {
+    "name": "Perfect Unbreakable",
+    "type": "gear",
+    "description": "When armor is depleted, repair 100% of armor.",
+    "exclusiveTo": [
+      "Zero F’s"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 0,
+        "cooldown": 55,
+        "bonus": {
+          "armor repair": 100
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfect Overwatch",
+    "type": "gear",
+    "description": "After 8s in cover, increase ally WD and skill damage by 14%.",
+    "exclusiveTo": [
+      "Ferocious Calm"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "total weapon damage": 14,
+          "total skill damage": 14
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfect Spark",
+    "type": "gear",
+    "description": "Damaging an enemy with a skill increases total weapon damage by 18% for 20s.",
+    "exclusiveTo": [
+      "Door-Kicker’s Knock"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 20,
+        "cooldown": 0,
+        "bonus": {
+          "total weapon damage": 18
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfectly Skilled",
+    "type": "gear",
+    "description": "Skill kills have a 30% chance to reset skill cooldowns.",
+    "exclusiveTo": [
+      "Caesar's Guard"
+    ],
+    "stacks": [],
+    "bonus": {
+      "reset chance": 30
+    }
+  },
+  {
+    "name": "Perfect Spotter",
+    "type": "gear",
+    "description": "Amplifies total weapon and skill damage by 20% to pulsed enemies.",
+    "exclusiveTo": [
+      "Closer"
+    ],
+    "stacks": [],
+    "bonus": {
+      "amplified damage": 20
+    }
+  },
+  {
+    "name": "Perfect Trauma",
+    "type": "gear",
+    "description": "Blind on headshot, bleed on chest hit. Cooldown 20s.",
+    "exclusiveTo": [
+      "Cherished"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 0,
+        "cooldown": 20,
+        "bonus": {
+          "status effect": 1
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfectly Mad Bomber",
+    "type": "gear",
+    "description": "Grenade radius +75%. Refund on kill. Can be cooked. 15% bonus armor while aiming.",
+    "exclusiveTo": [
+      "Carpenter"
+    ],
+    "stacks": [],
+    "bonus": {
+      "grenade radius": 75,
+      "bonus armor": 15
+    }
+  },
+  {
+    "name": "Perfect Entrench",
+    "type": "gear",
+    "description": "Below 30% armor, headshots from cover repair 30% armor. Cooldown 2s.",
+    "exclusiveTo": [
+      "Bober"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 0,
+        "cooldown": 2,
+        "bonus": {
+          "armor repair": 30
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfect Focus",
+    "type": "gear",
+    "description": "Increases total weapon damage by 6% every second while aiming (8x scope+), up to 60%.",
+    "exclusiveTo": [
+      "Pristine Example"
+    ],
+    "stacks": [
+      {
+        "size": 10,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "total weapon damage": 6
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfect Protected Reload",
+    "type": "gear",
+    "description": "+40% bonus armor while reloading. Grants up to 30% armor to allies based on Blue cores.",
+    "exclusiveTo": [
+      "Sleight"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "bonus armor": 40
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfectly Explosive Delivery",
+    "type": "gear",
+    "description": "Thrown skills explode 1.5s after landing (5m). Explosions repeat every 5s.",
+    "exclusiveTo": [
+      "Combustor"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 0,
+        "cooldown": 5,
+        "bonus": {
+          "explosion damage": 100
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Perfect Obliterate",
+    "type": "gear",
+    "description": "Critical hits increase total weapon damage by 1% for 10s. Stacks up to 24 times.",
+    "exclusiveTo": [
+      "Equalizer"
+    ],
+    "stacks": [
+      {
+        "size": 24,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "total weapon damage": 1
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Flurry",
+    "type": "gear",
+    "description": "Status effects apply snowfall to target.",
+    "exclusiveTo": [
+      "Snow Machine"
+    ],
+    "stacks": [],
+    "bonus": {
+      "snowfall application": 1
+    }
+  },
+  {
+    "name": "Bewildered",
+    "type": "gear",
+    "description": "When dealing Weapon Damage to an enemy, 50% of the damage will be dealt to another enemy within 30m instead. When there are no enemies nearby, deal damage normally. Does not apply to Armor Plates.",
+    "exclusiveTo": [
+      "Turmoil"
+    ],
+    "stacks": [],
+    "bonus": {
+      "damage transfer percentage": 50,
+      "transfer range": 30
+    }
+  },
+  {
+    "name": "Toxic Delivery",
+    "type": "gear",
+    "description": "Status effects also apply a damage over time debuff for 10s. Total Damage dealt is equal to 50% of your concussion grenade damage and increased by your status effect attributes.",
+    "exclusiveTo": [
+      "Vile"
+    ],
+    "stacks": [],
+    "bonus": {
+      "dot_percentage": 50,
+      "duration": 10
+    }
+  },
+  {
+    "name": "Vicious Cycle",
+    "type": "gear",
+    "description": "Taking damage builds stacks to a cap of 30. Each stack grants 1.5% Weapon Damage. Taking damage at max stacks triggers a purge, removing status effects and dropping a healing cloud (5% Max Armor for 10s).",
+    "exclusiveTo": [
+      "Catharsis"
+    ],
+    "stacks": [
+      {
+        "size": 30,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "weapon damage": 1.5
+        }
+      }
+    ],
+    "bonus": {
+      "healing_cloud_armor": 5
+    }
+  },
+  {
+    "name": "Pack Instincts",
+    "type": "gear",
+    "description": "Bonus based on distance of the last enemy hit. 0-15m: +25% CHD; 15-25m: +10% CHC and +10% CHD; 25m+: +25% CHC.",
+    "exclusiveTo": [
+      "Coyote’s Mask"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "critical hit chance": 25,
+          "critical hit damage": 25
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Catalysis",
+    "type": "gear",
+    "description": "Dealing/receiving status effects builds stacks (Max 12). Each stack grants +2% WD and +2% Status Effects. Stacks decay if no enemies nearby.",
+    "exclusiveTo": [
+      "Catalyst"
+    ],
+    "stacks": [
+      {
+        "size": 12,
+        "duration": 5,
+        "cooldown": 0,
+        "bonus": {
+          "weapon damage": 2,
+          "status effects": 2
+        }
+      }
+    ],
+    "bonus": {
+      "max_stack_bonus_armor": 25,
+      "max_stack_reload_speed": 20
+    }
+  },
+  {
+    "name": "Abridged",
+    "type": "gear",
+    "description": "If Primary and Secondary are non-exotic/named and same type, Secondary talent applies to Primary. No swap talents.",
+    "exclusiveTo": [
+      "Tinkerer"
+    ],
+    "stacks": [],
+    "bonus": {
+      "talent_sharing": 1
+    }
+  },
+  {
+    "name": "One in the Hand...",
+    "type": "gear",
+    "description": "Throwing a grenade refunds it and grants +1 skill tier (or Overcharge) for 15s. Cooldown: 60s.",
+    "exclusiveTo": [
+      "Acosta's Go-Bag"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 15,
+        "cooldown": 60,
+        "bonus": {
+          "skill tier": 1
+        }
+      }
+    ],
+    "bonus": {
+      "armor_kit_capacity": 1,
+      "grenade_capacity": 3,
+      "ammo_capacity": 25,
+      "repair_skills": 10,
+      "status_effects": 10
+    }
+  },
+  {
+    "name": "Combat Medic",
+    "type": "gear",
+    "description": "Revive speed +80%. Provides 50% damage resistance during revive. Successful revives provide +1 Skill Tier for 5s (Overcharge for 15s at Tier 6).",
+    "exclusiveTo": [
+      "Birdie's Quick Fix Pack"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 5,
+        "cooldown": 0,
+        "bonus": {
+          "skill tier": 1,
+          "damage resistance": 50
+        }
+      }
+    ],
+    "bonus": {
+      "revive_speed": 80,
+      "hive_efficiency": 45,
+      "weakened_debuff_reduction": 50
+    }
+  },
+  {
+    "name": "Kill Confirmed",
+    "type": "gear",
+    "description": "Kills drop trophies. Short term (10s): 5% WD (Red), 10% Bonus Armor (Blue), 5% Skill Eff (Yellow). Long term (300s): +1% WD, +1% Skill Eff, +0.1% Regen per trophy. Max 30.",
+    "exclusiveTo": [
+      "Memento"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "weapon damage": 5,
+          "bonus armor": 10,
+          "skill efficiency": 5
+        }
+      },
+      {
+        "size": 30,
+        "duration": 300,
+        "cooldown": 0,
+        "bonus": {
+          "weapon damage": 1,
+          "skill efficiency": 1,
+          "armor regeneration": 0.1
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Resourceful",
+    "type": "gear",
+    "description": "Fulfills requirements for unlocking Gear/Brand set bonuses. Can unlock multiple sets simultaneously.",
+    "exclusiveTo": [
+      "NinjaBike Messenger Backpack"
+    ],
+    "stacks": [],
+    "bonus": {
+      "set_requirement_reduction": 1
+    }
+  },
+  {
+    "name": "Hoarder",
+    "type": "gear",
+    "description": "+50% Grenade Radius, +35% Damage. Extra +25% damage per enemy caught. Regenerate grenades every 30s.",
+    "exclusiveTo": [
+      "Collector"
+    ],
+    "stacks": [
+      {
+        "size": 4,
+        "duration": 0,
+        "cooldown": 30,
+        "bonus": {
+          "grenade damage": 25
+        }
+      }
+    ],
+    "bonus": {
+      "grenade_capacity": 3,
+      "grenade_radius": 50,
+      "grenade_damage_base": 35
+    }
+  },
+  {
+    "name": "Bond",
+    "type": "gear",
+    "description": "Allies within 10m: +30% CHD, +15% Skill Eff, +2% Armor Regen. Skill within 10m: half bonus. Highest active.",
+    "exclusiveTo": [
+      "Beacon"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "critical hit damage": 30,
+          "skill efficiency": 15,
+          "armor regeneration": 2
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Ablative Nano-Plating",
+    "type": "gear",
+    "description": "On armor break, ally gains 80% of your armor as bonus armor for 10s. Cooldown removed on specialization kill.",
+    "exclusiveTo": [
+      "Tardigrade Armor System"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 10,
+        "cooldown": 45,
+        "bonus": {
+          "bonus armor": 80
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Bleeding Edge",
+    "type": "gear",
+    "description": "Hits within 15m apply bleed. Repair 3-48% armor per second based on number of bleeding enemies (up to 5) within 15m.",
+    "exclusiveTo": [
+      "Ridgeway's Pride"
+    ],
+    "stacks": [
+      {
+        "size": 5,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "armor repair": 9.6
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Over the top",
+    "type": "gear",
+    "description": "Grenade damage or melee activates Seeing Red: +25% total weapon damage and +100% melee damage for 20s. Cooldown: 60s (reset on melee/grenade).",
+    "exclusiveTo": [
+      "Bloody Knuckles"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 20,
+        "cooldown": 60,
+        "bonus": {
+          "total weapon damage": 25,
+          "melee damage": 100
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Transference Overclock",
+    "type": "gear",
+    "description": "15% Hive haste per tier. Detonating hive refreshes skill cooldowns and grants Overcharge for 15s. Ally cooldown: 120s.",
+    "exclusiveTo": [
+      "BTSU Datagloves"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 15,
+        "cooldown": 120,
+        "bonus": {
+          "overcharge": 1
+        }
+      }
+    ],
+    "bonus": {
+      "hive_haste_per_tier": 15
+    }
+  },
+  {
+    "name": "Weakest Link",
+    "type": "gear",
+    "description": "Amplifies Weapon Damage by 30% to the lowest ranking enemies (Tier 3).",
+    "exclusiveTo": [
+      "Overdogs"
+    ],
+    "stacks": [],
+    "bonus": {
+      "amplified weapon damage": 30
+    }
+  },
+  {
+    "name": "Counter",
+    "type": "gear",
+    "description": "Swapping weapons cycles bonuses: 1. +20% RoF/WD; 2. +50% Mag/Reload. Active for 12s.",
+    "exclusiveTo": [
+      "Centurion Scabbard"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 12,
+        "cooldown": 0,
+        "bonus": {
+          "rate of fire": 20,
+          "weapon damage": 20
+        }
+      },
+      {
+        "size": 1,
+        "duration": 12,
+        "cooldown": 0,
+        "bonus": {
+          "magazine size": 50,
+          "reload speed": 50
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Quick Draw",
+    "type": "gear",
+    "description": "Pistol holstered: gain stack every 0.3s (Max 100). Next shot deals +10% damage per stack and headshot damage.",
+    "exclusiveTo": [
+      "Gunslinger's Holster"
+    ],
+    "stacks": [
+      {
+        "size": 100,
+        "duration": 0,
+        "cooldown": 0,
+        "bonus": {
+          "weapon damage": 10
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Defibrillator",
+    "type": "gear",
+    "description": "Shock stun reduced 50%. Shield melee +100%. Melee with St. Elmo's applies shock (5m radius with full set). Cooldown: 15s.",
+    "exclusiveTo": [
+      "Shocker Punch"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 0,
+        "cooldown": 15,
+        "bonus": {
+          "melee damage": 100,
+          "shock radius": 5
+        }
+      }
+    ],
+    "bonus": {
+      "shock_resistance": 50
+    }
+  },
+  {
+    "name": "Alternating Current",
+    "type": "gear",
+    "description": "Gain 3% skill damage per second on one skill (Max 10). After 10s at cap, stacks transfer to other skill.",
+    "exclusiveTo": [
+      "Waveform"
+    ],
+    "stacks": [
+      {
+        "size": 10,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "skill damage": 3
+        }
+      }
+    ],
+    "bonus": {}
+  },
+  {
+    "name": "Stand Your Ground",
+    "type": "gear",
+    "description": "Explosion immunity. +3% total weapon damage per second stationary (Max 10). Stacks lost 10s after moving.",
+    "exclusiveTo": [
+      "Sawyer's Kneepads"
+    ],
+    "stacks": [
+      {
+        "size": 10,
+        "duration": 10,
+        "cooldown": 0,
+        "bonus": {
+          "total weapon damage": 3
+        }
+      }
+    ],
+    "bonus": {
+      "explosion_stagger_immunity": 1
+    }
+  },
+  {
+    "name": "Escape Plan",
+    "type": "gear",
+    "description": "Vaulting/Stationary/Status Effect grant 10-20% movement speed. 50% movement impairment reduction.",
+    "exclusiveTo": [
+      "Acosta Kneepads"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 5,
+        "cooldown": 0,
+        "bonus": {
+          "movement speed": 20
+        }
+      }
+    ],
+    "bonus": {
+      "movement_impairment_resistance": 50
+    }
+  },
+  {
+    "name": "Ostracize",
+    "type": "gear",
+    "description": "Marked enemy deals 600% amp damage to you. You deal 20% amp damage to unmarked enemies.",
+    "exclusiveTo": [
+      "Blacklisters"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 15,
+        "cooldown": 0,
+        "bonus": {
+          "amplified damage taken": 600
+        }
+      }
+    ],
+    "bonus": {
+      "amplified damage dealt": 20
+    }
+  },
+  {
+    "name": "Parkour!",
+    "type": "gear",
+    "description": "Cover-to-cover or vaulting reloads weapon and grants 25% bonus armor for 5s.",
+    "exclusiveTo": [
+      "NinjaBike Messenger Kneepads"
+    ],
+    "stacks": [
+      {
+        "size": 1,
+        "duration": 5,
+        "cooldown": 0,
+        "bonus": {
+          "bonus armor": 25,
+          "auto_reload": 1
+        }
+      }
+    ],
+    "bonus": {}
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "damage to armor": 6,
+  "critical hit chance": 9.5,
+  "health damage": 9.5,
+  "dmg to target out of cover": 10,
+  "headshot damage": 10,
+  "critical hit damage": 10,
+  "reload speed": 12,
+  "stability": 12,
+  "accuracy": 12,
+  "optimal range": 24,
+  "mag size": 12.5,
+  "rate of fire": 5,
+  "swap speed": 15
+}

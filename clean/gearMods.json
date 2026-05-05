@@ -1,0 +1,13 @@
+[
+  { "classification": "offensive", "attribute": "critical hit chance", "max": "6" },
+  { "classification": "offensive", "attribute": "critical hit damage", "max": "12" },
+  { "classification": "offensive", "attribute": "headshot damage", "max": "10" },
+  { "classification": "defensive", "attribute": "protection from elites", "max": "13" },
+  { "classification": "defensive", "attribute": "armor on kill", "max": "18935" },
+  { "classification": "defensive", "attribute": "status effect resistance", "max": "10" },
+  { "classification": "defensive", "attribute": "pulse resistance", "max": "10" },
+  { "classification": "defensive", "attribute": "incoming repairs", "max": "20" },
+  { "classification": "skill", "attribute": "skill haste", "max": "12" },
+  { "classification": "skill", "attribute": "skill duration", "max": "10" },
+  { "classification": "skill", "attribute": "repair skills", "max": "20" }
+]
