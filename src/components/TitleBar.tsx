@@ -45,7 +45,7 @@ function TitleBar({ onLoadData }: TitleBarProps) {
         <div className="action-buttons">
           <a
             className="icon-button"
-            href="https://github.com/MikeRee/division2_meta_workbench"
+            href="https://github.com/olytechy/division2_meta_workbench"
             target="_blank"
             rel="noopener noreferrer"
             title="GitHub Repository"
